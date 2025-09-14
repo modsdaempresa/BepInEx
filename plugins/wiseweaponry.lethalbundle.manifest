@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 3737874168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5948340c98f27d93b31b6dd1f2011a4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66a64b0c325dea8f448a3e132a8ee613
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5948340c98f27d93b31b6dd1f2011a4f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7b430c469db0421764b70ff9c06bc0d, type: 3}
+- Class: 114
+  Script: {fileID: -1787465788, guid: 00646867fbfbb944dac1d75d4bcac123, type: 3}
+- Class: 114
+  Script: {fileID: -194780425, guid: 00646867fbfbb944dac1d75d4bcac123, type: 3}
+- Class: 114
+  Script: {fileID: 2024385392, guid: 00646867fbfbb944dac1d75d4bcac123, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c36d0a92cbb1f26a39169ef0eae393a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Battery
+- AssemblyName: LethalLevelLoader
+  ClassName: LethalLevelLoader.StringWithRarity
+Assets:
+- Assets/LethalCompany/Mods/WiseWeaponry/MetalPipe/Pipe.prefab
+- Assets/LethalCompany/Mods/WiseWeaponry/MetalPipe/MetalPipeLMP.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/Axe/axe.prefab
+- Assets/LethalCompany/Mods/WiseWeaponry/BloodyAxe/BloodyAxe.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/MetalPipe/MetalPipe.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/BloodyAxe/Materials/bloodaxe.mat
+- Assets/LethalCompany/Mods/WiseWeaponry/BloodyAxe/BloodyAxe.prefab
+- Assets/LethalCompany/Mods/WiseWeaponry/MetalPipe/Metal.mat
+- Assets/LethalCompany/Mods/WiseWeaponry/Crowbar/CrowbarEXT.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/Crowbar/CrowbarLMP.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/Axe/Axe.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/Axe/axe.obj
+- Assets/LethalCompany/Mods/WiseWeaponry/Crowbar/Crowbar.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/WiseWeaponry.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/BloodyAxe/BloodyAxeEXT.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/MetalPipe/MetalPipeXT.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/Axe/axehit.ogg
+- Assets/LethalCompany/Mods/WiseWeaponry/Axe/Materials/axe_Axe_BaseColor.mat
+- Assets/LethalCompany/Mods/WiseWeaponry/BloodyAxe/bloodaxe.png
+- Assets/LethalCompany/Mods/WiseWeaponry/MetalPipe/THESOUND.ogg
+- Assets/LethalCompany/Mods/WiseWeaponry/BloodyAxe/BloodyAxeLMP.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/Axe/AxeEXT.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/Crowbar/Crowbar.prefab
+- Assets/LethalCompany/Mods/WiseWeaponry/Crowbar/Crowbar.fbx
+- Assets/LethalCompany/Mods/WiseWeaponry/Axe/AxeLMP.asset
+- Assets/LethalCompany/Mods/WiseWeaponry/MetalPipe/pipe.fbx
+- Assets/LethalCompany/Mods/WiseWeaponry/Crowbar/CrowbarItem.prefab
+- Assets/LethalCompany/Mods/WiseWeaponry/Axe/axe_Axe_BaseColor.png
+- Assets/LethalCompany/Mods/WiseWeaponry/Axe/Materials/axeColor.mat
+Dependencies: []

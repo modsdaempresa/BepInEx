@@ -1,0 +1,1090 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (6/1/2025 4:27:53 PM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [0.com.github.MonoDetour.BepInEx.5 0.6.16.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInExFasterLoadAssetBundles 1.0.1.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [FixPluginTypesSerialization 1.0.0.0]
+[Info   :   BepInEx] 5 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :FixPluginTypesSerialization] Running under Unity v2022.3.9
+[Info   :FixPluginTypesSerialization] Found offsets for current version, using them.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 86 plugins to load
+[Info   :   BepInEx] Loading [LCMaxSoundsFix 1.2.0]
+[Info   :LCMaxSoundsFix] Plugin LCMaxSoundsFix is loaded!
+[Info   :LCMaxSoundsFix] Audio settings (numRealVoices=128; numVirtualVoices=1024) are applied.
+[Info   :   BepInEx] Loading [JigglePhysicsPlugin 1.1.2]
+[Info   :JigglePhysicsPlugin] JigglePhysicsPlugin loaded!
+[Info   :   BepInEx] Loading [AdditionalContentFramework 1.0.3]
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - initializing...
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - initialized!
+[Info   :   BepInEx] Loading [LethalConfig 1.4.6]
+[Info   :ainavt.lc.lethalconfig] LethalConfig loaded!
+[Info   :   BepInEx] Loading [EnemySkinRegistry 1.4.6]
+[Info   :   BepInEx] Loading [Vanilla Enemy Skin Kit 1.4.1]
+[Info   :   BepInEx] Loading [Later Nights 1.0.0]
+[Info   :Later Nights] Later Nights mod loaded
+[Info   :   BepInEx] Loading [Starlancer AI Fix 3.11.1]
+[Info   :Starlancer AI Fix] Starlancer AI Fix Online.
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.7.10]
+[Info   :Lethal Company Input Utils] Registered InputUtilsExtendedMouse Layout Override!
+[Info   :Lethal Company Input Utils] InputUtils 0.7.10 has finished loading!
+[Info   :   BepInEx] Loading [RuntimeNetcodeRPCValidator 0.2.5]
+[Info   :   BepInEx] Loading [BetterEmotes 1.5.4]
+[Info   :BetterEmotes] BetterEmotes loading...
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SignEmoteText.
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SyncAnimatorToOthers.
+[Info   :RuntimeNetcodeRPCValidator] Patched 2 ServerRPCs & 2 ClientRPCs on NetworkBehaviour SyncVRState.
+[Info   :RuntimeNetcodeRPCValidator] Successfully registered first patch for type PlayerControllerB.Awake | Triggered by BetterEmotes
+[Info   :BetterEmotes] BetterEmotes loaded
+[Info   :   BepInEx] Loading [Barber Fixes 1.3.0]
+[Info   :Barber Fixes] Barber Fixes v1.3.0 loaded
+[Info   :   BepInEx] Loading [Classic Suit Restoration 2.1.3]
+[Info   :Classic Suit Restoration] Classic Suit Restoration v2.1.3 loaded
+[Info   :   BepInEx] Loading [Melee Fixes 1.4.1]
+[Info   :Melee Fixes] Melee Fixes v1.4.1 loaded
+[Info   :   BepInEx] Loading [Upturned Variety 2.1.0]
+[Info   :Upturned Variety] Upturned Variety v2.1.0 loaded
+[Info   :   BepInEx] Loading [LethalLib 1.1.1]
+[Info   : LethalLib] LethalLib loaded!!
+[Info   :   BepInEx] Loading [SirenHead 2.0.3]
+[Info   : SirenHead] Registered spawn rate for level type VowLevel to 100
+[Info   : SirenHead] Registered spawn rate for level type MarchLevel to 100
+[Info   : SirenHead] SirenHead 2.0.3 loaded.
+[Info   :   BepInEx] Loading [VertexLibrary 1.1.0]
+[Info   :   BepInEx] Loading [MaxWasUnavailable.LethalModDataLib 1.2.2]
+[Info   :MaxWasUnavailable.LethalModDataLib] Plugin MaxWasUnavailable.LethalModDataLib is loaded!
+[Info   :   BepInEx] Loading [LethalLevelLoader 1.4.11]
+[Info   :LethalLevelLoader] LethalLevelLoader loaded!!
+[Info   :LethalLevelLoader] evaisa.lethallibfound, enabling compatability patches.
+[Info   :LethalLevelLoader] LethalBundleManger: Starting!
+[Info   :LethalLevelLoader] LethalBundleManger: Now Loading Bundles!
+[Info   :LethalLevelLoader] Config Level Set As: User
+[Info   :   BepInEx] Loading [RuntimeIcons 0.3.2]
+[Info   :RuntimeIcons] Initializing Configs
+[Info   :RuntimeIcons] Loading Compute shader
+[Info   :RuntimeIcons] Preparing Stage
+[Info   :RuntimeIcons] Loading Overrides
+[Info   :RuntimeIcons] Loading Icons
+[Info   :RuntimeIcons] Patching Methods
+[Info   :RuntimeIcons] RuntimeIcons v0.3.2 Loaded!
+[Info   :   BepInEx] Loading [Custom Sounds 2.3.2]
+[Info   :CustomSounds] "HideManagerGameObject" is correctly set to true.
+[Info   :CustomSounds] Plugin CustomSounds is loaded!
+[Info   :   BepInEx] Loading [longerDay 1.0.0]
+[Info   :longerDayLog] time speed = 0.4
+[Info   :   BepInEx] Loading [Dungeon Generation Plus 1.4.1]
+[Info   :dev.ladyalice.dungenplus] Plugin Dungeon Generation Plus has been added!
+[Info   :   BepInEx] Loading [Dungeon Generation Plus Loadstone Patch 1.0.0]
+[Info   :   BepInEx] Loading [DiscountAlert 2.3.0.0]
+[Info   :DiscountAlert] Plugin discount.alert is loaded!
+[Info   :   BepInEx] Loading [DiscountSync 1.0.22]
+[Info   :DiscountSync] Plugin DiscountSync is loaded!
+[Info   :DiscountSync] Harmony patches patched!
+[Info   :   BepInEx] Loading [ColorfulEnemyVariety 2.2.0]
+[Info   :   BepInEx] Loading [Huntdown 1.6.4]
+[Info   :  Huntdown] Starlancer AI Fix detected.  More missions will be available.
+[Info   :  Huntdown] Binding configs.
+[Info   :  Huntdown] [0] Binding: Display Target at Round Start
+[Info   :  Huntdown] [1] Binding: Percentage Chance of Mission
+[Info   :  Huntdown] [2] Binding: Dynamic Weighting System
+[Info   :  Huntdown] [3] Binding: Change ScanNode Subtext
+[Info   :  Huntdown] [4] Binding: Snare Flea Mission Enabled
+[Info   :  Huntdown] [5] Binding: Bunker Spider Mission Enabled
+[Info   :  Huntdown] [6] Binding: Hoarder Bug Mission Enabled
+[Info   :  Huntdown] [7] Binding: Bracken Mission Enabled
+[Info   :  Huntdown] [8] Binding: Thumper Mission Enabled
+[Info   :  Huntdown] [9] Binding: Nutcracker Mission Enabled
+[Info   :  Huntdown] [10] Binding: Masked Mission Enabled
+[Info   :  Huntdown] [11] Binding: Good Boy Mission Enabled
+[Info   :  Huntdown] [12] Binding: Bug Mafia Mission Enabled
+[Info   :  Huntdown] [13] Binding: Blunderbug Mission Enabled
+[Info   :  Huntdown] [14] Binding: Infestation Mission Enabled
+[Info   :  Huntdown] [15] Binding: Last Months Interns Mission Enabled
+[Info   :  Huntdown] [16] Binding: Butler Mission Enabled
+[Info   :  Huntdown] [17] Binding: Maneater Mission Enabled
+[Info   :  Huntdown] [18] Binding: Stabbin Bros Mission Enabled
+[Info   :  Huntdown] [19] Binding: Giant Size Upgraded Mission Enabled
+[Info   :  Huntdown] [20] Binding: Big Trouble Little Enemies Mission Enabled
+[Info   :  Huntdown] [21] Binding: Who let the puppies out Mission Enabled
+[Info   :  Huntdown] [22] Binding: Baboon Gang Mission Enabled
+[Info   :  Huntdown] [23] Binding: Facility Keeper Mission Enabled
+[Info   :  Huntdown] [24] Binding: Lone Hawk Mission Enabled
+[Info   :  Huntdown] [25] Binding: Dynamic Duo Mission Enabled
+[Info   :  Huntdown] [26] Binding: Monstrous Den Mission Enabled
+[Info   :  Huntdown] [27] Binding: Mask Outbreak Mission Enabled
+[Info   :  Huntdown] [28] Binding: Left 4 Mask 2 Mission Enabled
+[Info   :  Huntdown] [29] Binding: Zombie Mission Enabled
+[Info   :  Huntdown] [30] Binding: Last Years Interns Mission Enabled
+[Info   :  Huntdown] [31] Binding: Zombie Apocalypse Mission Enabled
+[Info   :  Huntdown] [32] Binding: Boomba Mission Enabled
+[Info   :  Huntdown] [33] Binding: Boombopocalypse Mission Enabled
+[Info   :  Huntdown] [34] Binding: Haunted Harpist Mission Enabled
+[Info   :  Huntdown] [35] Binding: Phantom Piper Mission Enabled
+[Info   :  Huntdown] [36] Binding: Ethereal Enforcer Mission Enabled
+[Info   :  Huntdown] [37] Binding: The Firing Squad Mission Enabled
+[Info   :  Huntdown] [38] Binding: Manor Lord Mission Enabled
+[Info   :  Huntdown] [39] Binding: Janitor Mission Enabled
+[Info   :  Huntdown] [40] Binding: Cleaner Rivals Mission Enabled
+[Info   :  Huntdown] [41] Binding: Bell Crab Mission Enabled
+[Info   :  Huntdown] [42] Binding: Snare Flea Mission Weight
+[Info   :  Huntdown] [43] Binding: Bunker Spider Mission Weight
+[Info   :  Huntdown] [44] Binding: Hoarder Bug Mission Weight
+[Info   :  Huntdown] [45] Binding: Bracken Mission Weight
+[Info   :  Huntdown] [46] Binding: Thumper Mission Weight
+[Info   :  Huntdown] [47] Binding: Nutcracker Mission Weight
+[Info   :  Huntdown] [48] Binding: Masked Mission Weight
+[Info   :  Huntdown] [49] Binding: Good Boy Mission Weight
+[Info   :  Huntdown] [50] Binding: Bug Mafia Mission Weight
+[Info   :  Huntdown] [51] Binding: Blunderbug Mission Weight
+[Info   :  Huntdown] [52] Binding: Infestation Mission Weight
+[Info   :  Huntdown] [53] Binding: Last Months Interns Mission Weight
+[Info   :  Huntdown] [54] Binding: Butler Mission Weight
+[Info   :  Huntdown] [55] Binding: Maneater Mission Weight
+[Info   :  Huntdown] [56] Binding: Stabbin Bros Mission Weight
+[Info   :  Huntdown] [57] Binding: Giant Size Upgraded Mission Weight
+[Info   :  Huntdown] [58] Binding: Big Trouble Little Enemies Mission Weight
+[Info   :  Huntdown] [59] Binding: Who let the puppies out Mission Weight
+[Info   :  Huntdown] [60] Binding: Baboon Gang Mission Weight
+[Info   :  Huntdown] [61] Binding: Facility Keeper Mission Weight
+[Info   :  Huntdown] [62] Binding: Lone Hawk Mission Weight
+[Info   :  Huntdown] [63] Binding: Dynamic Duo Mission Weight
+[Info   :  Huntdown] [64] Binding: Monstrous Den Mission Weight
+[Info   :  Huntdown] [65] Binding: Mask Outbreak Mission Weight
+[Info   :  Huntdown] [66] Binding: Left 4 Mask 2 Mission Weight
+[Info   :  Huntdown] [67] Binding: Zombie Mission Weight
+[Info   :  Huntdown] [68] Binding: Last Years Interns Mission Weight
+[Info   :  Huntdown] [69] Binding: Zombie Apocalypse Mission Weight
+[Info   :  Huntdown] [70] Binding: Boomba Mission Weight
+[Info   :  Huntdown] [71] Binding: Boombopocalypse Mission Weight
+[Info   :  Huntdown] [72] Binding: Haunted Harpist Mission Weight
+[Info   :  Huntdown] [73] Binding: Phantom Piper Mission Weight
+[Info   :  Huntdown] [74] Binding: Ethereal Enforcer Mission Weight
+[Info   :  Huntdown] [75] Binding: The Firing Squad Mission Weight
+[Info   :  Huntdown] [76] Binding: Manor Lord Mission Weight
+[Info   :  Huntdown] [77] Binding: Janitor Mission Weight
+[Info   :  Huntdown] [78] Binding: Cleaner Rivals Mission Weight
+[Info   :  Huntdown] [79] Binding: Bell Crab Mission Weight
+[Info   :  Huntdown] [80] Binding: Easy Mission Reward
+[Info   :  Huntdown] [81] Binding: Medium Mission Reward
+[Info   :  Huntdown] [82] Binding: Hard Mission Reward
+[Info   :  Huntdown] [83] Binding: Extreme Mission Reward
+[Info   :  Huntdown] [84] Binding: Brutal Mission Reward
+[Info   :  Huntdown] [85] Binding: Execution Mission Reward
+[Info   :  Huntdown] [86] Binding: Enable Tool Rewards
+[Info   :  Huntdown] Configs successfully bound.
+[Info   :  Huntdown] Assigning keys to enemies.
+[Info   :  Huntdown] Keys successfully assigned to enemies.
+[Info   :  Huntdown] Assigning keys to items.
+[Info   :  Huntdown] Keys successfully assigned to items.
+[Info   :  Huntdown] Creating reward pools for missions.
+[Info   :  Huntdown] Creating reward pool. Index: RewardLow, Value: 50
+[Info   :  Huntdown] Creating reward pool. Index: RewardMedium, Value: 100
+[Info   :  Huntdown] Creating reward pool. Index: RewardHigh, Value: 200
+[Info   :  Huntdown] Creating reward pool. Index: RewardExtreme, Value: 300
+[Info   :  Huntdown] Creating reward pool. Index: RewardMedium, Value: 100
+[Info   :  Huntdown] Creating reward pool. Index: RewardBrutal, Value: 400
+[Info   :  Huntdown] Creating reward pool. Index: RewardExecution, Value: 500
+[Info   :  Huntdown] Reward pools successfully created.
+[Info   :  Huntdown] Creating missions with information from player configuration.
+[Info   :  Huntdown] Creating mission: Snare Flea, Weight: 100, Enabled: True
+[Info   :  Huntdown] Creating mission: Bunker Spider, Weight: 100, Enabled: True
+[Info   :  Huntdown] Creating mission: Hoarding Bug, Weight: 100, Enabled: True
+[Info   :  Huntdown] Creating mission: Bracken, Weight: 50, Enabled: True
+[Info   :  Huntdown] Creating mission: Thumper, Weight: 100, Enabled: True
+[Info   :  Huntdown] Creating mission: Nutcracker, Weight: 50, Enabled: True
+[Info   :  Huntdown] Creating mission: Masked, Weight: 75, Enabled: True
+[Info   :  Huntdown] Creating mission: A Good Boy, Weight: 20, Enabled: True
+[Info   :  Huntdown] Creating mission: Bug Mafia, Weight: 50, Enabled: True
+[Info   :  Huntdown] Creating mission: Blunderbug, Weight: 0, Enabled: False
+[Info   :  Huntdown] Creating mission: Infestation, Weight: 25, Enabled: True
+[Info   :  Huntdown] Creating mission: Last Month's Interns, Weight: 15, Enabled: True
+[Info   :  Huntdown] Creating mission: Butler, Weight: 50, Enabled: True
+[Info   :  Huntdown] Creating mission: Maneater, Weight: 10, Enabled: True
+[Info   :  Huntdown] Creating mission: Stabbin' Bros, Weight: 40, Enabled: True
+[Info   :  Huntdown] Creating mission: Giant Size: Upgraded, Weight: 5, Enabled: True
+[Info   :  Huntdown] Creating mission: Big Trouble Little Enemies, Weight: 5, Enabled: True
+[Info   :  Huntdown] Creating mission: Who let the puppies out?, Weight: 5, Enabled: True
+[Info   :  Huntdown] Creating mission: Baboon Gang, Weight: 40, Enabled: True
+[Info   :  Huntdown] Creating mission: Facility Keeper, Weight: 15, Enabled: True
+[Info   :  Huntdown] Creating mission: Lone Baboon Hawk, Weight: 70, Enabled: True
+[Info   :  Huntdown] Creating mission: Dynamic Duo, Weight: 30, Enabled: True
+[Info   :  Huntdown] Creating mission: Monstrous Den, Weight: 20, Enabled: True
+[Info   :  Huntdown] Creating mission: Mask Outbreak, Weight: 6, Enabled: True
+[Info   :  Huntdown] Creating mission: Left 4 Mask 2, Weight: 2, Enabled: True
+[Info   :  Huntdown] Creating mission: Zombie, Weight: 75, Enabled: False
+[Info   :  Huntdown] Creating mission: Last Year's Interns, Weight: 15, Enabled: False
+[Info   :  Huntdown] Creating mission: Zombie Apocalypse, Weight: 8, Enabled: False
+[Info   :  Huntdown] Creating mission: Boomba, Weight: 75, Enabled: False
+[Info   :  Huntdown] Creating mission: Boombopocalypse, Weight: 8, Enabled: False
+[Info   :  Huntdown] Creating mission: Haunted Harpist, Weight: 30, Enabled: False
+[Info   :  Huntdown] Creating mission: Phantom Piper, Weight: 20, Enabled: False
+[Info   :  Huntdown] Creating mission: Enforcer, Weight: 50, Enabled: False
+[Info   :  Huntdown] Creating mission: The Firing Squad, Weight: 30, Enabled: False
+[Info   :  Huntdown] Creating mission: The Manor Lord, Weight: 5, Enabled: False
+[Info   :  Huntdown] Creating mission: Janitor, Weight: 60, Enabled: False
+[Info   :  Huntdown] Creating mission: Cleaner Rivals, Weight: 40, Enabled: False
+[Info   :  Huntdown] Creating mission: Bell Crab, Weight: 75, Enabled: False
+[Info   :  Huntdown] Missions successfully created.
+[Info   :  Huntdown] Patching mod.
+[Info   :  Huntdown] Patches were successful.
+[Info   :  Huntdown] Huntdown mod loaded.
+[Info   :   BepInEx] Loading [BetterStamina 1.5.6]
+[Info   :BetterStamina-1.5.6] Binding Configs
+[Info   :BetterStamina-1.5.6] BetterStamina loaded
+[Info   :   BepInEx] Loading [FasterItemDropship 1.3.1]
+[Info   :FasterItemDropship] BindingConfigs
+[Info   :FasterItemDropship] FasterItemDropship loaded
+[Info   :   BepInEx] Loading [ObjectVolumeController 1.1.2]
+[Info   :ObjectVolumeController-1.1.2] BindingConfigs
+[Info   :ObjectVolumeController-1.1.2] Initializing hotkeys.
+[Info   :ObjectVolumeController] ObjectVolumeController loaded
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 2.0.52]
+[Info   :ReservedItemSlotCore-2.0.52] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.52] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 2.0.10]
+[Info   :ReservedFlashlightSlot-2.0.10] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.52] Created ReservedItemSlotData for: flashlight. Slot priority: 200
+[Info   :ReservedFlashlightSlot-2.0.10] ReservedFlashlightSlot loaded
+[Info   :   BepInEx] Loading [ReservedWalkieSlot 2.0.7]
+[Info   :ReservedWalkieSlot-2.0.7] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.52] Created ReservedItemSlotData for: walkie_talkie. Slot priority: 150
+[Info   :ReservedWalkieSlot-2.0.7] ReservedWalkieSlot loaded
+[Info   :   BepInEx] Loading [TooManyEmotes 2.3.11]
+[Info   :TooManyEmotes-2.3.11] BindingConfigs
+[Info   :TooManyEmotes-2.3.11] Initializing custom emote hotkeys.
+[Info   :TooManyEmotes-2.3.11] Successfully loaded 29 animation clips from asset bundle: Assets/emotes_complementary
+[Info   :TooManyEmotes-2.3.11] Successfully loaded 106 animation clips from asset bundle: Assets/emotes_0
+[Info   :TooManyEmotes-2.3.11] Successfully loaded 190 animation clips from asset bundle: Assets/emotes_1
+[Info   :TooManyEmotes-2.3.11] Successfully loaded 116 animation clips from asset bundle: Assets/emotes_2
+[Info   :TooManyEmotes-2.3.11] Successfully loaded 8 animation clips from asset bundle: Assets/emotes_3
+[Info   :TooManyEmotes-2.3.11] Successfully loaded 11 animation clips from asset bundle: Assets/emotes_special
+[Info   :TooManyEmotes-2.3.11] Successfully loaded radial menu asset.
+[Info   :TooManyEmotes-2.3.11] Loaded 27 emote props.
+[Info   :TooManyEmotes-2.3.11] Loading 144 dmca-free audio clips.
+[Info   :TooManyEmotes-2.3.11] Loading 241 dmca audio clips.
+[Info   :TooManyEmotes-2.3.11] TooManyEmotes finished loading!
+[Info   :   BepInEx] Loading [Generic interior modifications 1.0.0]
+[Info   :       Cat] Meow?
+[Info   :       Cat] Meow.
+[Info   :   BepInEx] Loading [HoldScanButton 1.0.0]
+[Info   :HoldScanButton] Plugin HoldScanButton has loaded!
+[Info   :   BepInEx] Loading [DynamicInteriorVariety 1.0.0]
+[Info   :   BepInEx] Loading [ImmersiveVisor 0.5.2]
+[Info   :ImmersiveVisorLogSource] Mod Loading...
+[Info   :ImmersiveVisorLogSource] Mod Loaded
+[Info   :   BepInEx] Loading [NoJumpDelay 1.1.0]
+[Info   :NoJumpDelay] Boing boing!
+[Info   :   BepInEx] Loading [JLL 1.9.8]
+[Info   :JacobG5.JLL] Skipping Netcode Class
+[Info   :JacobG5.JLL] Skipping Netcode Class
+[Info   :JacobG5.JLL] Netcode Successfully Patched!
+[Info   :JacobG5.JLL] JLL Logging Level set to: User
+[Info   :JacobG5.JLL] [User] Searching for Bundles and JSONs....
+[Info   :JacobG5.JLL] [User] Finished reading 2 files.
+[Info   :   BepInEx] Loading [JLLItemModule 1.3.4]
+[Info   :JacobG5.JLL] Netcode Successfully Patched!
+[Info   :   BepInEx] Loading [WesleyMoonScripts 1.1.5]
+[Info   :JacobG5.WesleyMoonScripts] Netcode Successfully Patched!
+[Info   :   BepInEx] Loading [LC Sound Tool 1.5.1]
+[Info   :LCSoundTool] Plugin LCSoundTool is loaded!
+[Info   :   BepInEx] Loading [LethalFashion 1.0.8]
+[Info   :LethalFashion] Plugin LethalFashion is loaded!
+[Info   :LethalFashion] Patch applied successfully. You are now FASHIONABLE.
+[Info   :   BepInEx] Loading [Project1 1.0.0]
+[Info   :  Project1] LethalGravityControl v1.0.0 has loaded!
+[Info   :   BepInEx] Loading [itolib 0.4.0]
+[Info   :    itolib] itolib v0.4.0 loaded!
+[Info   :   BepInEx] Loading [PlayZone 1.1.2]
+[Info   :  PlayZone] PlayZone v1.1.2 loaded!
+[Info   :   BepInEx] Loading [LethalPhones 1.3.17]
+[Info   :LethalPhones] Loading LethalPhones Version 1.3.17
+[Info   :LethalPhones] Loading Assets...
+[Info   :LethalPhones] Loading default phone customization...
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.bee
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.blue
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.bunny
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.casinonights
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.cityrug
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.default
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.goku
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.green
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.hazard
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.killer
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.kitten
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.lego
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.missing
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.pacman
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.pajama
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.pastel
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.punk
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.purple
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.red
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.redshirt
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.rust
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.babybuddy
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.beehive
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.brackenbuddy
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.buggybuddy
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.coilbuddy
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.cruiser
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.default
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.egg
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.eggbigeyes
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.egglongarms
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.eggsmallbeak
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.fuzzydice
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.masked
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.phonecharm
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridebi
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridelesbian
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridemlm
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridenonbinary
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridepan
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridepride
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.prideprogress
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridetrans
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.shovel
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.wriststrap
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.babyhotline
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.beethoven
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.boombox
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.callmemaybe
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.caramelldansen
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.crazyfrog
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.darude
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.default
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.drowning
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.lambda_boombox5
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.lambda_delivery
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.nevergonnagiveyouup
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.nokiamozart
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.nokiatoreador
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.pacman_dubstep
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.reactor
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.ribs
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.skype
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.whatsnewpussycat
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.wndrwll
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.wonderwall
+[Info   :LethalPhones] Loading user phone customization...
+[Info   :LethalPhones] Applying patches...
+[Info   :LethalPhones] Patches applied
+[Info   :LethalPhones] Setting up AudioSource Hook
+[Info   :   BepInEx] Loading [MoreCompany 1.11.2]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Loading SETTINGS...
+[Info   :MoreCompany] Checking: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Loading COSMETICS...
+[Info   :MoreCompany] Loading DEFAULT COSMETICS...
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.burningflamesteamcaptain from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\cosmetics\burningflamesteamcaptain.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.dominusempyreus from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\cosmetics\dominusempyreus.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.maxwell from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\cosmetics\maxwell.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.oscar from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\cosmetics\oscar.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.tbhcreature from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\cosmetics\tbhcreature.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.toweringpillarofhats from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\cosmetics\toweringpillarofhats.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.valkyriehelm from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\cosmetics\valkyriehelm.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.ballcannon from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.cardboardcrown from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.lasergun from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.laservest from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [MaskedEnemyRework 3.4.0]
+[Info   :MaskedEnemyRework] Plugin MaskedEnemyRework is loaded! Woohoo!
+[Info   :   BepInEx] Loading [Elads HUD 1.2.3]
+[Info   : Elads HUD] Plugin Elad's HUD is loaded!
+[Info   :   BepInEx] Loading [MoreHead 1.2.5]
+[Info   :  MoreHead] MoreHead OK
+[Info   :  MoreHead] MoreHead Asset OK
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.yan
+[Warning:  MoreHead] fanxiangyanlizi ok.
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.fanxiangyan
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.cathead
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.pighead
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.caomao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.xiangsuyanjing
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.shuimao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.xiguatou
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.dallas
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.shoulian
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.biao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.heiweijin
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.jinshouhuan
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.mianzhao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.koushuibu
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.kunkuntou
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.yashua
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.yuguaqi
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.douli1
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.douli2
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.wula1
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.dao2077
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.wabao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.maoerbao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.tanxianbao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.dongdesiduiyou
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.matou
+[Info   :   BepInEx] Loading [Hide Chat 1.0.0]
+[Info   :   BepInEx] Loading [Wesley's interior shenanigans 1.0.0]
+[Error  :The man in the rubber rooms] You made a mistake.. but it's fine.. the world will survive.. I think..
+[Error  :The man in the rubber rooms] Maybe not.
+[Info   :   BepInEx] Loading [Rolling Giant 2.6.0]
+[Info   :Rolling Giant] Config reloaded.
+[Message:Rolling Giant] Settings version is up to date (11 == 11)
+[Info   :Rolling Giant] Plugin RollingGiant is loaded!
+[Info   :   BepInEx] Loading [NotezyLib 0.1.3]
+[Warning: NotezyLib] ReflectionTypeLoadException caught while getting types. Some types will be skipped.
+[Warning: NotezyLib] ReflectionTypeLoadException caught while getting types. Some types will be skipped.
+[Info   : NotezyLib] NoteBoxz.NotezyLib v0.1.3 has loaded!
+[Info   :   BepInEx] Loading [PathfindingLib 2.3.2]
+[Info   :   BepInEx] Loading [LCOffice 2.3.3]
+[Info   :Piggy.LCOffice] LC_Office is loaded!
+[Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for OfficeDungeonFlow
+[Info   :Piggy.LCOffice] Office registered with Length: (min: 2, max: 3) BranchCount: (min: 1, max: 3)
+[Info   :LethalLevelLoader] Found ExtendedMod: LCOfficeMod
+[Info   :  LCOffice] [LC_Office] Successfully loaded assets!
+[Info   :Piggy.LCOffice] Netcode Successfully Patched!
+[Info   :   BepInEx] Loading [PiggyVarietyMod 1.3.19]
+[Info   :PiggyVarietyMod] Successfully loaded assets!
+[Info   :Piggy.PiggyVarietyMod] Piggy's Variety Mod is loaded
+[Info   :Piggy.PiggyVarietyMod] Netcode Successfully Patched!
+[Info   :   BepInEx] Loading [Better Item Scan 3.0.0.2]
+[Info   :PopleZoo.BetterItemScan] Plugin BetterItemScan is loaded!
+[Info   :   BepInEx] Loading [Helmet_Cameras 2.1.5]
+[Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.5!
+[Info   :Helmet_Cameras] --------Helmet camera patch done.---------
+[Info   :   BepInEx] Loading [Skinwalker Mod 5.0.0]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 5.0.0
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_OtherEnemies VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [Scopophobia 1.1.5]
+[Info   :Scopophobia] Scopophobia | SCP-096 has entered the facility. All remaining personnel proceed with caution.
+[Info   :   BepInEx] Loading [Solid's Library 1.2.1]
+[Info   :Solid's Library] Initializing Library
+[Info   :Solid's Library] [Registry] Initializing GameObject registry holder
+[Info   :Solid's Library] [Registry] Initializing AudioClip registry holder
+[Info   :Solid's Library] [Registry] Initializing Material registry holder
+[Info   :Solid's Library] [Registry] Initializing Item registry holder
+[Info   :Solid's Library] [Registry] Initializing EnemyType registry holder
+[Info   :Solid's Library] [Registry] Initializing SpawnableOutsideObjectDef registry holder
+[Info   :Solid's Library] [Registry] Initializing SpawnableMapObjectDef registry holder
+[Info   :Solid's Library] [Registry] Initializing TerminalNode registry holder
+[Info   :Solid's Library] [Registry] Initializing TerminalKeyword registry holder
+[Info   :   BepInEx] Loading [Soul Devourer Enemy 1.0.0]
+[Warning:Solid's Library] [Registry] Registry with name Soul_Devourer is already registered.
+[Info   :Solid's Library] [Registry] Initalizing Enemys for SolidLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[Info   :Soul Devourer Enemy] Plugin SoulDev is loaded!
+[Info   :   BepInEx] Loading [SlendermanMod 1.2.0]
+[Info   :SlendermanMod] Registered spawn rate for level type All to 2
+[Info   :SlendermanMod] Registered spawn rate for level type AssuranceLevel to 1
+[Info   :SlendermanMod] Registered spawn rate for level type VowLevel to 10
+[Info   :SlendermanMod] Registered spawn rate for level type MarchLevel to 10
+[Info   :SlendermanMod] Registered spawn rate for level type DineLevel to 7
+[Info   :SlendermanMod] Registered spawn rate for level type RendLevel to 8
+[Info   :SlendermanMod] Registered spawn rate for level type TitanLevel to 5
+[Info   :SlendermanMod] Registered spawn rate for level type AdamanceLevel to 10
+[Info   :SlendermanMod] Registered spawn rate for level type ArtificeLevel to 7
+[Info   :SlendermanMod] Registered spawn rate for custom level type Gloom to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Auralis to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Junic to 9
+[Info   :SlendermanMod] Registered spawn rate for custom level type Acidir to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Cosmocos to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Polarus to 1
+[Info   :SlendermanMod] Registered spawn rate for custom level type Desolation to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Embrion to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Affliction to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Eve to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Gratar to 7
+[Info   :SlendermanMod] Registered spawn rate for custom level type Infernis to 6
+[Info   :SlendermanMod] Registered spawn rate for custom level type Harloth to 7
+[Info   :SlendermanMod] Registered spawn rate for custom level type Asteroid to 4
+[Info   :SlendermanMod] Registered spawn rate for custom level type Celest to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Siabudabu to 9
+[Info   :SlendermanMod] Registered spawn rate for custom level type Ganimedes to 7
+[Info   :SlendermanMod] Registered spawn rate for custom level type Kast to 7
+[Info   :SlendermanMod] Registered spawn rate for custom level type Secret Labs to 11
+[Info   :SlendermanMod] Registered spawn rate for custom level type Solace to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Synthesis to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type PsychSanctum to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Sanguine to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Harloth to 4
+[Info   :SlendermanMod] Plugin SlendermanMod is loaded!
+[Info   :   BepInEx] Loading [NaturalHealthRegen 0.1.2]
+[Info   :Swaggies.NaturalHealthRegen] NaturalHealthRegen up and running.
+[Info   :   BepInEx] Loading [NMCrosshair 1.1.2]
+[Info   :Swaggies.NMCrosshair] NMCrosshair up and running.
+[Info   :   BepInEx] Loading [BetterSprayPaint 2.0.9]
+[Info   :BetterSprayPaint] Loading taffyko.BetterSprayPaint
+[Info   :   BepInEx] Loading [NameplateTweaks 1.0.6]
+[Info   :NameplateTweaks] Loading taffyko.NameplateTweaks
+[Info   :   BepInEx] Loading [CoilHeadStare 1.1.0]
+[Info   :TDP.CoilHeadStare] CoilHeadStare 1.1.0 loaded. (TUS=8, MSD=6, HTS=0.3, SR=True)
+[Info   :   BepInEx] Loading [DoorBreach 1.4.4]
+[Info   :DoorBreach] Loading Sounds...
+[Info   :DoorBreach] Loading Door Sounds...
+[Error  :DoorBreach] Failed to load AudioClip: HTTP/1.1 404 Not Found
+[Info   :DoorBreach] Failed to load clip 'DoorHitKnife'!
+[Error  :DoorBreach] Failed to load AudioClip: HTTP/1.1 404 Not Found
+[Info   :DoorBreach] Failed to load clip 'DoorHitShovel'!
+[Error  :DoorBreach] Failed to load AudioClip: HTTP/1.1 404 Not Found
+[Info   :DoorBreach] Failed to load clip 'DoorBreak'!
+[Info   :DoorBreach] TestAccount666.DoorBreach v1.4.4 has loaded!
+[Info   :   BepInEx] Loading [Interactive Terminal API 1.2.0]
+[Info   :Interactive Terminal API] Game managers have been patched
+[Info   :Interactive Terminal API] Interactive Terminal API 1.2.0 has been loaded successfully.
+[Info   :   BepInEx] Loading [TestAccountCore 1.14.3]
+[Info   :TestAccountCore] TestAccount666.TestAccountCore v1.14.3 has loaded!
+[Info   :   BepInEx] Loading [ShipWindows 2.5.1]
+[Info   :ShipWindows] Loading ShipWindow AssetBundle...
+[Info   :TestAccountCore] Registering unlockable Shutter Switch...
+[Info   :TestAccountCore] Fully registered unlockable Shutter Switch!
+[Info   :ShipWindows] Loading Wesley voice lines...
+[Info   :ShipWindows] Loaded line 'ShutterClose'!
+[Info   :ShipWindows] Loaded line 'ShutterOpen'!
+[Info   :ShipWindows] Loaded line 'SellCounter1'!
+[Info   :ShipWindows] Loaded successfully!
+[Info   :   BepInEx] Loading [InteriorFogConfig 1.1.0]
+[Info   :InteriorFogConfig] Tomatobird.InteriorFogConfig v1.1.0 has loaded!
+[Info   :   BepInEx] Loading [More Suits 1.5.0]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Info   :   BepInEx] Loading [TooManySuits 2.0.1]
+[Info   :   BepInEx] Loading [Late Company 1.0.17]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [Mimics 2.7.0]
+[Info   :x753.Mimics] Plugin Mimics is loaded!!
+[Info   :   BepInEx] Loading [SoftMaskKiller 0.0.1]
+[Info   :SoftMaskKiller] Initializing Configs
+[Info   :SoftMaskKiller] Patching Methods
+[Info   :SoftMaskKiller] SoftMaskKiller v0.0.1 Loaded!
+[Info   :   BepInEx] Loading [YoutubeBoomBox 1.1.0]
+[Info   :YoutubeBoomBox] Plugin YoutubeBoomBox is loaded!
+[Info   :   BepInEx] Loading [PremiumScraps 2.3.8]
+[Info   :PremiumScraps] PremiumScraps is loaded !
+[Info   :   BepInEx] Loading [ChillaxScraps 1.5.13]
+[Info   :ChillaxScraps] ChillaxScraps is loaded !
+[Message:   BepInEx] Chainloader startup complete
+[Info   :LethalLevelLoader] area71interior.lethalbundle Loaded (26.41s)!
+[Info   :LethalLevelLoader] atlanticdungeoninterior.lethalbundle Loaded (27.65s)!
+[Info   :LethalLevelLoader] baykalmoon.lethalbundle Loaded (27.58s)!
+[Info   :LethalLevelLoader] baykalscene.lethalbundle Loaded (27.54s)!
+[Info   :LethalLevelLoader] calypsolevel.lethalbundle Loaded (27.48s)!
+[Info   :LethalLevelLoader] calypsomoon.lethalbundle Loaded (27.44s)!
+[Info   :LethalLevelLoader] deepcoremine.lethalbundle Loaded (27.88s)!
+[Info   :LethalLevelLoader] dungeon_grayapartments.lethalbundle Loaded (28.40s)!
+[Info   :LethalLevelLoader] dungeon_ravenmanor.lethalbundle Loaded (28.89s)!
+[Info   :LethalLevelLoader] dungeon_studio.lethalbundle Loaded (29.13s)!
+[Info   :LethalLevelLoader] dungeon_subsystem.lethalbundle Loaded (29.52s)!
+[Info   :LethalLevelLoader] espiramoon.lethalbundle Loaded (29.76s)!
+[Info   :LethalLevelLoader] espirascene.lethalbundle Loaded (29.72s)!
+[Info   :LethalLevelLoader] flickermoon.lethalbundle Loaded (29.56s)!
+[Info   :LethalLevelLoader] flickerscene.lethalbundle Loaded (29.53s)!
+[Info   :LethalLevelLoader] fracturedcomplex.lethalbundle Loaded (30.16s)!
+[Info   :LethalLevelLoader] geminimoon.lethalbundle Loaded (30.10s)!
+[Info   :LethalLevelLoader] ether.lethalbundle Loaded (30.41s)!
+[Info   :LethalLevelLoader] geminiscene.lethalbundle Loaded (30.06s)!
+[Info   :LethalLevelLoader] grandarmoryinterior.lethalbundle Loaded (31.67s)!
+[Info   :LethalLevelLoader] greenhouseinterior.lethalbundle Loaded (32.24s)!
+[Info   :LethalLevelLoader] halationmoon.lethalbundle Loaded (32.13s)!
+[Info   :LethalLevelLoader] halationscene.lethalbundle Loaded (32.10s)!
+[Info   :LethalLevelLoader] etherscene.lethalbundle Loaded (32.90s)!
+[Info   :LethalLevelLoader] junkrooms.lethalbundle Loaded (32.35s)!
+[Info   :LethalLevelLoader] lamentmoon.lethalbundle Loaded (32.28s)!
+[Info   :LethalLevelLoader] lamentscene.lethalbundle Loaded (32.24s)!
+[Info   :LethalLevelLoader] lithiummoon.lethalbundle Loaded (32.11s)!
+[Info   :LethalLevelLoader] lithiumscene.lethalbundle Loaded (32.06s)!
+[Info   :LethalLevelLoader] makronmoon.lethalbundle Loaded (32.01s)!
+[Info   :LethalLevelLoader] makronscene.lethalbundle Loaded (31.98s)!
+[Info   :LethalLevelLoader] mazonlevel.lethalbundle Loaded (31.86s)!
+[Info   :LethalLevelLoader] mazonmoon.lethalbundle Loaded (31.93s)!
+[Info   :LethalLevelLoader] museuminterior.lethalbundle Loaded (34.21s)!
+[Info   :LethalLevelLoader] pandoramusmoon.lethalbundle Loaded (34.02s)!
+[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Loaded (33.99s)!
+[Info   :LethalLevelLoader] pareidoliamoon.lethalbundle Loaded (33.93s)!
+[Info   :LethalLevelLoader] pareidoliascene.lethalbundle Loaded (33.90s)!
+[Info   :LethalLevelLoader] praetormoon.lethalbundle Loaded (33.83s)!
+[Info   :LethalLevelLoader] praetorscene.lethalbundle Loaded (33.80s)!
+[Info   :LethalLevelLoader] prismmoon.lethalbundle Loaded (33.76s)!
+[Info   :LethalLevelLoader] prismscene.lethalbundle Loaded (33.73s)!
+[Info   :LethalLevelLoader] rockwellmoon.lethalbundle Loaded (33.69s)!
+[Info   :LethalLevelLoader] rockwellscene.lethalbundle Loaded (33.66s)!
+[Info   :LethalLevelLoader] shatteredrooms.lethalbundle Loaded (33.88s)!
+[Info   :LethalLevelLoader] storagecomplex.lethalbundle Loaded (35.08s)!
+[Info   :LethalLevelLoader] therubberrooms.lethalbundle Loaded (36.68s)!
+[Info   :LethalLevelLoader] toystoreinterior.lethalbundle Loaded (38.77s)!
+[Info   :LethalLevelLoader] ultimatummoon.lethalbundle Loaded (38.73s)!
+[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Loaded (38.70s)!
+[Info   :LethalLevelLoader] liminalhouse.lethalbundle Loaded (40.87s)!
+[Info   :LethalLevelLoader] wiseweaponry.lethalbundle Loaded (39.03s)!
+[Info   :LethalLevelLoader] genericinterior.lethalbundle Loaded (43.32s)!
+[Info   :LethalLevelLoader] playzone-interior.lethalbundle Loaded (42.06s)!
+[Info   :LethalLevelLoader] Finished Processing Bundles!
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Baykalmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Baykal
+[Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for AquaticDungeonFlow
+[Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for junkrooms
+[Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Calypsomoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_CalypsoMoon
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Espiramoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_EspiraMoon
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Ether.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: EtherExtendedMod
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Flickermoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Flicker
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Geminimoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: GeminiMoon
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Halationmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_HalationMoon
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Lamentmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Lament
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Lithiummoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_LithiumMoon
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Makronmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_MakronMoon
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Mazonmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_MazonMoon
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Pandoramusmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Pandoramus
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Pareidoliamoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Pareidolia
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Praetormoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_PraetorMoon
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Prismmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_KaleidosMoon
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Rockwellmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_RockwellMoon
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Ultimatummoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_UltimatumMoon
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Area71interior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: Area71InteriorMod
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Atlanticdungeoninterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: AquaticDungeonMod
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Deepcoremine.lethalbundle
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_grayapartments.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_GrayApps
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_ravenmanor.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_RavenManor
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_studio.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Studio
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_subsystem.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_SubSystem
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Fracturedcomplex.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: FracturedComplexMod
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Genericinterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: GenericInteriorsMod
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Grandarmoryinterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: GrandArmoryMod
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Greenhouseinterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: GreenhouseMod
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Junkrooms.lethalbundle
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Liminalhouse.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedModHouse
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Museuminterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: MuseumInteriorMod
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Shatteredrooms.lethalbundle
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Storagecomplex.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedModComplex
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Therubberrooms.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: TheRubberRoomMod
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Toystoreinterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ToyStoreMod
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Wiseweaponry.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: WiseWeaponry
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Playzone-interior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: PlayZoneExtendedMod
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for AquaticDungeonFlow
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for junkrooms
+[Warning:dev.ladyalice.dungenplus] Already contains DunGenExtender asset for shatteredrooms
+[Info   :JacobG5.JLL] [User] Successfully Registered 9 JLLMods and 0 LevelPropertyOverrides.
+[Info   :LethalLevelLoader] LethalBundleManger Finished Requested Load
+[Info   :LethalLevelLoader] Custom Content Processed. Unlocking Main Menu.
+[Info   :ReservedFlashlightSlot-2.0.10] Initializing hotkeys.
+[Info   :ReservedWalkieSlot-2.0.7] Initializing hotkeys.
+[Info   :RuntimeIcons] Starting compute thread!
+[Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
+[Info   : Elads HUD] 86 plugins loaded
+[Info   : Elads HUD] Plugin GUID: .LCMaxSoundsFix
+[Info   : Elads HUD] Plugin GUID: 1.Waga.JigglePhysicsPlugin
+[Info   : Elads HUD] Plugin GUID: ACS.AdditionalContentFramework
+[Info   : Elads HUD] Plugin GUID: ainavt.lc.lethalconfig
+[Info   : Elads HUD] Plugin GUID: antlershed.lethalcompany.enemyskinregistry
+[Info   : Elads HUD] Plugin GUID: AntlerShed.LethalCompany.EnemySkinKit
+[Info   : Elads HUD] Plugin GUID: atk.lethalcompany.laternights
+[Info   : Elads HUD] Plugin GUID: AudioKnight.StarlancerAIFix
+[Info   : Elads HUD] Plugin GUID: com.rune580.LethalCompanyInputUtils
+[Info   : Elads HUD] Plugin GUID: NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
+[Info   : Elads HUD] Plugin GUID: BetterEmotes
+[Info   : Elads HUD] Plugin GUID: butterystancakes.lethalcompany.barberfixes
+[Info   : Elads HUD] Plugin GUID: butterystancakes.lethalcompany.classicsuitrestoration
+[Info   : Elads HUD] Plugin GUID: butterystancakes.lethalcompany.meleefixes
+[Info   : Elads HUD] Plugin GUID: butterystancakes.lethalcompany.upturnedvariety
+[Info   : Elads HUD] Plugin GUID: evaisa.lethallib
+[Info   : Elads HUD] Plugin GUID: Ccode.SirenHead
+[Info   : Elads HUD] Plugin GUID: com.github.lethalcompanymodding.vertexlibrary
+[Info   : Elads HUD] Plugin GUID: MaxWasUnavailable.LethalModDataLib
+[Info   : Elads HUD] Plugin GUID: imabatby.lethallevelloader
+[Info   : Elads HUD] Plugin GUID: com.github.lethalcompanymodding.runtimeicons
+[Info   : Elads HUD] Plugin GUID: CustomSounds
+[Info   : Elads HUD] Plugin GUID: Damir.longerDayMod
+[Info   : Elads HUD] Plugin GUID: dev.ladyalice.dungenplus
+[Info   : Elads HUD] Plugin GUID: dev.ladyalice.dungenplus.loadstonepatch
+[Info   : Elads HUD] Plugin GUID: discount.alert
+[Info   : Elads HUD] Plugin GUID: DiscountSync
+[Info   : Elads HUD] Plugin GUID: DistinctBlaze.ColorfulEnemyVariety
+[Info   : Elads HUD] Plugin GUID: doggosuki.Huntdown
+[Info   : Elads HUD] Plugin GUID: FlipMods.BetterStamina
+[Info   : Elads HUD] Plugin GUID: FlipMods.FasterItemDropship
+[Info   : Elads HUD] Plugin GUID: FlipMods.ObjectVolumeController
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedItemSlotCore
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedFlashlightSlot
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedWalkieSlot
+[Info   : Elads HUD] Plugin GUID: FlipMods.TooManyEmotes
+[Info   : Elads HUD] Plugin GUID: GGMD.GenericInteriors
+[Info   : Elads HUD] Plugin GUID: HoldScanButton
+[Info   : Elads HUD] Plugin GUID: iambatby.dynamicinteriorvariety
+[Info   : Elads HUD] Plugin GUID: ImmersiveVisor
+[Info   : Elads HUD] Plugin GUID: io.daxcess.nojumpdelay
+[Info   : Elads HUD] Plugin GUID: JacobG5.JLL
+[Info   : Elads HUD] Plugin GUID: JacobG5.JLLItemModule
+[Info   : Elads HUD] Plugin GUID: JacobG5.WesleyMoonScripts
+[Info   : Elads HUD] Plugin GUID: LCSoundTool
+[Info   : Elads HUD] Plugin GUID: LethalFashion
+[Info   : Elads HUD] Plugin GUID: LethalGravityControl
+[Info   : Elads HUD] Plugin GUID: pacoito.itolib
+[Info   : Elads HUD] Plugin GUID: LethalMatt.PlayZone
+[Info   : Elads HUD] Plugin GUID: LethalPhones
+[Info   : Elads HUD] Plugin GUID: me.swipez.melonloader.morecompany
+[Info   : Elads HUD] Plugin GUID: MaskedEnemyRework
+[Info   : Elads HUD] Plugin GUID: me.eladnlg.customhud
+[Info   : Elads HUD] Plugin GUID: Mhz.MoreHead
+[Info   : Elads HUD] Plugin GUID: Miodec.HideChat
+[Info   : Elads HUD] Plugin GUID: MW.MagicWesleyInteriors
+[Info   : Elads HUD] Plugin GUID: nomnomab.rollinggiant
+[Info   : Elads HUD] Plugin GUID: NoteBoxz.NotezyLib
+[Info   : Elads HUD] Plugin GUID: Zaggy1024.PathfindingLib
+[Info   : Elads HUD] Plugin GUID: Piggy.LCOffice
+[Info   : Elads HUD] Plugin GUID: Piggy.PiggyVarietyMod
+[Info   : Elads HUD] Plugin GUID: PopleZoo.BetterItemScan
+[Info   : Elads HUD] Plugin GUID: RickArg.lethalcompany.helmetcameras
+[Info   : Elads HUD] Plugin GUID: RugbugRedfern.SkinwalkerMod
+[Info   : Elads HUD] Plugin GUID: Scopophobia
+[Info   : Elads HUD] Plugin GUID: solidlib
+[Info   : Elads HUD] Plugin GUID: SoulDev
+[Info   : Elads HUD] Plugin GUID: sparble.slendermanmod
+[Info   : Elads HUD] Plugin GUID: Swaggies.NaturalHealthRegen
+[Info   : Elads HUD] Plugin GUID: Swaggies.NMCrosshair
+[Info   : Elads HUD] Plugin GUID: taffyko.BetterSprayPaint
+[Info   : Elads HUD] Plugin GUID: taffyko.NameplateTweaks
+[Info   : Elads HUD] Plugin GUID: TDP.CoilHeadStare
+[Info   : Elads HUD] Plugin GUID: TestAccount666.DoorBreach
+[Info   : Elads HUD] Plugin GUID: WhiteSpike.InteractiveTerminalAPI
+[Info   : Elads HUD] Plugin GUID: TestAccount666.TestAccountCore
+[Info   : Elads HUD] Plugin GUID: TestAccount666.ShipWindows
+[Info   : Elads HUD] Plugin GUID: Tomatobird.InteriorFogConfig
+[Info   : Elads HUD] Plugin GUID: x753.More_Suits
+[Info   : Elads HUD] Plugin GUID: TooManySuits
+[Info   : Elads HUD] Plugin GUID: twig.latecompany
+[Info   : Elads HUD] Plugin GUID: x753.Mimics
+[Info   : Elads HUD] Plugin GUID: XuuXiaolan.SoftMaskKiller
+[Info   : Elads HUD] Plugin GUID: YoutubeBoomBox
+[Info   : Elads HUD] Plugin GUID: zigzag.premiumscraps
+[Info   : Elads HUD] Plugin GUID: zigzag.chillaxscraps
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :LethalLevelLoader] baykalscene.lethalbundle Unloaded (7.32s)
+[Info   :LethalLevelLoader] calypsolevel.lethalbundle Unloaded (7.35s)
+[Info   :LethalLevelLoader] espirascene.lethalbundle Unloaded (7.38s)
+[Info   :LethalLevelLoader] etherscene.lethalbundle Unloaded (7.41s)
+[Info   :LethalLevelLoader] flickerscene.lethalbundle Unloaded (7.45s)
+[Info   :LethalLevelLoader] geminiscene.lethalbundle Unloaded (7.62s)
+[Info   :LethalLevelLoader] halationscene.lethalbundle Unloaded (7.62s)
+[Info   :LethalLevelLoader] lamentscene.lethalbundle Unloaded (7.62s)
+[Info   :LethalLevelLoader] lithiumscene.lethalbundle Unloaded (7.65s)
+[Info   :LethalLevelLoader] makronscene.lethalbundle Unloaded (7.68s)
+[Info   :LethalLevelLoader] mazonlevel.lethalbundle Unloaded (7.71s)
+[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Unloaded (7.74s)
+[Info   :LethalLevelLoader] pareidoliascene.lethalbundle Unloaded (7.75s)
+[Info   :LethalLevelLoader] praetorscene.lethalbundle Unloaded (7.78s)
+[Info   :LethalLevelLoader] prismscene.lethalbundle Unloaded (7.78s)
+[Info   :LethalLevelLoader] rockwellscene.lethalbundle Unloaded (7.82s)
+[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Unloaded (7.85s)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :LethalLevelLoader] Registering Bundle Content!
+[Info   :LethalLevelLoader] Skipped Registering 1773 NetworkObjects As They Were Already Registered.
+[Info   :MaxWasUnavailable.LethalModDataLib] Registering ModDataAttribute fields...
+[Info   :MaxWasUnavailable.LethalModDataLib] Hooking up save, load and delete events...
+[Info   :MaxWasUnavailable.LethalModDataLib] ModDataHandler initialised!
+[Info   :RuntimeIcons] Caching vertexes for 230 items!
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :MoreCompany] LANMenu startLAN Patched
+[Info   :LethalPhones] Injecting phone customization menu into main menu...
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :FixPluginTypesSerialization] Restored original AssemblyNames list
