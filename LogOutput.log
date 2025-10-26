@@ -51,7 +51,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 105 plugins to load
+[Info   :   BepInEx] 135 plugins to load
 [Info   :   BepInEx] Loading [LCMaxSoundsFix 1.2.0]
 [Info   :LCMaxSoundsFix] Plugin LCMaxSoundsFix is loaded!
 [Info   :LCMaxSoundsFix] Audio settings (numRealVoices=128; numVirtualVoices=1024) are applied.
@@ -137,6 +137,10 @@
 [Info   :DawnLib.DuskMod] com.github.teamxiaolan.dawnlib.dusk v0.2.16 has loaded!
 [Info   :   BepInEx] Loading [Moon Day Speed Multiplier Patcher 1.0.0]
 [Info   :Moon Day Speed Multiplier Patcher] Moon Day Speed Multiplier Patcher 1.0.0 has been loaded successfully.
+[Info   :   BepInEx] Loading [DontTouchMyClogs 1.2.0]
+[Info   :com.github.zehsteam.DontTouchMyClogs] DontTouchMyClogs has awoken!
+[Info   :com.github.zehsteam.DontTouchMyClogs] Successfully loaded assets from AssetBundle!
+[Info   :com.github.zehsteam.DontTouchMyClogs] Registered "Wooden Clogs" scrap item with 5 rarity.
 [Info   :   BepInEx] Loading [CSync 5.0.1]
 [Info   :     CSync] CSync successfully applied patches.
 [Info   :   BepInEx] Loading [Lethal Company Input Utils 0.7.12]
@@ -169,7 +173,10 @@
 [Info   :More Ship Upgrades] Game managers have been patched
 [Info   :More Ship Upgrades] Weathers have been patched
 [Info   :More Ship Upgrades] More Ship Upgrades 3.12.8 has been loaded successfully.
+[Info   :   BepInEx] Loading [The Fiend 0.0.0]
 [Info   :   BepInEx] Loading [LethalSettings 1.4.1]
+[Info   :   BepInEx] Loading [Locker 1.6.2]
+[Info   :    Locker] Loaded asset bundle from path: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Locker
 [Info   :   BepInEx] Loading [Custom Sounds 2.3.2]
 [Info   :CustomSounds] "HideManagerGameObject" is correctly set to true.
 [Info   :CustomSounds] Plugin CustomSounds is loaded!
@@ -226,7 +233,11 @@
 [Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for sdmBasement
 [Info   :LethalLevelLoader] Found ExtendedMod: ScarletDevilMansionMod
 [Info   :   BepInEx] Loading [Scarlet Mansion Coroner Patch 1.0.0]
+[Info   :   BepInEx] Loading [Mimics 2.7.2]
+[Info   :x753.Mimics] Plugin Mimics is loaded!!
 [Info   :   BepInEx] Loading [Scarlet Mansion Mimics Patch 1.0.0]
+[Info   :dev.ladyalice.scarletmansion.mimicspatch] Plugin Scarlet Mansion Mimics Patch has been added!
+[Info   :x753.Mimics] Registered handler for dev.ladyalice.scarletmansion.mimicspatch
 [Info   :   BepInEx] Loading [DiscountAlert 2.3.0.0]
 [Info   :DiscountAlert] Plugin discount.alert is loaded!
 [Info   :   BepInEx] Loading [DiscountSync 1.0.22]
@@ -244,9 +255,93 @@
 [Info   :LethalThings] LethalThings loaded successfully!!!
 [Info   :   BepInEx] Loading [Needy Cats 1.2.3]
 [Info   :Jordo.NeedyCats] Initialized Needy Cats
+[Info   :   BepInEx] Loading [Solid's Library 1.2.1]
+[Info   :Solid's Library] Initializing Library
+[Info   :Solid's Library] [Registry] Initializing GameObject registry holder
+[Info   :Solid's Library] [Registry] Initializing AudioClip registry holder
+[Info   :Solid's Library] [Registry] Initializing Material registry holder
+[Info   :Solid's Library] [Registry] Initializing Item registry holder
+[Info   :Solid's Library] [Registry] Initializing EnemyType registry holder
+[Info   :Solid's Library] [Registry] Initializing SpawnableOutsideObjectDef registry holder
+[Info   :Solid's Library] [Registry] Initializing SpawnableMapObjectDef registry holder
+[Info   :Solid's Library] [Registry] Initializing TerminalNode registry holder
+[Info   :Solid's Library] [Registry] Initializing TerminalKeyword registry holder
+[Info   :   BepInEx] Loading [Surfaced 1.5.6]
+[Warning:Solid's Library] [Registry] Registry with name SuperScaryLobsterJumpscareWarning is already registered.
+[Warning:Solid's Library] [Registry] Registry with name BellCrab is already registered.
+[Info   :Solid's Library] [Registry] Initalizing MapObjects for SolidLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[Info   :Solid's Library] [Registry] Initalizing Enemys for SolidLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[Info   :Solid's Library] [Registry] Initalizing Items for SolidLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[Info   :Solid's Library] BellCrabItem
+[Info   :Solid's Library] PickleStickItem
+[Info   :Solid's Library] BlahuceItem
+[Info   :Solid's Library] RodrigoItem
+[Info   :  Surfaced] Surfaced Enemies is loaded!!
+[Info   :   BepInEx] Loading [MoreCompany 1.12.0]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Loading SETTINGS...
+[Info   :MoreCompany] Checking: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Loading COSMETICS...
+[Info   :MoreCompany] Loading DEFAULT COSMETICS...
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.ballcannon from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.cardboardcrown from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.lasergun from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.laservest from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.burningflamesteamcaptain from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\burningflamesteamcaptain.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.dominusempyreus from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\dominusempyreus.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.maxwell from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\maxwell.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.oscar from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\oscar.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.tbhcreature from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\tbhcreature.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.toweringpillarofhats from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\toweringpillarofhats.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.valkyriehelm from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\valkyriehelm.cosmetics
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [TooManyEmotes 2.3.13]
+[Info   :TooManyEmotes-2.3.13] BindingConfigs
+[Info   :TooManyEmotes-2.3.13] Initializing custom emote hotkeys.
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 29 animation clips from asset bundle: Assets/emotes_complementary
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 106 animation clips from asset bundle: Assets/emotes_0
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 190 animation clips from asset bundle: Assets/emotes_1
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 116 animation clips from asset bundle: Assets/emotes_2
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 8 animation clips from asset bundle: Assets/emotes_3
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 11 animation clips from asset bundle: Assets/emotes_special
+[Info   :TooManyEmotes-2.3.13] Successfully loaded radial menu asset.
+[Info   :TooManyEmotes-2.3.13] Loaded 27 emote props.
+[Info   :TooManyEmotes-2.3.13] Loading 144 dmca-free audio clips.
+[Info   :TooManyEmotes-2.3.13] Loading 241 dmca audio clips.
+[Info   :TooManyEmotes-2.3.13] TooManyEmotes finished loading!
+[Info   :   BepInEx] Loading [Emergency Dice Updated 1.13.4]
+[Message:Emergency Dice Updated] LethalThings compatibility enabled!
+[Message:Emergency Dice Updated] Surfaced compatibility enabled!
+[Message:Emergency Dice Updated] Nav Mesh In Company compatibility enabled! >:)
+[Message:Emergency Dice Updated] Dancing Enabled!
+[Info   :Emergency Dice Updated] The Emergency Dice mod was initialized!
 [Info   :   BepInEx] Loading [Huntdown 1.6.4]
 [Info   :  Huntdown] LethalThings detected.  Zombie missions and more rewards will be available.
 [Info   :  Huntdown] Needy Cats detected.  Cat rewards will be available.
+[Info   :  Huntdown] Emergency Dice detected.  Dice rewards will be available.
+[Info   :  Huntdown] Surfaced detected.  Bell Crab mission will be available.
 [Info   :  Huntdown] Starlancer AI Fix detected.  More missions will be available.
 [Info   :  Huntdown] Binding configs.
 [Info   :  Huntdown] [0] Binding: Display Target at Round Start
@@ -388,7 +483,7 @@
 [Info   :  Huntdown] Creating mission: The Manor Lord, Weight: 5, Enabled: False
 [Info   :  Huntdown] Creating mission: Janitor, Weight: 60, Enabled: False
 [Info   :  Huntdown] Creating mission: Cleaner Rivals, Weight: 40, Enabled: False
-[Info   :  Huntdown] Creating mission: Bell Crab, Weight: 75, Enabled: False
+[Info   :  Huntdown] Creating mission: Bell Crab, Weight: 75, Enabled: True
 [Info   :  Huntdown] Missions successfully created.
 [Info   :  Huntdown] Patching mod.
 [Info   :  Huntdown] Patches were successful.
@@ -413,26 +508,15 @@
 [Info   :ReservedWalkieSlot-2.0.7] BindingConfigs
 [Info   :ReservedItemSlotCore-2.0.52] Created ReservedItemSlotData for: walkie_talkie. Slot priority: 150
 [Info   :ReservedWalkieSlot-2.0.7] ReservedWalkieSlot loaded
-[Info   :   BepInEx] Loading [TooManyEmotes 2.3.13]
-[Info   :TooManyEmotes-2.3.13] BindingConfigs
-[Info   :TooManyEmotes-2.3.13] Initializing custom emote hotkeys.
-[Info   :TooManyEmotes-2.3.13] Successfully loaded 29 animation clips from asset bundle: Assets/emotes_complementary
-[Info   :TooManyEmotes-2.3.13] Successfully loaded 106 animation clips from asset bundle: Assets/emotes_0
-[Info   :TooManyEmotes-2.3.13] Successfully loaded 190 animation clips from asset bundle: Assets/emotes_1
-[Info   :TooManyEmotes-2.3.13] Successfully loaded 116 animation clips from asset bundle: Assets/emotes_2
-[Info   :TooManyEmotes-2.3.13] Successfully loaded 8 animation clips from asset bundle: Assets/emotes_3
-[Info   :TooManyEmotes-2.3.13] Successfully loaded 11 animation clips from asset bundle: Assets/emotes_special
-[Info   :TooManyEmotes-2.3.13] Successfully loaded radial menu asset.
-[Info   :TooManyEmotes-2.3.13] Loaded 27 emote props.
-[Info   :TooManyEmotes-2.3.13] Loading 144 dmca-free audio clips.
-[Info   :TooManyEmotes-2.3.13] Loading 241 dmca audio clips.
-[Info   :TooManyEmotes-2.3.13] TooManyEmotes finished loading!
 [Info   :   BepInEx] Loading [Generic interior modifications 1.0.0]
 [Info   :       Cat] Meow?
 [Info   :       Cat] Meow.
 [Info   :   BepInEx] Loading [HoldScanButton 1.0.0]
 [Info   :HoldScanButton] Plugin HoldScanButton has loaded!
 [Info   :   BepInEx] Loading [DynamicInteriorVariety 1.0.0]
+[Info   :   BepInEx] Loading [ImmersiveVisor 0.5.2]
+[Info   :ImmersiveVisorLogSource] Mod Loading...
+[Info   :ImmersiveVisorLogSource] Mod Loaded
 [Info   :   BepInEx] Loading [ImmortalSnail 0.7.4]
 [Info   :ImmortalSnail] Loading a mod by swAAn
 
@@ -499,6 +583,25 @@ Parameter name: key
 [Info   :Lethal Company API] LC_API Starting up..
 [Info   :   BepInEx] Loading [LCBetterSaves 1.7.3]
 [Info   :LCBetterSaves] Plugin LCBetterSaves is loaded!
+[Info   :   BepInEx] Loading [LCGoldScrapMod 2.2.5]
+[Info   :LCGoldScrapMod] Plugin LCGoldScrapMod is loaded!
+[Info   :LCGoldScrapMod] Successfully found SaveData folder
+[Info   :LCGoldScrapMod] Loaded LCGoldScrapMod AssetBundle
+[Info   :LCGoldScrapMod] Loaded LCGoldScrapMod SaveData
+[Info   :LCGoldScrapMod] Config [Selected Moons] is set to All
+[Info   :LCGoldScrapMod] Config [Multiplier Minimum Value] is set to a value of 2.5
+[Info   :LCGoldScrapMod] Config [Multiplier Maximum Value] is set to a value of 2
+[Info   :LCGoldScrapMod] Config [Multiplier Rarity] is set to a value of 3
+[Info   :LCGoldScrapMod] Config [Multiplier Weight] is set to a value of 1.5
+[Info   :LCGoldScrapMod] Config [Multiplier Price] is set to a value of 1
+[Info   :LCGoldScrapMod] Config [Modded Spawn Enabled] is set to TRUE. Gold scrap can spawn on moons added through mods.
+[Info   :LCGoldScrapMod] Config [Modded Spawn Rarity] is set to a value of 1
+[Info   :LCGoldScrapMod] Config [Modded Minimum Cost] is set to a value of 0
+[Info   :LCGoldScrapMod] Config [Other New Sounds] is set to TRUE. Loading new Golden Glove sounds...
+[Info   :LCGoldScrapMod] Config [Other Sound Effects] is set to TRUE. Loading unique item sounds...
+[Info   :LCGoldScrapMod] Config [Other Enemy Sounds] is set to FALSE. Vanilla Lethal Company enemy sounds will be loaded.
+[Info   :LCGoldScrapMod] Config [Other Scan Command] is set to FALSE. The Terminal will use the vanilla Lethal Company scan.
+[Info   :LCGoldScrapMod] Config [Other Tools Balance] is set to FALSE. Gold scrap with gameplay uses will function as intended, by getting struck by lightning with no other penalty.
 [Info   :   BepInEx] Loading [LC Sound Tool 1.5.1]
 [Info   :LCSoundTool] Plugin LCSoundTool is loaded!
 [Info   :   BepInEx] Loading [MoreItems 8.7.0]
@@ -508,51 +611,89 @@ Parameter name: key
 [Info   :   BepInEx] Loading [itolib 0.5.1]
 [Info   :    itolib] itolib v0.5.1 loaded!
 [Info   :   BepInEx] Loading [BozorosPlugin 2.6.0]
+[Info   :x753.Mimics] Registered handler for LethalMatt.Bozoros
 [Info   :BozorosPlugin] 'BozorosPlugin' loaded!
 [Info   :   BepInEx] Loading [PlayZone 1.1.3]
 [Info   :  PlayZone] PlayZone v1.1.3 loaded!
 [Info   :   BepInEx] Loading [LethalNetworkAPI 3.3.2]
 [Info   :LethalNetworkAPI] LethalNetworkAPI v3.3.2 has Loaded.
-[Info   :   BepInEx] Loading [MoreCompany 1.12.0]
-[Info   :MoreCompany] Loading MoreCompany...
-[Info   :MoreCompany] Loading SETTINGS...
-[Info   :MoreCompany] Checking: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
-[Info   :MoreCompany] Loading COSMETICS...
-[Info   :MoreCompany] Loading DEFAULT COSMETICS...
-[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle: morecompany.cosmetics
-[Info   :MoreCompany] Loading USER COSMETICS...
-[Info   :MoreCompany] Loaded cosmetic: lethalmatt.ballcannon from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: lethalmatt.cardboardcrown from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: lethalmatt.lasergun from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: lethalmatt.laservest from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.burningflamesteamcaptain from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\burningflamesteamcaptain.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.dominusempyreus from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\dominusempyreus.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.maxwell from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\maxwell.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.oscar from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\oscar.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.tbhcreature from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\tbhcreature.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.toweringpillarofhats from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\toweringpillarofhats.cosmetics
-[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.valkyriehelm from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\valkyriehelm.cosmetics
-[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [Mirage.Core 1.0.4]
+[Info   :   BepInEx] Loading [Mirage 1.28.0]
+[Info   :   BepInEx] Loading [LethalPhones 1.3.18]
+[Info   :LethalPhones] Loading LethalPhones Version 1.3.18
+[Info   :LethalPhones] Loading Assets...
+[Info   :LethalPhones] Loading default phone customization...
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.bee
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.blue
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.bunny
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.casinonights
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.cityrug
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.default
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.goku
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.green
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.hazard
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.killer
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.kitten
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.lego
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.missing
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.pacman
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.pajama
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.pastel
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.punk
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.purple
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.red
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.redshirt
+[Info   :LethalPhones] Loaded skin customization: lethalphones.customizations.rust
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.babybuddy
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.beehive
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.brackenbuddy
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.buggybuddy
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.coilbuddy
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.cruiser
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.default
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.egg
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.eggbigeyes
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.egglongarms
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.eggsmallbeak
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.fuzzydice
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.masked
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.phonecharm
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridebi
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridelesbian
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridemlm
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridenonbinary
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridepan
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridepride
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.prideprogress
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.pridetrans
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.shovel
+[Info   :LethalPhones] Loaded charm customization: lethalphones.customizations.wriststrap
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.babyhotline
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.beethoven
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.boombox
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.callmemaybe
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.caramelldansen
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.crazyfrog
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.darude
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.default
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.drowning
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.lambda_boombox5
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.lambda_delivery
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.nevergonnagiveyouup
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.nokiamozart
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.nokiatoreador
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.pacman_dubstep
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.reactor
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.ribs
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.skype
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.whatsnewpussycat
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.wndrwll
+[Info   :LethalPhones] Loaded ringtone customization: lethalphones.customizations.wonderwall
+[Info   :LethalPhones] Loading user phone customization...
+[Info   :LethalPhones] Applying patches...
+[Info   :LethalPhones] Patches applied
+[Info   :LethalPhones] Setting up AudioSource Hook
+[Info   :LethalPhones] Loaded Mirage Compatability
 [Info   :   BepInEx] Loading [MaskedEnemyRework 3.4.0]
 [Info   :MaskedEnemyRework] Plugin MaskedEnemyRework is loaded! Woohoo!
 [Info   :   BepInEx] Loading [Elads HUD 1.2.3]
@@ -614,170 +755,289 @@ Parameter name: key
 [Info   :PiggyVarietyMod] Successfully loaded assets!
 [Info   :Piggy.PiggyVarietyMod] Piggy's Variety Mod is loaded
 [Info   :Piggy.PiggyVarietyMod] Netcode Successfully Patched!
-[Info   :   BepInEx] Loading [Mirage.Core 1.0.4]
+[Info   :   BepInEx] Loading [Better Item Scan 3.0.0.2]
+[Info   :PopleZoo.BetterItemScan] Plugin BetterItemScan is loaded!
+[Info   :   BepInEx] Loading [SCP_106 1.1.2]
+[Info   :   SCP_106] SCP_106 starting....
+[Info   :   SCP_106] SCP_106 bundle found !
+[Info   :   SCP_106] SCP106 FOUND
+[Info   :   SCP_106] SCP106 (UnityEngine.GameObject) prefab
+[Info   :   SCP_106] SCPTrap prefab
+[Info   :   SCP_106] DimensionSCP106 FOUND
+[Info   :   SCP_106] SCP_106 is ready!
+[Info   :   BepInEx] Loading [Wither 2.0.1]
+[Warning:MaxWasUnavailable.LethalModDataLib] Failed to get plugin info for assembly ScienceBird.Wither, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null!
+[Info   :    Wither] ScienceBird.Wither v2.0.1 has loaded!
+[Info   :   BepInEx] Loading [Monster Plushies 1.2.9]
+[Info   :Monster Plushies] Loaded Monster Plushies
 [Info   :   BepInEx] Loading [Scopophobia 1.1.5]
 [Info   :Scopophobia] Scopophobia | SCP-096 has entered the facility. All remaining personnel proceed with caution.
 [Info   :   BepInEx] Loading [SCPCBDunGen 4.3.5]
 [Info   :SCPCBDunGen] PiggysVarietyMod detected and compatibility layer enabled! Adding tesla gate room.
 [Info   :SCPCBDunGen] SCP:CB DunGen for Lethal Company [Version 4.3.5] successfully loaded.
 [Info   :SCPCBDunGen] SCPCBDunGen v4.3.5 has loaded!
-[Info   :   BepInEx] Loading [Solid's Library 1.2.1]
-[Info   :Solid's Library] Initializing Library
-[Info   :Solid's Library] [Registry] Initializing GameObject registry holder
-[Info   :Solid's Library] [Registry] Initializing AudioClip registry holder
-[Info   :Solid's Library] [Registry] Initializing Material registry holder
-[Info   :Solid's Library] [Registry] Initializing Item registry holder
-[Info   :Solid's Library] [Registry] Initializing EnemyType registry holder
-[Info   :Solid's Library] [Registry] Initializing SpawnableOutsideObjectDef registry holder
-[Info   :Solid's Library] [Registry] Initializing SpawnableMapObjectDef registry holder
-[Info   :Solid's Library] [Registry] Initializing TerminalNode registry holder
-[Info   :Solid's Library] [Registry] Initializing TerminalKeyword registry holder
+[Info   :   BepInEx] Loading [DicePoltergeistCompat 1.0.0]
+[Info   :Emergency Dice Updated] Poltergeist not found disabling Poltergeist Compatability
+[Info   :   BepInEx] Loading [Dice Twitch Integration 1.0.0]
+[Info   :   BepInEx] Loading [DiceWeatherRegistryCompat 1.0.0]
+[Info   :Emergency Dice Updated] WeatherRegistry not found disabling WeatherRegistry Compatability
 [Info   :   BepInEx] Loading [Soul Devourer Enemy 1.0.0]
 [Warning:Solid's Library] [Registry] Registry with name Soul_Devourer is already registered.
 [Info   :Solid's Library] [Registry] Initalizing Enemys for SolidLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 [Info   :Soul Devourer Enemy] Plugin SoulDev is loaded!
+[Info   :   BepInEx] Loading [SlendermanMod 1.2.1]
+[Info   :SlendermanMod] Registered spawn rate for level type All to 2
+[Info   :SlendermanMod] Registered spawn rate for level type AssuranceLevel to 1
+[Info   :SlendermanMod] Registered spawn rate for level type VowLevel to 10
+[Info   :SlendermanMod] Registered spawn rate for level type MarchLevel to 10
+[Info   :SlendermanMod] Registered spawn rate for level type DineLevel to 7
+[Info   :SlendermanMod] Registered spawn rate for level type RendLevel to 8
+[Info   :SlendermanMod] Registered spawn rate for level type TitanLevel to 5
+[Info   :SlendermanMod] Registered spawn rate for level type AdamanceLevel to 10
+[Info   :SlendermanMod] Registered spawn rate for level type ArtificeLevel to 7
+[Info   :SlendermanMod] Registered spawn rate for custom level type Gloom to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Auralis to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Junic to 9
+[Info   :SlendermanMod] Registered spawn rate for custom level type Acidir to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Cosmocos to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Polarus to 1
+[Info   :SlendermanMod] Registered spawn rate for custom level type Desolation to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Embrion to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Affliction to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Eve to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Gratar to 7
+[Info   :SlendermanMod] Registered spawn rate for custom level type Infernis to 6
+[Info   :SlendermanMod] Registered spawn rate for custom level type Harloth to 7
+[Info   :SlendermanMod] Registered spawn rate for custom level type Asteroid to 4
+[Info   :SlendermanMod] Registered spawn rate for custom level type Celest to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Siabudabu to 9
+[Info   :SlendermanMod] Registered spawn rate for custom level type Ganimedes to 7
+[Info   :SlendermanMod] Registered spawn rate for custom level type Kast to 7
+[Info   :SlendermanMod] Registered spawn rate for custom level type Secret Labs to 11
+[Info   :SlendermanMod] Registered spawn rate for custom level type Solace to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Synthesis to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type PsychSanctum to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Sanguine to 10
+[Info   :SlendermanMod] Registered spawn rate for custom level type Harloth to 4
+[Info   :SlendermanMod] Plugin sparble.slendermanmod is loaded!
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣾⣿⣶⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣾⣿⣿⣿⣶⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⠟⠛⠻⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠃⠀⠀⠀⠘⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⡿⠋⠀⠀⠈⠻⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⡄⠀⠀⠀⠀⠘⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⡿⠁⠀⠀⠀⠀⠀⠘⣿⣿⣧⢀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⣀⣴⣾⣿⣿⣿⣿⣿⣿⣶⣿⣿⣿⣇⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⣿⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⡈⠂⠀⠀⠀⠀⠀⠐⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⢿⣿⣿⣧⠀⠀⠀
+[Info   :SlendermanMod] ⠀⣼⣿⣿⡿⠛⠉⠉⠙⠻⢿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⢠⣿⣿⣿⡇⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣇⣿⠟⠉⢠⠀⠀⠀⠀⠈⢿⣿⣧⠀⠀
+[Info   :SlendermanMod] ⢰⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠈⣿⣿⣿⣿⣿⣧⠀⣀⠀⠀⣠⣿⣿⣿⣿⡇⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⡄⠀⣠⣾⠀⠀⠀⠀⠀⠈⣿⣿⠀⠀
+[Info   :SlendermanMod] ⣸⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣆⠀⠀⠀⢸⣿⣿⣿⣿⡟⠣⡈⠉⠉⠁⡙⠻⣿⣿⡇⠀⠀⠀⢠⣿⣿⣿⣿⣿⡿⢿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀
+[Info   :SlendermanMod] ⢿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠈⢻⣿⣿⣿⣿⣿⣦⠀⠀⠀⣿⣿⣿⣿⡇⠀⠙⢦⣠⠞⠁⠀⣿⣿⣦⣄⣀⣀⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⡟⠀⠀
+[Info   :SlendermanMod] ⢸⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⢸⣇⠀⠀⢀⣿⣿⣿⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⡴⠶⣿⣿⣿⠓⢶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⣾⡏⠀⠀⢀⣴⣿⠟⠀⠀⠀
+[Info   :SlendermanMod] ⠀⢻⣿⣿⣆⠀⠀⠀⠀⠀⠀⠈⢿⣷⣶⣾⣿⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⢸⣯⡏⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⢀⣙⣻⣿⣿⣿⣿⣷⣦⣄⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠙⢿⣿⣧⣄⠀⠀⠀⠀⣀⣠⣭⣽⣋⣁⠀⢨⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣼⣿⣿⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⡿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠋⠉⠉⠻⣿⣿⣿⣿⣿
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣯⠁⠀⠀⠀⠈⠙⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⠇
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⠏⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠘⣿⣿⣷⡀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⡏⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣹⣿⣿⣿⣿⣿⣿⣿⣿⡟⠿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⠟⠁⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣄⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⠁⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢿⣿⣿⣿⣿⣿⠀⢀⣴⣾⣿⡿⠟⠛⠋⠉⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣷⡄⠀⠀⣿⣿⣿⣿⣿⡏⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠘⣿⣿⣿⣿⣿⣰⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⡆⢸⣿⣿⣿⣿⣿⠁⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢻⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⡇⣸⣿⣿⣿⣿⡏⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠘⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠠⣄⣀⣠⣾⡿⠁⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⢀⣿⣿⣿⣿⣿⣄⡀⣀⡤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠛⠋⠀⠀⢿⣿⣿⣿⣿⣿⣦⡀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⢹⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⣠⣿⣿⣿⣿⣿⣿⠛⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⣦⣀⣿⣿⣿⣿⣿⣿⣿⣿⣸⣿⣿⣿⣿⣿⣿⣿⣿⣤⣾⣿⣿⣿⣿⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Info   :SlendermanMod] Don't forget to check your back...
+[Info   :   BepInEx] Loading [NaturalHealthRegen 0.1.2]
+[Info   :Swaggies.NaturalHealthRegen] NaturalHealthRegen up and running.
 [Info   :   BepInEx] Loading [BetterSprayPaint 2.0.9]
 [Info   :BetterSprayPaint] Loading taffyko.BetterSprayPaint
+[Info   :   BepInEx] Loading [NameplateTweaks 1.0.6]
+[Info   :NameplateTweaks] Loading taffyko.NameplateTweaks
+[Info   :   BepInEx] Loading [CoilHeadStare 1.1.0]
+[Info   :TDP.CoilHeadStare] CoilHeadStare 1.1.0 loaded. (TUS=8, MSD=6, HTS=0.3, SR=True)
+[Info   :   BepInEx] Loading [DoorBreach 1.5.0]
+[Info   :DoorBreach] Loading Sounds...
+[Info   :DoorBreach] Loading Door Sounds...
+[Error  :DoorBreach] Failed to load AudioClip: HTTP/1.1 404 Not Found
+[Info   :DoorBreach] Failed to load clip 'DoorHitKnife'!
+[Error  :DoorBreach] Failed to load AudioClip: HTTP/1.1 404 Not Found
+[Info   :DoorBreach] Failed to load clip 'DoorHitShovel'!
+[Error  :DoorBreach] Failed to load AudioClip: HTTP/1.1 404 Not Found
+[Info   :DoorBreach] Failed to load clip 'DoorBreak'!
+[Info   :DoorBreach] TestAccount666.DoorBreach v1.5.0 has loaded!
 [Info   :   BepInEx] Loading [TestAccountCore 1.14.4]
 [Info   :TestAccountCore] TestAccount666.TestAccountCore v1.14.4 has loaded!
+[Info   :   BepInEx] Loading [ShipWindows 2.6.0]
+[Info   :ShipWindows] Loading ShipWindow AssetBundle...
+[Info   :TestAccountCore] Registering unlockable Shutter Switch...
+[Info   :TestAccountCore] Fully registered unlockable Shutter Switch!
+[Info   :ShipWindows] Loading Wesley voice lines...
+[Info   :ShipWindows] Loaded line 'ShutterClose'!
+[Info   :ShipWindows] Loaded line 'ShutterOpen'!
+[Info   :ShipWindows] Loaded line 'SellCounter1'!
+[Info   :ShipWindows] Loaded successfully!
+[Info   :   BepInEx] Loading [More Suits 1.5.0]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Info   :   BepInEx] Loading [TooManySuits 2.0.2]
 [Info   :   BepInEx] Loading [MaskedInvisFix 0.0.2]
 [Info   :MaskedInvisFix] VirusTLNR.MaskedInvisFix v0.0.2 has loaded!
+[Info   :   BepInEx] Loading [HarbringerScripts 1.0.0]
+[Info   :   BepInEx] Loading [Lethal Escape 2.0.0]
+[Info   :Lethal Escape] Loaded xCeezy.LethalEscape. Patching.
 [Info   :   BepInEx] Loading [SoftMaskKiller 0.0.1]
 [Info   :SoftMaskKiller] Initializing Configs
 [Info   :SoftMaskKiller] Patching Methods
 [Info   :SoftMaskKiller] SoftMaskKiller v0.0.1 Loaded!
 [Info   :   BepInEx] Loading [CustomStoryLogs 1.5.2]
 [Error  :CustomStoryLogs] Failed to load custom assets.
+[Info   :   BepInEx] Loading [OpenBodyCams 3.0.10]
+[Info   :OpenBodyCams] Successfully loaded OpenBodyCams assets.
+[Info   :OpenBodyCams] Last config version is 3.0.10.
+[Info   :OpenBodyCams] Registered body cam unlockable for 200 credits.
+[Info   :OpenBodyCams] Patched MoreCompany to spawn cosmetics on the local player.
+[Info   :OpenBodyCams] MoreCompany compatibility mode is enabled.
+[Info   :OpenBodyCams] ReservedItemSlots compatibility mode is enabled.
+[Info   :   BepInEx] Loading [PremiumScraps 2.4.0]
+[Info   :PremiumScraps] PremiumScraps is loaded !
+[Info   :   BepInEx] Loading [ChillaxScraps 1.6.1]
+[Info   :ChillaxScraps] ChillaxScraps is loaded !
 [Info   :me.loaforc.soundapi] Starting Sound-pack loading pipeline
 [Warning:soundpack.FacilityMeltdown_Mappings] 1 warning(s) while loading 'C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\FacilityMeltdown\sound_pack.json': 
 [Warning:soundpack.FacilityMeltdown_Mappings] WARN: 'version' should not be empty, defaulting to '1.0.0' (needed by MetadataSpoofing config)
-[Info   :me.loaforc.soundapi] (Step 1) Loading Sound-pack definitions took 13ms
-[Info   :me.loaforc.soundapi] (Step 2) Loading Sound-pack mappings ('2') took 3ms
+[Info   :me.loaforc.soundapi] (Step 1) Loading Sound-pack definitions took 17ms
+[Info   :me.loaforc.soundapi] (Step 2) Loading Sound-pack mappings ('2') took 9ms
 [Info   :me.loaforc.soundapi] (Step 3) Skipped 0 collection(s), 0 replacement(s), 0 sound(s)
 [Info   :me.loaforc.soundapi] (Step 3) Loading sound replacement collections took 1ms
 [Info   :me.loaforc.soundapi] (Step 4) Started loading 0 audio file(s)
 [Info   :me.loaforc.soundapi] Waiting for splash screens to complete to continue...
 [Message:   BepInEx] Chainloader startup complete
-[Info   :LethalLevelLoader] baykalmoon.lethalbundle Loaded (58.31s)!
-[Info   :LethalLevelLoader] artmuseumart.lethalbundle Loaded (58.32s)!
-[Info   :LethalLevelLoader] asteroid13.lethalbundle Loaded (58.39s)!
-[Info   :LethalLevelLoader] baykalscene.lethalbundle Loaded (58.39s)!
-[Info   :LethalLevelLoader] asteroid14.lethalbundle Loaded (58.45s)!
-[Info   :LethalLevelLoader] calypsomoon.lethalbundle Loaded (58.48s)!
-[Info   :LethalLevelLoader] berunah.lethalbundle Loaded (58.50s)!
-[Info   :LethalLevelLoader] alcatras.lethalbundle Loaded (58.56s)!
-[Info   :LethalLevelLoader] atlantica.lethalbundle Loaded (58.84s)!
-[Info   :LethalLevelLoader] asteroid14scene.lethalbundle Loaded (58.85s)!
-[Info   :LethalLevelLoader] atlanticascenes.lethalbundle Loaded (58.85s)!
-[Info   :LethalLevelLoader] alcatrasscene.lethalbundle Loaded (58.85s)!
-[Info   :LethalLevelLoader] calypsolevel.lethalbundle Loaded (58.85s)!
-[Info   :LethalLevelLoader] calistscene.lethalbundle Loaded (58.85s)!
-[Info   :LethalLevelLoader] core.lethalbundle Loaded (58.87s)!
-[Info   :LethalLevelLoader] calist.lethalbundle Loaded (58.98s)!
-[Info   :LethalLevelLoader] cosmocositems.lethalbundle Loaded (59.02s)!
-[Info   :LethalLevelLoader] cosmocos.lethalbundle Loaded (59.38s)!
-[Info   :LethalLevelLoader] asteroid13scenes.lethalbundle Loaded (59.38s)!
-[Info   :LethalLevelLoader] cubatres.lethalbundle Loaded (59.41s)!
-[Info   :LethalLevelLoader] corescene.lethalbundle Loaded (59.41s)!
-[Info   :LethalLevelLoader] atlanticdungeoninterior.lethalbundle Loaded (60.25s)!
-[Info   :LethalLevelLoader] demetrica.lethalbundle Loaded (60.40s)!
-[Info   :LethalLevelLoader] berunahscene.lethalbundle Loaded (60.40s)!
-[Info   :LethalLevelLoader] cosmocosscene.lethalbundle Loaded (60.40s)!
-[Info   :LethalLevelLoader] crowed.lethalbundle Loaded (60.52s)!
-[Info   :LethalLevelLoader] end.lethalbundle Loaded (60.59s)!
-[Info   :LethalLevelLoader] dungeon_ravenmanor.lethalbundle Loaded (60.99s)!
-[Info   :LethalLevelLoader] demetricascene.lethalbundle Loaded (61.00s)!
-[Info   :LethalLevelLoader] empra.lethalbundle Loaded (61.00s)!
-[Info   :LethalLevelLoader] dungeon_studio.lethalbundle Loaded (61.16s)!
-[Info   :LethalLevelLoader] desolation.lethalbundle Loaded (61.21s)!
-[Info   :LethalLevelLoader] descent.lethalbundle Loaded (61.22s)!
-[Info   :LethalLevelLoader] dungeon_grayapartments.lethalbundle Loaded (61.66s)!
-[Info   :LethalLevelLoader] cubatresscene.lethalbundle Loaded (61.66s)!
-[Info   :LethalLevelLoader] desolationscenes.lethalbundle Loaded (61.66s)!
-[Info   :LethalLevelLoader] dungeon_subsystem.lethalbundle Loaded (61.87s)!
-[Info   :LethalLevelLoader] espiramoon.lethalbundle Loaded (62.11s)!
-[Info   :LethalLevelLoader] artmuseumscene.lethalbundle Loaded (62.11s)!
-[Info   :LethalLevelLoader] faith.lethalbundle Loaded (62.13s)!
-[Info   :LethalLevelLoader] crowedscene.lethalbundle Loaded (62.13s)!
-[Info   :LethalLevelLoader] etern.lethalbundle Loaded (62.15s)!
-[Info   :LethalLevelLoader] espirascene.lethalbundle Loaded (62.15s)!
-[Info   :LethalLevelLoader] fission.lethalbundle Loaded (62.18s)!
-[Info   :LethalLevelLoader] endscene.lethalbundle Loaded (62.18s)!
-[Info   :LethalLevelLoader] emprascene.lethalbundle Loaded (62.18s)!
-[Info   :LethalLevelLoader] descentscene.lethalbundle Loaded (62.18s)!
-[Info   :LethalLevelLoader] filitrios.lethalbundle Loaded (62.45s)!
-[Info   :LethalLevelLoader] halationmoon.lethalbundle Loaded (62.47s)!
-[Info   :LethalLevelLoader] artmuseum.lethalbundle Loaded (62.63s)!
-[Info   :LethalLevelLoader] gloom.lethalbundle Loaded (62.66s)!
-[Info   :LethalLevelLoader] hydrene.lethalbundle Loaded (62.68s)!
-[Info   :LethalLevelLoader] faithscene.lethalbundle Loaded (62.68s)!
-[Info   :LethalLevelLoader] fissionscenes.lethalbundle Loaded (62.68s)!
-[Info   :LethalLevelLoader] gratar.lethalbundle Loaded (62.72s)!
-[Info   :LethalLevelLoader] extendedmineshaft.lethalbundle Loaded (63.06s)!
-[Info   :LethalLevelLoader] halationscene.lethalbundle Loaded (63.07s)!
-[Info   :LethalLevelLoader] fracturedcomplex.lethalbundle Loaded (63.63s)!
-[Info   :LethalLevelLoader] infernis.lethalbundle Loaded (63.66s)!
-[Info   :LethalLevelLoader] lithiummoon.lethalbundle Loaded (63.66s)!
-[Info   :LethalLevelLoader] greenhouseinterior.lethalbundle Loaded (64.00s)!
-[Info   :LethalLevelLoader] junic.lethalbundle Loaded (64.03s)!
-[Info   :LethalLevelLoader] makronmoon.lethalbundle Loaded (64.04s)!
-[Info   :LethalLevelLoader] lecaro.lethalbundle Loaded (64.08s)!
-[Info   :LethalLevelLoader] gloomscenes.lethalbundle Loaded (64.08s)!
-[Info   :LethalLevelLoader] kryte.lethalbundle Loaded (64.10s)!
-[Info   :LethalLevelLoader] filitriosscene.lethalbundle Loaded (64.10s)!
-[Info   :LethalLevelLoader] eternscenes.lethalbundle Loaded (64.10s)!
-[Info   :LethalLevelLoader] mazonmoon.lethalbundle Loaded (64.25s)!
-[Info   :LethalLevelLoader] lithiumscene.lethalbundle Loaded (64.26s)!
-[Info   :LethalLevelLoader] Moonextras.lethalbundle Loaded (64.28s)!
-[Info   :LethalLevelLoader] Moonextras2.lethalbundle Loaded (64.29s)!
-[Info   :LethalLevelLoader] hydrenescene.lethalbundle Loaded (64.29s)!
-[Info   :LethalLevelLoader] motra.lethalbundle Loaded (64.32s)!
-[Info   :LethalLevelLoader] pandoramusmoon.lethalbundle Loaded (64.33s)!
-[Info   :LethalLevelLoader] krytescene.lethalbundle Loaded (64.33s)!
-[Info   :LethalLevelLoader] makronscene.lethalbundle Loaded (64.33s)!
-[Info   :LethalLevelLoader] mazonlevel.lethalbundle Loaded (64.33s)!
-[Info   :LethalLevelLoader] junicscenes.lethalbundle Loaded (64.33s)!
-[Info   :LethalLevelLoader] narcotic.lethalbundle Loaded (64.34s)!
-[Info   :LethalLevelLoader] polarus.lethalbundle Loaded (64.37s)!
-[Info   :LethalLevelLoader] praetormoon.lethalbundle Loaded (64.38s)!
-[Info   :LethalLevelLoader] oldred.lethalbundle Loaded (64.64s)!
-[Info   :LethalLevelLoader] prismmoon.lethalbundle Loaded (64.65s)!
-[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Loaded (64.65s)!
-[Info   :LethalLevelLoader] lecaroscene.lethalbundle Loaded (64.65s)!
-[Info   :LethalLevelLoader] motrascene.lethalbundle Loaded (64.65s)!
-[Info   :LethalLevelLoader] oldredscenes.lethalbundle Loaded (64.65s)!
-[Info   :LethalLevelLoader] grandarmoryinterior.lethalbundle Loaded (65.93s)!
-[Info   :LethalLevelLoader] gratarscenes.lethalbundle Loaded (65.93s)!
-[Info   :LethalLevelLoader] praetorscene.lethalbundle Loaded (65.93s)!
-[Info   :LethalLevelLoader] rockwellmoon.lethalbundle Loaded (65.97s)!
-[Info   :LethalLevelLoader] prismscene.lethalbundle Loaded (65.97s)!
-[Info   :LethalLevelLoader] repress.lethalbundle Loaded (65.98s)!
-[Info   :LethalLevelLoader] porcerin.lethalbundle Loaded (66.04s)!
-[Info   :LethalLevelLoader] infernisscenes.lethalbundle Loaded (66.04s)!
-[Info   :LethalLevelLoader] roart.lethalbundle Loaded (66.06s)!
-[Info   :LethalLevelLoader] ultimatummoon.lethalbundle Loaded (66.07s)!
-[Info   :LethalLevelLoader] narcoticscene.lethalbundle Loaded (66.07s)!
-[Info   :LethalLevelLoader] truth.lethalbundle Loaded (66.08s)!
-[Info   :LethalLevelLoader] rockwellscene.lethalbundle Loaded (66.08s)!
-[Info   :LethalLevelLoader] trite.lethalbundle Loaded (66.12s)!
-[Info   :LethalLevelLoader] porcerinscenes.lethalbundle Loaded (66.12s)!
-[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Loaded (66.12s)!
-[Info   :LethalLevelLoader] repressscene.lethalbundle Loaded (66.12s)!
-[Info   :LethalLevelLoader] museuminterior.lethalbundle Loaded (67.79s)!
-[Info   :LethalLevelLoader] bozoros.lethalbundle Loaded (68.10s)!
-[Info   :LethalLevelLoader] truthscene.lethalbundle Loaded (68.10s)!
-[Info   :LethalLevelLoader] circusfacility.lethalbundle Loaded (68.27s)!
-[Info   :LethalLevelLoader] utril.lethalbundle Loaded (68.30s)!
-[Info   :LethalLevelLoader] tritescene.lethalbundle Loaded (68.30s)!
-[Info   :LethalLevelLoader] spookymanor.lethalbundle Loaded (69.07s)!
-[Info   :LethalLevelLoader] utrilscene.lethalbundle Loaded (69.07s)!
-[Info   :LethalLevelLoader] genericinterior.lethalbundle Loaded (71.09s)!
-[Info   :LethalLevelLoader] roartscene.lethalbundle Loaded (71.09s)!
-[Info   :LethalLevelLoader] toystoreinterior.lethalbundle Loaded (73.32s)!
-[Info   :LethalLevelLoader] bozorosscene.lethalbundle Loaded (73.32s)!
-[Info   :LethalLevelLoader] polarusscenes.lethalbundle Loaded (73.32s)!
-[Info   :LethalLevelLoader] therubberrooms.lethalbundle Loaded (74.54s)!
-[Info   :LethalLevelLoader] playzone-interior.lethalbundle Loaded (77.83s)!
+[Info   :LethalLevelLoader] baykalmoon.lethalbundle Loaded (72.06s)!
+[Info   :LethalLevelLoader] artmuseumart.lethalbundle Loaded (72.09s)!
+[Info   :LethalLevelLoader] asteroid14.lethalbundle Loaded (72.15s)!
+[Info   :LethalLevelLoader] baykalscene.lethalbundle Loaded (72.18s)!
+[Info   :LethalLevelLoader] calypsomoon.lethalbundle Loaded (72.24s)!
+[Info   :LethalLevelLoader] asteroid13scenes.lethalbundle Loaded (72.24s)!
+[Info   :LethalLevelLoader] asteroid13.lethalbundle Loaded (72.30s)!
+[Info   :LethalLevelLoader] alcatras.lethalbundle Loaded (72.33s)!
+[Info   :LethalLevelLoader] berunah.lethalbundle Loaded (72.39s)!
+[Info   :LethalLevelLoader] atlantica.lethalbundle Loaded (72.73s)!
+[Info   :LethalLevelLoader] asteroid14scene.lethalbundle Loaded (72.74s)!
+[Info   :LethalLevelLoader] calistscene.lethalbundle Loaded (72.74s)!
+[Info   :LethalLevelLoader] core.lethalbundle Loaded (72.76s)!
+[Info   :LethalLevelLoader] calypsolevel.lethalbundle Loaded (72.76s)!
+[Info   :LethalLevelLoader] calist.lethalbundle Loaded (72.93s)!
+[Info   :LethalLevelLoader] cosmocos.lethalbundle Loaded (73.45s)!
+[Info   :LethalLevelLoader] cosmocositems.lethalbundle Loaded (73.64s)!
+[Info   :LethalLevelLoader] atlanticdungeoninterior.lethalbundle Loaded (74.65s)!
+[Info   :LethalLevelLoader] cubatres.lethalbundle Loaded (74.75s)!
+[Info   :LethalLevelLoader] alcatrasscene.lethalbundle Loaded (74.75s)!
+[Info   :LethalLevelLoader] crowed.lethalbundle Loaded (74.75s)!
+[Info   :LethalLevelLoader] atlanticascenes.lethalbundle Loaded (74.76s)!
+[Info   :LethalLevelLoader] corescene.lethalbundle Loaded (74.76s)!
+[Info   :LethalLevelLoader] demetrica.lethalbundle Loaded (74.82s)!
+[Info   :LethalLevelLoader] cubatresscene.lethalbundle Loaded (74.82s)!
+[Info   :LethalLevelLoader] dungeon_ravenmanor.lethalbundle Loaded (75.16s)!
+[Info   :LethalLevelLoader] end.lethalbundle Loaded (75.17s)!
+[Info   :LethalLevelLoader] empra.lethalbundle Loaded (75.18s)!
+[Info   :LethalLevelLoader] berunahscene.lethalbundle Loaded (75.18s)!
+[Info   :LethalLevelLoader] desolation.lethalbundle Loaded (75.24s)!
+[Info   :LethalLevelLoader] dungeon_studio.lethalbundle Loaded (75.40s)!
+[Info   :LethalLevelLoader] descent.lethalbundle Loaded (75.41s)!
+[Info   :LethalLevelLoader] demetricascene.lethalbundle Loaded (75.42s)!
+[Info   :LethalLevelLoader] dungeon_grayapartments.lethalbundle Loaded (75.82s)!
+[Info   :LethalLevelLoader] dungeon_subsystem.lethalbundle Loaded (76.06s)!
+[Info   :LethalLevelLoader] descentscene.lethalbundle Loaded (76.06s)!
+[Info   :LethalLevelLoader] cosmocosscene.lethalbundle Loaded (76.06s)!
+[Info   :LethalLevelLoader] artmuseumscene.lethalbundle Loaded (76.06s)!
+[Info   :LethalLevelLoader] crowedscene.lethalbundle Loaded (76.06s)!
+[Info   :LethalLevelLoader] desolationscenes.lethalbundle Loaded (76.06s)!
+[Info   :LethalLevelLoader] espiramoon.lethalbundle Loaded (76.31s)!
+[Info   :LethalLevelLoader] etern.lethalbundle Loaded (76.33s)!
+[Info   :LethalLevelLoader] ether.lethalbundle Loaded (76.34s)!
+[Info   :LethalLevelLoader] faith.lethalbundle Loaded (76.35s)!
+[Info   :LethalLevelLoader] endscene.lethalbundle Loaded (76.36s)!
+[Info   :LethalLevelLoader] fission.lethalbundle Loaded (76.38s)!
+[Info   :LethalLevelLoader] emprascene.lethalbundle Loaded (76.38s)!
+[Info   :LethalLevelLoader] espirascene.lethalbundle Loaded (76.38s)!
+[Info   :LethalLevelLoader] filitrios.lethalbundle Loaded (76.43s)!
+[Info   :LethalLevelLoader] etherscene.lethalbundle Loaded (76.43s)!
+[Info   :LethalLevelLoader] halationmoon.lethalbundle Loaded (76.44s)!
+[Info   :LethalLevelLoader] gloom.lethalbundle Loaded (76.47s)!
+[Info   :LethalLevelLoader] gratar.lethalbundle Loaded (76.50s)!
+[Info   :LethalLevelLoader] gloomscenes.lethalbundle Loaded (76.50s)!
+[Info   :LethalLevelLoader] hydrene.lethalbundle Loaded (76.52s)!
+[Info   :LethalLevelLoader] extendedmineshaft.lethalbundle Loaded (76.85s)!
+[Info   :LethalLevelLoader] faithscene.lethalbundle Loaded (77.55s)!
+[Info   :LethalLevelLoader] fissionscenes.lethalbundle Loaded (77.55s)!
+[Info   :LethalLevelLoader] artmuseum.lethalbundle Loaded (77.73s)!
+[Info   :LethalLevelLoader] halationscene.lethalbundle Loaded (77.73s)!
+[Info   :LethalLevelLoader] filitriosscene.lethalbundle Loaded (77.73s)!
+[Info   :LethalLevelLoader] greenhouseinterior.lethalbundle Loaded (78.09s)!
+[Info   :LethalLevelLoader] infernis.lethalbundle Loaded (78.11s)!
+[Info   :LethalLevelLoader] eternscenes.lethalbundle Loaded (78.12s)!
+[Info   :LethalLevelLoader] lithiummoon.lethalbundle Loaded (78.12s)!
+[Info   :LethalLevelLoader] junic.lethalbundle Loaded (78.15s)!
+[Info   :LethalLevelLoader] makronmoon.lethalbundle Loaded (78.16s)!
+[Info   :LethalLevelLoader] fracturedcomplex.lethalbundle Loaded (78.69s)!
+[Info   :LethalLevelLoader] kryte.lethalbundle Loaded (78.71s)!
+[Info   :LethalLevelLoader] lecaro.lethalbundle Loaded (78.74s)!
+[Info   :LethalLevelLoader] gratarscenes.lethalbundle Loaded (78.74s)!
+[Info   :LethalLevelLoader] mazonmoon.lethalbundle Loaded (78.89s)!
+[Info   :LethalLevelLoader] lithiumscene.lethalbundle Loaded (78.89s)!
+[Info   :LethalLevelLoader] makronscene.lethalbundle Loaded (78.89s)!
+[Info   :LethalLevelLoader] grandarmoryinterior.lethalbundle Loaded (80.08s)!
+[Info   :LethalLevelLoader] Moonextras.lethalbundle Loaded (80.11s)!
+[Info   :LethalLevelLoader] motra.lethalbundle Loaded (80.14s)!
+[Info   :LethalLevelLoader] junicscenes.lethalbundle Loaded (80.14s)!
+[Info   :LethalLevelLoader] hydrenescene.lethalbundle Loaded (80.14s)!
+[Info   :LethalLevelLoader] mazonlevel.lethalbundle Loaded (80.14s)!
+[Info   :LethalLevelLoader] pandoramusmoon.lethalbundle Loaded (80.15s)!
+[Info   :LethalLevelLoader] krytescene.lethalbundle Loaded (80.15s)!
+[Info   :LethalLevelLoader] harbringermoonscene.lethalbundle Loaded (80.15s)!
+[Info   :LethalLevelLoader] genericinterior.lethalbundle Loaded (82.24s)!
+[Info   :LethalLevelLoader] Moonextras2.lethalbundle Loaded (82.24s)!
+[Info   :LethalLevelLoader] praetormoon.lethalbundle Loaded (82.24s)!
+[Info   :LethalLevelLoader] narcotic.lethalbundle Loaded (82.26s)!
+[Info   :LethalLevelLoader] prismmoon.lethalbundle Loaded (82.27s)!
+[Info   :LethalLevelLoader] lecaroscene.lethalbundle Loaded (82.27s)!
+[Info   :LethalLevelLoader] oldred.lethalbundle Loaded (82.51s)!
+[Info   :LethalLevelLoader] motrascene.lethalbundle Loaded (82.51s)!
+[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Loaded (82.51s)!
+[Info   :LethalLevelLoader] polarus.lethalbundle Loaded (82.54s)!
+[Info   :LethalLevelLoader] infernisscenes.lethalbundle Loaded (82.54s)!
+[Info   :LethalLevelLoader] praetorscene.lethalbundle Loaded (82.54s)!
+[Info   :LethalLevelLoader] harbringermoon.lethalbundle Loaded (83.87s)!
+[Info   :LethalLevelLoader] rockwellmoon.lethalbundle Loaded (83.89s)!
+[Info   :LethalLevelLoader] prismscene.lethalbundle Loaded (83.89s)!
+[Info   :LethalLevelLoader] repress.lethalbundle Loaded (83.91s)!
+[Info   :LethalLevelLoader] porcerin.lethalbundle Loaded (84.01s)!
+[Info   :LethalLevelLoader] oldredscenes.lethalbundle Loaded (84.01s)!
+[Info   :LethalLevelLoader] roart.lethalbundle Loaded (84.04s)!
+[Info   :LethalLevelLoader] ultimatummoon.lethalbundle Loaded (84.05s)!
+[Info   :LethalLevelLoader] truth.lethalbundle Loaded (84.09s)!
+[Info   :LethalLevelLoader] rockwellscene.lethalbundle Loaded (84.09s)!
+[Info   :LethalLevelLoader] museuminterior.lethalbundle Loaded (86.86s)!
+[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Loaded (86.86s)!
+[Info   :LethalLevelLoader] narcoticscene.lethalbundle Loaded (86.86s)!
+[Info   :LethalLevelLoader] trite.lethalbundle Loaded (86.92s)!
+[Info   :LethalLevelLoader] porcerinscenes.lethalbundle Loaded (86.92s)!
+[Info   :LethalLevelLoader] truthscene.lethalbundle Loaded (86.92s)!
+[Info   :LethalLevelLoader] circusfacility.lethalbundle Loaded (87.32s)!
+[Info   :LethalLevelLoader] withermoon.lethalbundle Loaded (87.37s)!
+[Info   :LethalLevelLoader] utril.lethalbundle Loaded (87.41s)!
+[Info   :LethalLevelLoader] tritescene.lethalbundle Loaded (87.41s)!
+[Info   :LethalLevelLoader] bozoros.lethalbundle Loaded (87.85s)!
+[Info   :LethalLevelLoader] utrilscene.lethalbundle Loaded (87.85s)!
+[Info   :LethalLevelLoader] spookymanor.lethalbundle Loaded (88.37s)!
+[Info   :LethalLevelLoader] repressscene.lethalbundle Loaded (88.37s)!
+[Info   :LethalLevelLoader] bozorosscene.lethalbundle Loaded (88.37s)!
+[Info   :LethalLevelLoader] toystoreinterior.lethalbundle Loaded (90.91s)!
+[Info   :LethalLevelLoader] polarusscenes.lethalbundle Loaded (90.91s)!
+[Info   :LethalLevelLoader] roartscene.lethalbundle Loaded (90.91s)!
+[Info   :LethalLevelLoader] therubberrooms.lethalbundle Loaded (94.43s)!
+[Info   :LethalLevelLoader] playzone-interior.lethalbundle Loaded (107.70s)!
+[Info   :LethalLevelLoader] withermoonscene.lethalbundle Loaded (107.70s)!
 [Info   :LethalLevelLoader] Finished Processing Bundles!
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Alcatras.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: AlcatrasExtendedMod
@@ -818,6 +1078,8 @@ Parameter name: key
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_EspiraMoon
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Etern.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: EternExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Ether.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: EtherExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Faith.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: FaithExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Filitrios.lethalbundle
@@ -830,6 +1092,8 @@ Parameter name: key
 [Info   :LethalLevelLoader] Found ExtendedMod: GratarExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Halationmoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_HalationMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Harbringermoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: 57-Harbringer
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Hydrene.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: HydreneExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Infernis.lethalbundle
@@ -878,6 +1142,8 @@ Parameter name: key
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_UltimatumMoon
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Utril.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: UtrilExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Withermoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Bozoros.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: BozorosExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Artmuseumart.lethalbundle
@@ -925,7 +1191,7 @@ Parameter name: key
 [Info   :RuntimeIcons] Starting compute thread!
 [Info   :Lethal Company API] LC_API Started!
 [Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
-[Info   : Elads HUD] 105 plugins loaded
+[Info   : Elads HUD] 135 plugins loaded
 [Info   : Elads HUD] Plugin GUID: .LCMaxSoundsFix
 [Info   : Elads HUD] Plugin GUID: 1.Waga.JigglePhysicsPlugin
 [Info   : Elads HUD] Plugin GUID: ACS.AdditionalContentFramework
@@ -956,11 +1222,14 @@ Parameter name: key
 [Info   : Elads HUD] Plugin GUID: com.github.teamxiaolan.dawnlib.compatibility
 [Info   : Elads HUD] Plugin GUID: com.github.teamxiaolan.dawnlib.dusk
 [Info   : Elads HUD] Plugin GUID: com.github.WhiteSpike.MoonDaySpeedMultiplierPatcher
+[Info   : Elads HUD] Plugin GUID: com.github.zehsteam.DontTouchMyClogs
 [Info   : Elads HUD] Plugin GUID: com.sigurd.csync
 [Info   : Elads HUD] Plugin GUID: com.rune580.LethalCompanyInputUtils
 [Info   : Elads HUD] Plugin GUID: WhiteSpike.InteractiveTerminalAPI
 [Info   : Elads HUD] Plugin GUID: com.malco.lethalcompany.moreshipupgrades
+[Info   : Elads HUD] Plugin GUID: com.TheFiend
 [Info   : Elads HUD] Plugin GUID: com.willis.lc.lethalsettings
+[Info   : Elads HUD] Plugin GUID: com.zealsprince.locker
 [Info   : Elads HUD] Plugin GUID: CustomSounds
 [Info   : Elads HUD] Plugin GUID: Damir.longerDayMod
 [Info   : Elads HUD] Plugin GUID: dev.kittenji.NavMeshInCompany
@@ -973,12 +1242,18 @@ Parameter name: key
 [Info   : Elads HUD] Plugin GUID: FlipMods.ReservedFlashlightSlot
 [Info   : Elads HUD] Plugin GUID: dev.ladyalice.scarletmansion
 [Info   : Elads HUD] Plugin GUID: dev.ladyalice.scarletmansion.coronerpatch
+[Info   : Elads HUD] Plugin GUID: x753.Mimics
 [Info   : Elads HUD] Plugin GUID: dev.ladyalice.scarletmansion.mimicspatch
 [Info   : Elads HUD] Plugin GUID: discount.alert
 [Info   : Elads HUD] Plugin GUID: DiscountSync
 [Info   : Elads HUD] Plugin GUID: DistinctBlaze.ColorfulEnemyVariety
 [Info   : Elads HUD] Plugin GUID: evaisa.lethalthings
 [Info   : Elads HUD] Plugin GUID: Jordo.NeedyCats
+[Info   : Elads HUD] Plugin GUID: solidlib
+[Info   : Elads HUD] Plugin GUID: Surfaced
+[Info   : Elads HUD] Plugin GUID: me.swipez.melonloader.morecompany
+[Info   : Elads HUD] Plugin GUID: FlipMods.TooManyEmotes
+[Info   : Elads HUD] Plugin GUID: Theronguard.EmergencyDice
 [Info   : Elads HUD] Plugin GUID: doggosuki.Huntdown
 [Info   : Elads HUD] Plugin GUID: Drak.BellMonster
 [Info   : Elads HUD] Plugin GUID: Entity378.BonBon
@@ -986,10 +1261,10 @@ Parameter name: key
 [Info   : Elads HUD] Plugin GUID: FlipMods.FasterItemDropship
 [Info   : Elads HUD] Plugin GUID: FlipMods.ObjectVolumeController
 [Info   : Elads HUD] Plugin GUID: FlipMods.ReservedWalkieSlot
-[Info   : Elads HUD] Plugin GUID: FlipMods.TooManyEmotes
 [Info   : Elads HUD] Plugin GUID: GGMD.GenericInteriors
 [Info   : Elads HUD] Plugin GUID: HoldScanButton
 [Info   : Elads HUD] Plugin GUID: iambatby.dynamicinteriorvariety
+[Info   : Elads HUD] Plugin GUID: ImmersiveVisor
 [Info   : Elads HUD] Plugin GUID: ImmortalSnail
 [Info   : Elads HUD] Plugin GUID: io.daxcess.nojumpdelay
 [Info   : Elads HUD] Plugin GUID: JacobG5.JLL
@@ -1001,6 +1276,7 @@ Parameter name: key
 [Info   : Elads HUD] Plugin GUID: Kittenji.HerobrineMod
 [Info   : Elads HUD] Plugin GUID: LC_API_V50
 [Info   : Elads HUD] Plugin GUID: LCBetterSaves
+[Info   : Elads HUD] Plugin GUID: LCGoldScrapMod
 [Info   : Elads HUD] Plugin GUID: LCSoundTool
 [Info   : Elads HUD] Plugin GUID: LeoLR.MoreItems
 [Info   : Elads HUD] Plugin GUID: LethalFashion
@@ -1008,7 +1284,9 @@ Parameter name: key
 [Info   : Elads HUD] Plugin GUID: LethalMatt.Bozoros
 [Info   : Elads HUD] Plugin GUID: LethalMatt.PlayZone
 [Info   : Elads HUD] Plugin GUID: LethalNetworkAPI
-[Info   : Elads HUD] Plugin GUID: me.swipez.melonloader.morecompany
+[Info   : Elads HUD] Plugin GUID: qwbarch.Mirage.Core
+[Info   : Elads HUD] Plugin GUID: qwbarch.Mirage
+[Info   : Elads HUD] Plugin GUID: LethalPhones
 [Info   : Elads HUD] Plugin GUID: MaskedEnemyRework
 [Info   : Elads HUD] Plugin GUID: me.eladnlg.customhud
 [Info   : Elads HUD] Plugin GUID: Mhz.MoreHead
@@ -1021,72 +1299,93 @@ Parameter name: key
 [Info   : Elads HUD] Plugin GUID: NoteBoxz.NotezyLib
 [Info   : Elads HUD] Plugin GUID: Piggy.LCOffice
 [Info   : Elads HUD] Plugin GUID: Piggy.PiggyVarietyMod
-[Info   : Elads HUD] Plugin GUID: qwbarch.Mirage.Core
+[Info   : Elads HUD] Plugin GUID: PopleZoo.BetterItemScan
+[Info   : Elads HUD] Plugin GUID: project_scp.scp_106
+[Info   : Elads HUD] Plugin GUID: ScienceBird.Wither
+[Info   : Elads HUD] Plugin GUID: scin.monsterplushies
 [Info   : Elads HUD] Plugin GUID: Scopophobia
 [Info   : Elads HUD] Plugin GUID: SCPCBDunGen
-[Info   : Elads HUD] Plugin GUID: solidlib
+[Info   : Elads HUD] Plugin GUID: Slayer6409.DicePoltergeistCompat
+[Info   : Elads HUD] Plugin GUID: Slayer6409.DiceTwitchIntegration
+[Info   : Elads HUD] Plugin GUID: Slayer6409.DiceWeatherRegistryCompat
 [Info   : Elads HUD] Plugin GUID: SoulDev
+[Info   : Elads HUD] Plugin GUID: sparble.slendermanmod
+[Info   : Elads HUD] Plugin GUID: Swaggies.NaturalHealthRegen
 [Info   : Elads HUD] Plugin GUID: taffyko.BetterSprayPaint
+[Info   : Elads HUD] Plugin GUID: taffyko.NameplateTweaks
+[Info   : Elads HUD] Plugin GUID: TDP.CoilHeadStare
+[Info   : Elads HUD] Plugin GUID: TestAccount666.DoorBreach
 [Info   : Elads HUD] Plugin GUID: TestAccount666.TestAccountCore
+[Info   : Elads HUD] Plugin GUID: TestAccount666.ShipWindows
+[Info   : Elads HUD] Plugin GUID: x753.More_Suits
+[Info   : Elads HUD] Plugin GUID: TooManySuits
 [Info   : Elads HUD] Plugin GUID: VirusTLNR.MaskedInvisFix
+[Info   : Elads HUD] Plugin GUID: WaterGun.HarbringerScripts
+[Info   : Elads HUD] Plugin GUID: xCeezy.LethalEscape
 [Info   : Elads HUD] Plugin GUID: XuuXiaolan.SoftMaskKiller
 [Info   : Elads HUD] Plugin GUID: Yorimor.CustomStoryLogs
+[Info   : Elads HUD] Plugin GUID: Zaggy1024.OpenBodyCams
+[Info   : Elads HUD] Plugin GUID: zigzag.premiumscraps
+[Info   : Elads HUD] Plugin GUID: zigzag.chillaxscraps
 [Info   :me.loaforc.soundapi] Splash screens done! Continuing pipeline
 [Warning:me.loaforc.soundapi] The game will freeze for a moment!
 [Info   :me.loaforc.soundapi] (Step 5) All file reads are done, waiting for the audio clips conversions.
-[Info   :me.loaforc.soundapi] (Step 6) Took 5ms to finish loading audio clips from files
-[Info   :me.loaforc.soundapi] Entire load process took an effective 35ms
-[Info   :LethalLevelLoader] alcatrasscene.lethalbundle Unloaded (32.21s)
-[Info   :LethalLevelLoader] artmuseumscene.lethalbundle Unloaded (32.24s)
-[Info   :LethalLevelLoader] asteroid13scenes.lethalbundle Unloaded (32.26s)
-[Info   :LethalLevelLoader] asteroid14scene.lethalbundle Unloaded (32.29s)
-[Info   :LethalLevelLoader] atlanticascenes.lethalbundle Unloaded (32.31s)
-[Info   :LethalLevelLoader] baykalscene.lethalbundle Unloaded (32.33s)
-[Info   :LethalLevelLoader] berunahscene.lethalbundle Unloaded (32.47s)
-[Info   :LethalLevelLoader] calistscene.lethalbundle Unloaded (33.33s)
-[Info   :LethalLevelLoader] calypsolevel.lethalbundle Unloaded (33.36s)
-[Info   :LethalLevelLoader] corescene.lethalbundle Unloaded (33.38s)
-[Info   :LethalLevelLoader] cosmocosscene.lethalbundle Unloaded (33.42s)
-[Info   :LethalLevelLoader] crowedscene.lethalbundle Unloaded (33.44s)
-[Info   :LethalLevelLoader] cubatresscene.lethalbundle Unloaded (33.46s)
-[Info   :LethalLevelLoader] demetricascene.lethalbundle Unloaded (33.49s)
-[Info   :LethalLevelLoader] descentscene.lethalbundle Unloaded (33.52s)
-[Info   :LethalLevelLoader] desolationscenes.lethalbundle Unloaded (33.54s)
-[Info   :LethalLevelLoader] emprascene.lethalbundle Unloaded (33.58s)
-[Info   :LethalLevelLoader] endscene.lethalbundle Unloaded (33.60s)
-[Info   :LethalLevelLoader] espirascene.lethalbundle Unloaded (33.62s)
-[Info   :LethalLevelLoader] eternscenes.lethalbundle Unloaded (33.65s)
-[Info   :LethalLevelLoader] faithscene.lethalbundle Unloaded (33.68s)
-[Info   :LethalLevelLoader] filitriosscene.lethalbundle Unloaded (33.72s)
-[Info   :LethalLevelLoader] fissionscenes.lethalbundle Unloaded (33.74s)
-[Info   :LethalLevelLoader] gloomscenes.lethalbundle Unloaded (33.76s)
-[Info   :LethalLevelLoader] gratarscenes.lethalbundle Unloaded (33.79s)
-[Info   :LethalLevelLoader] halationscene.lethalbundle Unloaded (33.81s)
-[Info   :LethalLevelLoader] hydrenescene.lethalbundle Unloaded (33.83s)
-[Info   :LethalLevelLoader] infernisscenes.lethalbundle Unloaded (33.86s)
-[Info   :LethalLevelLoader] junicscenes.lethalbundle Unloaded (33.88s)
-[Info   :LethalLevelLoader] krytescene.lethalbundle Unloaded (33.90s)
-[Info   :LethalLevelLoader] lecaroscene.lethalbundle Unloaded (33.92s)
-[Info   :LethalLevelLoader] lithiumscene.lethalbundle Unloaded (33.94s)
-[Info   :LethalLevelLoader] makronscene.lethalbundle Unloaded (33.97s)
-[Info   :LethalLevelLoader] mazonlevel.lethalbundle Unloaded (33.98s)
-[Info   :LethalLevelLoader] Moonextras2.lethalbundle Unloaded (34.00s)
-[Info   :LethalLevelLoader] motrascene.lethalbundle Unloaded (34.01s)
-[Info   :LethalLevelLoader] narcoticscene.lethalbundle Unloaded (34.05s)
-[Info   :LethalLevelLoader] oldredscenes.lethalbundle Unloaded (34.06s)
-[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Unloaded (34.07s)
-[Info   :LethalLevelLoader] polarusscenes.lethalbundle Unloaded (34.11s)
-[Info   :LethalLevelLoader] porcerinscenes.lethalbundle Unloaded (34.13s)
-[Info   :LethalLevelLoader] praetorscene.lethalbundle Unloaded (34.14s)
-[Info   :LethalLevelLoader] prismscene.lethalbundle Unloaded (34.14s)
-[Info   :LethalLevelLoader] repressscene.lethalbundle Unloaded (34.18s)
-[Info   :LethalLevelLoader] roartscene.lethalbundle Unloaded (34.21s)
-[Info   :LethalLevelLoader] rockwellscene.lethalbundle Unloaded (34.23s)
-[Info   :LethalLevelLoader] tritescene.lethalbundle Unloaded (34.25s)
-[Info   :LethalLevelLoader] truthscene.lethalbundle Unloaded (34.26s)
-[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Unloaded (34.27s)
-[Info   :LethalLevelLoader] utrilscene.lethalbundle Unloaded (34.30s)
-[Info   :LethalLevelLoader] bozorosscene.lethalbundle Unloaded (34.32s)
+[Info   :me.loaforc.soundapi] (Step 6) Took 11ms to finish loading audio clips from files
+[Info   :me.loaforc.soundapi] Entire load process took an effective 39ms
+[Info   :LethalLevelLoader] alcatrasscene.lethalbundle Unloaded (20.67s)
+[Info   :LethalLevelLoader] artmuseumscene.lethalbundle Unloaded (23.95s)
+[Info   :LethalLevelLoader] asteroid13scenes.lethalbundle Unloaded (24.24s)
+[Info   :LethalLevelLoader] asteroid14scene.lethalbundle Unloaded (26.88s)
+[Info   :LethalLevelLoader] atlanticascenes.lethalbundle Unloaded (27.49s)
+[Info   :LethalLevelLoader] baykalscene.lethalbundle Unloaded (27.64s)
+[Info   :LethalLevelLoader] berunahscene.lethalbundle Unloaded (28.47s)
+[Info   :LethalLevelLoader] calistscene.lethalbundle Unloaded (28.58s)
+[Info   :LethalLevelLoader] calypsolevel.lethalbundle Unloaded (29.01s)
+[Info   :LethalLevelLoader] corescene.lethalbundle Unloaded (29.45s)
+[Info   :LethalLevelLoader] cosmocosscene.lethalbundle Unloaded (35.25s)
+[Info   :LethalLevelLoader] crowedscene.lethalbundle Unloaded (35.91s)
+[Info   :LethalLevelLoader] cubatresscene.lethalbundle Unloaded (36.24s)
+[Info   :LethalLevelLoader] demetricascene.lethalbundle Unloaded (36.52s)
+[Info   :LethalLevelLoader] descentscene.lethalbundle Unloaded (36.89s)
+[Info   :LethalLevelLoader] desolationscenes.lethalbundle Unloaded (39.45s)
+[Info   :LethalLevelLoader] emprascene.lethalbundle Unloaded (40.92s)
+[Info   :LethalLevelLoader] endscene.lethalbundle Unloaded (41.48s)
+[Info   :LethalLevelLoader] espirascene.lethalbundle Unloaded (41.91s)
+[Info   :LethalLevelLoader] eternscenes.lethalbundle Unloaded (42.92s)
+[Info   :LethalLevelLoader] etherscene.lethalbundle Unloaded (43.28s)
+[Info   :LethalLevelLoader] faithscene.lethalbundle Unloaded (43.73s)
+[Info   :LethalLevelLoader] filitriosscene.lethalbundle Unloaded (44.53s)
+[Info   :LethalLevelLoader] fissionscenes.lethalbundle Unloaded (45.62s)
+[Info   :LethalLevelLoader] gloomscenes.lethalbundle Unloaded (46.11s)
+[Info   :LethalLevelLoader] gratarscenes.lethalbundle Unloaded (47.42s)
+[Info   :LethalLevelLoader] halationscene.lethalbundle Unloaded (47.63s)
+[Info   :LethalLevelLoader] harbringermoonscene.lethalbundle Unloaded (52.17s)
+[Info   :LethalLevelLoader] hydrenescene.lethalbundle Unloaded (68.01s)
+[Info   :LethalLevelLoader] infernisscenes.lethalbundle Unloaded (71.00s)
+[Info   :LethalLevelLoader] junicscenes.lethalbundle Unloaded (75.51s)
+[Info   :LethalLevelLoader] krytescene.lethalbundle Unloaded (76.29s)
+[Info   :LethalLevelLoader] lecaroscene.lethalbundle Unloaded (78.17s)
+[Info   :LethalLevelLoader] lithiumscene.lethalbundle Unloaded (78.31s)
+[Info   :LethalLevelLoader] makronscene.lethalbundle Unloaded (78.50s)
+[Info   :LethalLevelLoader] mazonlevel.lethalbundle Unloaded (78.65s)
+[Info   :LethalLevelLoader] Moonextras2.lethalbundle Unloaded (82.44s)
+[Info   :LethalLevelLoader] motrascene.lethalbundle Unloaded (83.06s)
+[Info   :LethalLevelLoader] narcoticscene.lethalbundle Unloaded (87.63s)
+[Info   :LethalLevelLoader] oldredscenes.lethalbundle Unloaded (94.81s)
+[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Unloaded (94.94s)
+[Info   :LethalLevelLoader] polarusscenes.lethalbundle Unloaded (96.14s)
+[Info   :LethalLevelLoader] porcerinscenes.lethalbundle Unloaded (96.48s)
+[Info   :LethalLevelLoader] praetorscene.lethalbundle Unloaded (96.58s)
+[Info   :LethalLevelLoader] prismscene.lethalbundle Unloaded (96.65s)
+[Info   :LethalLevelLoader] repressscene.lethalbundle Unloaded (97.14s)
+[Info   :LethalLevelLoader] roartscene.lethalbundle Unloaded (98.00s)
+[Info   :LethalLevelLoader] rockwellscene.lethalbundle Unloaded (98.51s)
+[Info   :LethalLevelLoader] tritescene.lethalbundle Unloaded (98.94s)
+[Info   :LethalLevelLoader] truthscene.lethalbundle Unloaded (99.75s)
+[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Unloaded (100.06s)
+[Info   :LethalLevelLoader] utrilscene.lethalbundle Unloaded (101.41s)
+[Info   :LethalLevelLoader] withermoonscene.lethalbundle Unloaded (104.84s)
+[Info   :LethalLevelLoader] bozorosscene.lethalbundle Unloaded (105.05s)
 [Info   :me.loaforc.facilitymeltdown] Succesfully registered 2 network prefabs.
 [Warning:YPlayBoombox] Potential mod conflicts found [DiscountAlert (discount.alert), DiscountSync (DiscountSync), ObjectVolumeController (FlipMods.ObjectVolumeController)]. It is recommended to disable these if there are compatibility issues with YPlayBoombox.
 [Info   :LethalLevelLoader] Registering Bundle Content!
@@ -1324,16 +1623,78 @@ Parameter name: key
 [Info   :LethalThings] Found conductive scrap [DuckDisabled]
 [Info   :LethalThings] Found conductive scrap [LungApparatusPink]
 [Info   :LethalThings] Found conductive scrap [LungApparatusPinkDisabled]
+[Info   :LethalThings] Found conductive scrap [DyingLungApparatus]
+[Info   :LethalThings] Found conductive scrap [WitheredRobotToy]
 [Info   :LethalThings] Found conductive scrap [CatFood]
 [Info   :LethalThings] Found conductive scrap [CosmicLungApparatus]
 [Info   :LethalThings] Found conductive scrap [LungApparatusBloody]
 [Info   :LethalThings] Found conductive scrap [RoyalLungApparatus]
 [Info   :LethalThings] Found conductive scrap [RedstoneTorch]
+[Info   :LethalThings] Found conductive scrap [GoldBoltPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenAirhornPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenEggbeaterPrefab]
+[Info   :LethalThings] Found conductive scrap [TalkativeGoldBarPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldRegisterPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenBootsPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenHornPrefab]
+[Info   :LethalThings] Found conductive scrap [PurifiedMaskPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldAxlePrefab]
+[Info   :LethalThings] Found conductive scrap [GoldJugPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenBellPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenGlassPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldMugPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenFlaskPrefab]
+[Info   :LethalThings] Found conductive scrap [DuckOfGoldPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldSignPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldPuzzlePrefab]
+[Info   :LethalThings] Found conductive scrap [ComedyGoldPrefab]
+[Info   :LethalThings] Found conductive scrap [CookieGoldPanPrefab]
+[Info   :LethalThings] Found conductive scrap [GolderBarPrefab]
+[Info   :LethalThings] Found conductive scrap [CuddlyGoldPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenGruntPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldkeeperPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldSpringPrefab]
+[Info   :LethalThings] Found conductive scrap [MarigoldPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenGuardianPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldTypeEnginePrefab]
+[Info   :LethalThings] Found conductive scrap [TiltControlsPrefab]
+[Info   :LethalThings] Found conductive scrap [JacobsLadderPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldToyRobotPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldNuggetPrefab]
+[Info   :LethalThings] Found conductive scrap [TatteredGoldSheetPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenGirlPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldPanPrefab]
+[Info   :LethalThings] Found conductive scrap [ArtOfGoldPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldPerfumePrefab]
+[Info   :LethalThings] Found conductive scrap [EarlGoldPrefab]
+[Info   :LethalThings] Found conductive scrap [ExtremelyGoldenCupPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldFishPropPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldfishPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldRemotePrefab]
+[Info   :LethalThings] Found conductive scrap [JarOfGoldPicklesPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenVisionPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldRingPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenRetrieverPrefab]
+[Info   :LethalThings] Found conductive scrap [JackInTheGoldPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldBirdPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenClockPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldminePrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenGrenadePrefab]
+[Info   :LethalThings] Found conductive scrap [GoldBeaconPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldOrePrefab]
+[Info   :LethalThings] Found conductive scrap [CreditsCardPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenHourglassPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenPickaxePrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenTicketPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldCrownPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldenGlovePrefab]
 [Info   :LethalThings] Found conductive scrap [NET_ScarletKey]
 [Info   :LethalThings] Found conductive scrap [NET_ScarletKnife]
 [Info   :LethalThings] Found conductive scrap [Dingus]
 [Info   :LethalThings] Found conductive scrap [GremlinEnergy]
 [Info   :LethalThings] Found conductive scrap [FlaregunAmmo]
+[Info   :LethalThings] Found conductive scrap [BellCrabScrap]
+[Info   :LethalThings] Found conductive scrap [Rodrigo]
 [Info   :LethalThings] Found conductive scrap [BonBon]
 [Info   :LethalThings] Found conductive scrap [Karma]
 [Info   :LethalThings] Found conductive scrap [GravityCoil]
@@ -1343,14 +1704,30 @@ Parameter name: key
 [Info   :LethalThings] Found conductive scrap [M4Item]
 [Info   :LethalThings] Found conductive scrap [AxeItem]
 [Info   :LethalThings] Found conductive scrap [AxeItem]
+[Info   :LethalThings] Found conductive scrap [CoilHeadPlush]
+[Info   :LethalThings] Found conductive scrap [JesterPlushie]
+[Info   :LethalThings] Found conductive scrap [NutCracker]
+[Info   :LethalThings] Found conductive scrap [AinzOoalGown]
+[Info   :LethalThings] Found conductive scrap [HelmDomination]
+[Info   :LethalThings] Found conductive scrap [TheKing]
+[Info   :LethalThings] Found conductive scrap [SODA]
+[Info   :LethalThings] Found conductive scrap [Spoon]
+[Info   :LethalThings] Found conductive scrap [Balan]
+[Info   :LethalThings] Found conductive scrap [SquareSteel]
+[Info   :LethalThings] Found conductive scrap [Controller]
+[Info   :LethalThings] Found conductive scrap [FroggyChair]
+[Info   :LethalThings] Found conductive scrap [EmergencyMeeting]
+[Info   :LethalThings] Found conductive scrap [MasterSword]
+[Info   :LethalThings] Found conductive scrap [Nokia]
 [Info   :MaxWasUnavailable.LethalModDataLib] Registering ModDataAttribute fields...
 [Info   :MaxWasUnavailable.LethalModDataLib] Hooking up save, load and delete events...
 [Info   :MaxWasUnavailable.LethalModDataLib] ModDataHandler initialised!
-[Info   :RuntimeIcons] Caching vertexes for 774 items!
+[Info   :RuntimeIcons] Caching vertexes for 964 items!
 [Info   :MoreCompany] LANMenu startLAN Patched
+[Info   :LethalPhones] Injecting phone customization menu into main menu...
 [Message:Lethal Company API] server pre-setup success
 [Info   :LethalThings] Spawning config manager
-[Info   :More Ship Upgrades] [LguStore] No save file found for slot 1. Creating new.
+[Info   :More Ship Upgrades] [LguStore] No save file found for slot 2. Creating new.
 [Info   :More Ship Upgrades] Random upgrades seed wasn't set, calculating a new seed..
 [Info   :More Ship Upgrades] [LguStore] SteamID is not available yet, waiting...
 [Info   :More Ship Upgrades] Registering key item under level 0 of Fusion Matter
@@ -1391,56 +1768,59 @@ Parameter name: key
 12. 44 Liquidation (Vanilla)
 13. 5 Embrion (Vanilla)
 14. 135 Duckstroid-14 (Custom)
-15. 196 Baykal (Custom)
-16. 96 Calypso (Custom)
-17. 724 Descent (Custom)
-18. 61 Espira (Custom)
-19. 64 Halation (Custom)
-20. Kaleidos (Custom)
-21. 823 Bozoros (Custom)
-22. 62 Lithium (Custom)
-23. 76 Acidir (Custom)
-24. 240 Alcatras (Custom)
-25. 98 Galetry (Custom)
-26. 57 Asteroid-13 (Custom)
-27. 58 Hyve (Custom)
-28. 44 Atlantica (Custom)
-29. 288 Berunah (Custom)
-30. 235 Calist (Custom)
-31. 842 Core (Custom)
-32. 42 Cosmocos (Custom)
-33. 328 Crowd (Custom)
-34. 537 Cubatres (Custom)
-35. 354 Demetrica (Custom)
-36. 48 Desolation (Custom)
-37. 164 Dreck (Custom)
-38. 555 Empra (Custom)
-39. End (Custom)
-40. 154 Etern (Custom)
-41. 29 Faith (Custom)
-42. 141 Filitrios (Custom)
-43. 25 Fission-C (Custom)
-44. 36 Gloom (Custom)
-45. 147 Gratar (Custom)
-46. 4 Thalasso (Custom)
-47. -42 Hyx (Custom)
-48. 46 Infernis (Custom)
-49. 84 Junic (Custom)
-50. 35 Lecaro (Custom)
-51. 234 Motra (Custom)
-52. 495 Narcotic (Custom)
-53. 134 Oldred (Custom)
-54. 94 Polarus (Custom)
-55. 648 Repress (Custom)
-56. 398 Roart (Custom)
-57. 132 Trite (Custom)
-58. 67 Utril (Custom)
-59. 276 Makron (Custom)
-60. 6 Mazon (Custom)
-61. Pandoramus (Custom)
-62. 186 Praetor (Custom)
-63. 161 Rockwell (Custom)
-64. 646 Ultimatum (Custom)
+15. 57 Harbringer (Custom)
+16. 196 Baykal (Custom)
+17. 96 Calypso (Custom)
+18. 724 Descent (Custom)
+19. 61 Espira (Custom)
+20. 86 Ether (Custom)
+21. 64 Halation (Custom)
+22. Kaleidos (Custom)
+23. 823 Bozoros (Custom)
+24. 62 Lithium (Custom)
+25. 76 Acidir (Custom)
+26. 240 Alcatras (Custom)
+27. 98 Galetry (Custom)
+28. 57 Asteroid-13 (Custom)
+29. 58 Hyve (Custom)
+30. 44 Atlantica (Custom)
+31. 288 Berunah (Custom)
+32. 235 Calist (Custom)
+33. 842 Core (Custom)
+34. 42 Cosmocos (Custom)
+35. 328 Crowd (Custom)
+36. 537 Cubatres (Custom)
+37. 354 Demetrica (Custom)
+38. 48 Desolation (Custom)
+39. 164 Dreck (Custom)
+40. 555 Empra (Custom)
+41. End (Custom)
+42. 154 Etern (Custom)
+43. 29 Faith (Custom)
+44. 141 Filitrios (Custom)
+45. 25 Fission-C (Custom)
+46. 36 Gloom (Custom)
+47. 147 Gratar (Custom)
+48. 4 Thalasso (Custom)
+49. -42 Hyx (Custom)
+50. 46 Infernis (Custom)
+51. 84 Junic (Custom)
+52. 35 Lecaro (Custom)
+53. 234 Motra (Custom)
+54. 495 Narcotic (Custom)
+55. 134 Oldred (Custom)
+56. 94 Polarus (Custom)
+57. 648 Repress (Custom)
+58. 398 Roart (Custom)
+59. 132 Trite (Custom)
+60. 67 Utril (Custom)
+61. 276 Makron (Custom)
+62. 6 Mazon (Custom)
+63. Pandoramus (Custom)
+64. 186 Praetor (Custom)
+65. 161 Rockwell (Custom)
+66. 646 Ultimatum (Custom)
+67. 115 Wither (Custom)
 
 [Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedDungeonFlows:
 1. Facility (Level1Flow) (Vanilla)
@@ -1472,7 +1852,7 @@ Parameter name: key
 27. Rubber Rooms (RubberRoomsFlow) (Custom)
 28. Toy Store (ToystoreFlow) (Custom)
 
-[Info   :LethalLevelLoader] Initialized LLL Save File, Current Level Was: , Current Vanilla Save Is: LCSaveFile1
+[Info   :LethalLevelLoader] Initialized LLL Save File, Current Level Was: , Current Vanilla Save Is: LCSaveFile2
 [Info   :LethalLevelLoader] LethalLevelLoader Has Finished Initializing.
 [Info   :LethalLevelLoader] NetworkBundleManager Initializing.
 [Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
@@ -1485,8 +1865,8 @@ Parameter name: key
 [Info   :HerobrineMod] Registering spawnables in instance.
 [Info   :Rolling Giant] [RandomlyMoveWhileLooking]: moveSpeed: 6, moveAcceleration: 2, moveDeceleration: 0.5, rotateToLookAtPlayer: True, delayBeforeLookingAtPlayer: 2, lookAtPlayerDuration: 3, waitTimeMin: 1, waitTimeMax: 3, randomMoveTimeMin: 1, randomMoveTimeMax: 3, lookTimeBeforeAgro: 0
 [Message:Rolling Giant] Rolling Giant AI changed: RandomlyMoveWhileLooking
-[Info   : LethalLib] Adding 4 unlockables to unlockables list
-[Info   : LethalLib] Adding 15 items to terminal
+[Info   : LethalLib] Adding 8 unlockables to unlockables list
+[Info   : LethalLib] Adding 18 items to terminal
 [Info   :TooManyEmotes-2.3.13] Initializing emote menu
 [Info   :TooManyEmotes-2.3.13] Loading AudioManager preferences.
 [Info   :TooManyEmotes-2.3.13] Loading ThirdPersonEmoteController preferences.
@@ -1526,7 +1906,7 @@ Parameter name: key
 [Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
 [Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
 [Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
-[Info   : LethalLib] Found 60 prefabs to fix
+[Info   : LethalLib] Found 158 prefabs to fix
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - finding suit prefab...
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - found suit prefab!
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - loading content modules...
@@ -1545,21 +1925,21 @@ Parameter name: key
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applying content modules...
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applying additional content module from: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits...
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=0_Red_Suit, name=Red Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=0_Red_Suit, name=Red Suit}! (new unlockable count is 40)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=0_Red_Suit, name=Red Suit}! (new unlockable count is 56)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=1_Yellow_Suit, name=Yellow Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=1_Yellow_Suit, name=Yellow Suit}! (new unlockable count is 41)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=1_Yellow_Suit, name=Yellow Suit}! (new unlockable count is 57)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=2_Green_Suit, name=Green Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=2_Green_Suit, name=Green Suit}! (new unlockable count is 42)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=2_Green_Suit, name=Green Suit}! (new unlockable count is 58)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=3_Blue_Suit, name=Blue Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=3_Blue_Suit, name=Blue Suit}! (new unlockable count is 43)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=3_Blue_Suit, name=Blue Suit}! (new unlockable count is 59)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=4_Purple_Suit, name=Purple Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=4_Purple_Suit, name=Purple Suit}! (new unlockable count is 44)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=4_Purple_Suit, name=Purple Suit}! (new unlockable count is 60)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=5_Pink_Suit, name=Pink Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=5_Pink_Suit, name=Pink Suit}! (new unlockable count is 45)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=5_Pink_Suit, name=Pink Suit}! (new unlockable count is 61)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=6_White_Suit, name=White Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=6_White_Suit, name=White Suit}! (new unlockable count is 46)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=6_White_Suit, name=White Suit}! (new unlockable count is 62)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=7_Black_Suit, name=Black Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=7_Black_Suit, name=Black Suit}! (new unlockable count is 47)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=7_Black_Suit, name=Black Suit}! (new unlockable count is 63)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applyed additional content module from: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits!
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applied content modules!
 [Info   :ObjectVolumeController-1.1.2] ShipSpeaker volume: 0.58
@@ -1568,7 +1948,7 @@ Parameter name: key
 [Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
 [Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
 [Info   :LethalLevelLoader] Saving Current SelectableLevel: 41 Experimentation
-[Info   :DiscountSync] File LCSaveFile1_SaveSales.dat not found, returning default percentages.
+[Info   :DiscountSync] File LCSaveFile2_SaveSales.dat not found, returning default percentages.
 [Info   :DiscountSync] This is the first save load today, so the discounts in the file will not be overwritten.
 [Info   :TooManyEmotes-2.3.13] Loading game values.
 [Info   :TooManyEmotes-2.3.13] Resetting unlocked emotes.
@@ -1595,7 +1975,7 @@ Parameter name: key
 [Info   :More Ship Upgrades] [Hunter] Maneater set to be harvestable at level 3
 [Info   :More Ship Upgrades] [Hunter] Forest Giant set to be harvestable at level 4
 [Info   :More Ship Upgrades] [UpgradeBus] Successfully reconstructed with hosts config.
-[Info   :TooManyEmotes-2.3.13] Rotating emote selection in store. Seed: 767705656
+[Info   :TooManyEmotes-2.3.13] Rotating emote selection in store. Seed: 902757765
 [Info   :JacobG5.JLL] [User] JLL Network Manager Initialized.
 [Info   :LethalFashion] SpawnUnlockable method found successfully.
 [Info   :LethalFashion] ID: 0, Name: Orange suit
@@ -1637,14 +2017,131 @@ Parameter name: key
 [Info   :LethalFashion] ID: 36, Name: Large Rug
 [Info   :LethalFashion] ID: 37, Name: Fatalities Sign
 [Info   :LethalFashion] ID: 38, Name: Dartboard
-[Info   :LethalFashion] ID: 39, Name: Red Suit
-[Info   :LethalFashion] ID: 40, Name: Yellow Suit
-[Info   :LethalFashion] ID: 41, Name: Green Suit
-[Info   :LethalFashion] ID: 42, Name: Blue Suit
-[Info   :LethalFashion] ID: 43, Name: Purple Suit
-[Info   :LethalFashion] ID: 44, Name: Pink Suit
-[Info   :LethalFashion] ID: 45, Name: White Suit
-[Info   :LethalFashion] ID: 46, Name: Black Suit
+[Info   :LethalFashion] ID: 39, Name: Lady-Luck
+[Info   :LethalFashion] ID: 40, Name: Shutter Switch
+[Info   :LethalFashion] ID: 41, Name: Bodycam
+[Info   :LethalFashion] ID: 42, Name: Switchboard
+[Info   :LethalFashion] ID: 43, Name: Gold Suit
+[Info   :LethalFashion] ID: 44, Name: Golden Throne
+[Info   :LethalFashion] ID: 45, Name: Bronze Suit
+[Info   :LethalFashion] ID: 46, Name: Silver Suit
+[Info   :LethalFashion] ID: 47, Name: Directory LOG
+[Info   :LethalFashion] ID: 48, Name: Groovy Gold
+[Info   :LethalFashion] ID: 49, Name: Gold Toilet
+[Info   :LethalFashion] ID: 50, Name: Cat o Gold
+[Info   :LethalFashion] ID: 51, Name: Safe Box
+[Info   :LethalFashion] ID: 52, Name: Goldfather Clock
+[Info   :LethalFashion] ID: 53, Name: Gold Trophy
+[Info   :LethalFashion] ID: 54, Name: Gold Medal
+[Info   :LethalFashion] ID: 55, Name: Red Suit
+[Info   :LethalFashion] ID: 56, Name: Yellow Suit
+[Info   :LethalFashion] ID: 57, Name: Green Suit
+[Info   :LethalFashion] ID: 58, Name: Blue Suit
+[Info   :LethalFashion] ID: 59, Name: Purple Suit
+[Info   :LethalFashion] ID: 60, Name: Pink Suit
+[Info   :LethalFashion] ID: 61, Name: White Suit
+[Info   :LethalFashion] ID: 62, Name: Black Suit
+[Info   :LethalFashion] ID: 63, Name: EtherFit
+[Info   :LethalFashion] ID: 64, Name: Glow
+[Info   :LethalFashion] ID: 65, Name: Kirby
+[Info   :LethalFashion] ID: 66, Name: Knuckles
+[Info   :LethalFashion] ID: 67, Name: Luigi
+[Info   :LethalFashion] ID: 68, Name: Mario
+[Info   :LethalFashion] ID: 69, Name: Minion
+[Info   :LethalFashion] ID: 70, Name: Skeleton
+[Info   :LethalFashion] ID: 71, Name: Slayer
+[Info   :LethalFashion] ID: 72, Name: Smile
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :OpenBodyCams] Using custom camera settings from MainCamera.
 [Info   :RuntimeIcons] LethalLib found, reading Items.scrapItems
 [Info   :RuntimeIcons] LethalLevelLoader found, reading PatchedContent.ExtendedItems
 [Info   :LCCutscene] Cutscene Manager initialized!
@@ -1661,6 +2158,7 @@ Parameter name: key
 [Info   :  Huntdown] Stored: Crawler.
 [Info   :  Huntdown] Stored: Nutcracker.
 [Info   :  Huntdown] Stored: Boomba.
+[Info   :  Huntdown] Stored: BellCrab.
 [Info   :  Huntdown] Stored: MouthDog.
 [Info   :  Huntdown] Stored: ForestGiant.
 [Info   :  Huntdown] Stored: Maneater.
@@ -1681,23 +2179,11 @@ Parameter name: key
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Masked!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Masked!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Masked!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Masked!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
@@ -1706,14 +2192,16 @@ Parameter name: key
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
-[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
@@ -1726,6 +2214,20 @@ Parameter name: key
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
@@ -1734,11 +2236,17 @@ Parameter name: key
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
 [Message:Rolling Giant] Added RollingGiant to debug list
 [Message:Rolling Giant] Added RollingGiant to debug list
 [Message:Rolling Giant] Added RollingGiant to debug list
 [Warning:   DawnLib] Item Big red button is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] Item Gas tank is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] Item Page is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] Item Page is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] Item Page is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] Item Airhorn is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] Item Toy Hammer is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] Item Gummy flashlight is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] Item Axe is already registered by the same creator to LethalContent. This is likely to cause issues.
@@ -1809,23 +2317,34 @@ Parameter name: key
 [Info   :YPlayBoombox] Successfully initialized
 [Info   :ReservedItemSlotCore-2.0.52] Unlocking reserved item slot: flashlight
 [Info   :ReservedItemSlotCore-2.0.52] Unlocking reserved item slot: walkie_talkie
-[Info   :TooManyEmotes-2.3.13] Loading ThirdPersonEmoteController preferences.
-[Info   :TooManyEmotes-2.3.13] Initializing local player.
 [Info   :MoreCompany] Server received 3 cosmetics from 0 | Request All: True
 [Info   :MoreCompany] Sending 3 cosmetics to the server | Request All: True
+[Info   :TooManyEmotes-2.3.13] Loading ThirdPersonEmoteController preferences.
+[Info   :TooManyEmotes-2.3.13] Initializing local player.
+[Info   :LethalPhones] New phone for object: 259
 [Info   :Piggy.PiggyVarietyMod] Cloning Player Animation Controller
+[Info   :OpenBodyCams] Creating a new camera for Cube.001.
 [Warning:Lethal Company API] Asking all other players for their mod list..
-[Info   :TooManyEmotes-2.3.13] Rotating emote selection in store. Seed: 767705656
+[Info   :ImmersiveVisorLogSource] Immersive Visor Initialized
+[Info   :ImmersiveVisorLogSource] New RaindropSolver instance created : MainCamera - 860 / 520
+[Info   :TooManyEmotes-2.3.13] Rotating emote selection in store. Seed: 902757765
 [Info   :Solid's Library] Created SolidLibUtils. Scene is: 'SampleSceneRelay'
 [Info   :ReservedItemSlotCore-2.0.52] Unlocking reserved item slot: flashlight
 [Info   :ReservedItemSlotCore-2.0.52] Unlocking reserved item slot: walkie_talkie
 [Info   :RuntimeIcons] Unknown/Sticky note now has a new icon
 [Info   :HerobrineMod] Registering spawnables in instance 'delayed'.
+[Info   :LCGoldScrapMod] Applying values of host's specialDateCase. Value: 5
+[Info   :LCGoldScrapMod] Applying values of host's config [Multiplier Weight]. Value: 1.5
+[Info   :LCGoldScrapMod] Applying values of host's config [Multiplier Price]. Value: 1
+[Info   :LCGoldScrapMod] Applying values of host's config [Other Tools Balance]. Value: False
 [Info   :More Ship Upgrades] [LguStore] Loading SteamID: 76561198833591016
 [Info   :More Ship Upgrades] [LguStore] 76561198833591016 Was not found in save dictionary! Creating new save for ID.
 [Warning:dev.ladyalice.scarletmansion] Player 0 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
 [Info   :LethalThings] Syncing configs!
 [Info   :More Ship Upgrades] [LguStore] Applying loaded upgrades...
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
 [Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
 [Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
 [Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 2)
@@ -1841,18 +2360,19 @@ Parameter name: key
 [Info   :ReservedItemSlotCore-2.0.52] Sending slot to client: flashlight Unlocked: True
 [Info   :ReservedItemSlotCore-2.0.52] Sending slot to client: walkie_talkie Unlocked: True
 [Info   :ReservedItemSlotCore-2.0.52] Sending sync to client with id: 1
-[Info   :BetterStamina-1.5.7] Receiving config sync request from client with id: 1. Sending config sync to client.
+[Info   :MoreCompany] Server received 5 cosmetics from 1 | Request All: True
 [Info   :TooManyEmotes-2.3.13] Receiving config sync request from client: 1
-[Info   :MoreCompany] Server received 13 cosmetics from 1 | Request All: True
+[Info   :BetterStamina-1.5.7] Receiving config sync request from client with id: 1. Sending config sync to client.
+[Info   :LethalPhones] New phone for object: 253
 [Info   :Rolling Giant] Config sync request received from client: 1
 [Info   :Rolling Giant] Config sync sent to client: 1
 [Info   : LethalLib] Config sync request received from client: 1
 [Info   :TooManyEmotes-2.3.13] Receiving sync request from client: 1
-[Info   :TooManyEmotes-2.3.13] Loading 0 unlocked emotes for player: Matheus
-[Info   :TooManyEmotes-2.3.13] Loading 100 emote credits for player: Matheus
+[Info   :TooManyEmotes-2.3.13] Loading 0 unlocked emotes for player: Gustavo
+[Info   :TooManyEmotes-2.3.13] Loading 100 emote credits for player: Gustavo
 [Info   :ReservedItemSlotCore-2.0.52] Receiving sync held objects request from client with id: 1. 0 players are currently holding a reserved item.
 [Warning:Lethal Company API] Asking all other players for their mod list..
-[Warning:Lethal Company API] Matheus responded with these mods:
+[Warning:Lethal Company API] Gustavo responded with these mods:
 .LCMaxSoundsFix
 1.Waga.JigglePhysicsPlugin
 ACS.AdditionalContentFramework
@@ -1883,11 +2403,14 @@ me.loaforc.soundapi
 com.github.teamxiaolan.dawnlib.compatibility
 com.github.teamxiaolan.dawnlib.dusk
 com.github.WhiteSpike.MoonDaySpeedMultiplierPatcher
+com.github.zehsteam.DontTouchMyClogs
 com.sigurd.csync
 com.rune580.LethalCompanyInputUtils
 WhiteSpike.InteractiveTerminalAPI
 com.malco.lethalcompany.moreshipupgrades
+com.TheFiend
 com.willis.lc.lethalsettings
+com.zealsprince.locker
 CustomSounds
 Damir.longerDayMod
 dev.kittenji.NavMeshInCompany
@@ -1900,12 +2423,18 @@ FlipMods.ReservedItemSlotCore
 FlipMods.ReservedFlashlightSlot
 dev.ladyalice.scarletmansion
 dev.ladyalice.scarletmansion.coronerpatch
+x753.Mimics
 dev.ladyalice.scarletmansion.mimicspatch
 discount.alert
 DiscountSync
 DistinctBlaze.ColorfulEnemyVariety
 evaisa.lethalthings
 Jordo.NeedyCats
+solidlib
+Surfaced
+me.swipez.melonloader.morecompany
+FlipMods.TooManyEmotes
+Theronguard.EmergencyDice
 doggosuki.Huntdown
 Drak.BellMonster
 Entity378.BonBon
@@ -1913,10 +2442,10 @@ FlipMods.BetterStamina
 FlipMods.FasterItemDropship
 FlipMods.ObjectVolumeController
 FlipMods.ReservedWalkieSlot
-FlipMods.TooManyEmotes
 GGMD.GenericInteriors
 HoldScanButton
 iambatby.dynamicinteriorvariety
+ImmersiveVisor
 ImmortalSnail
 io.daxcess.nojumpdelay
 JacobG5.JLL
@@ -1928,6 +2457,7 @@ Kittenji.FootballEntity
 Kittenji.HerobrineMod
 LC_API_V50
 LCBetterSaves
+LCGoldScrapMod
 LCSoundTool
 LeoLR.MoreItems
 LethalFashion
@@ -1935,7 +2465,9 @@ pacoito.itolib
 LethalMatt.Bozoros
 LethalMatt.PlayZone
 LethalNetworkAPI
-me.swipez.melonloader.morecompany
+qwbarch.Mirage.Core
+qwbarch.Mirage
+LethalPhones
 MaskedEnemyRework
 me.eladnlg.customhud
 Mhz.MoreHead
@@ -1948,70 +2480,112 @@ nomnomab.rollinggiant
 NoteBoxz.NotezyLib
 Piggy.LCOffice
 Piggy.PiggyVarietyMod
-qwbarch.Mirage.Core
+PopleZoo.BetterItemScan
+project_scp.scp_106
+ScienceBird.Wither
+scin.monsterplushies
 Scopophobia
 SCPCBDunGen
-solidlib
+Slayer6409.DicePoltergeistCompat
+Slayer6409.DiceTwitchIntegration
+Slayer6409.DiceWeatherRegistryCompat
 SoulDev
+sparble.slendermanmod
+Swaggies.NaturalHealthRegen
 taffyko.BetterSprayPaint
+taffyko.NameplateTweaks
+TDP.CoilHeadStare
+TestAccount666.DoorBreach
 TestAccount666.TestAccountCore
+TestAccount666.ShipWindows
+x753.More_Suits
+TooManySuits
 VirusTLNR.MaskedInvisFix
+WaterGun.HarbringerScripts
+xCeezy.LethalEscape
 XuuXiaolan.SoftMaskKiller
 Yorimor.CustomStoryLogs
+Zaggy1024.OpenBodyCams
+zigzag.premiumscraps
+zigzag.chillaxscraps
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: RockwellExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: MoonsCatalogue, LoadNode Is: rockwellRouteConfirm
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: RockwellExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: MoonsCatalogue, LoadNode Is: rockwellRouteConfirm
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: False To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (0 / 2)
+[Info   :LethalLevelLoader] Saving Current SelectableLevel: 161 Rockwell
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (0 / 2)
+[Info   :LethalLevelLoader] rockwellscene.lethalbundle Loaded (0.90s)!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 2)
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (2 / 2)
+[Info   :TooManyEmotes-2.3.13] Receiving performing emote update from client: 1 Emote: cheer
+[Info   :TooManyEmotes-2.3.13] [Gustavo] Performing emote: cheer
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
 [Info   :Rolling Giant] [RandomlyMoveWhileLooking]: moveSpeed: 6, moveAcceleration: 2, moveDeceleration: 0.5, rotateToLookAtPlayer: True, delayBeforeLookingAtPlayer: 2, lookAtPlayerDuration: 3, waitTimeMin: 1, waitTimeMax: 3, randomMoveTimeMin: 1, randomMoveTimeMax: 3, lookTimeBeforeAgro: 0
 [Info   :Rolling Giant] Resetting all rolling giants!
 [Message:Rolling Giant] Rolling Giant AI changed: RandomlyMoveWhileLooking
+[Info   :TooManyEmotes-2.3.13] [SyncWithEmoteController_performed] Attempting to sync with emote controller: Player (1) (TooManyEmotes.EmoteControllerPlayer)
+[Info   :TooManyEmotes-2.3.13] Attempting to sync emote for player: Player with emote controller with id: 89
+[Info   :TooManyEmotes-2.3.13] [lipe] Attempting to sync with emote controller: Player (1) Emote: cheer PlayEmoteAtTimeNormalized: 0.1418529
+[Info   :TooManyEmotes-2.3.13] Adding to emote sync group with id: 0
 [Info   :LethalLevelLoader] Getting Random DungeonFlows!
 [Info   :LethalLevelLoader] ExtendedLevel <-> ExtendedDungeonFlow Dynamic Matching Report.
 
-Info For ExtendedLevel: ExperimentationExtendedLevel | Planet Name: Experimentation | Content Tags: Free, Wasteland, Vanilla | Route Price: 0 | Current Weather: None
-Unviable ExtendedDungeonFlows: Facility, Facility, Zeranos Gray Apartments, Circus Facility, Expanded Mineshaft, Spooky manor, Raven Manor, Scarlet Basement, Scarlet Foyer, SCP Foundation
-Viable ExtendedDungeonFlows: Sub Systems (300), Fractured Complex (300), Storehouse (300), Facility (300), Studio Floor (50), Tower (50), Rubber Rooms (40), LC Office (35), Grand Armory (30), Gray Apartments (25), Toy Store (15), Atlantean Citadel (10), Liminal Facility (10), PlayZone (5), Greenhouse (3), Mineshaft (3), Art Gallery (1), Haunted Mansion (1)
+Info For ExtendedLevel: RockwellExtendedLevel | Planet Name: Rockwell | Content Tags: Valley, Alpine, Tundra, Free, Custom | Route Price: 0 | Current Weather: None
+Unviable ExtendedDungeonFlows: Facility, Facility, Tower, Zeranos Gray Apartments, Circus Facility, Fractured Complex, Art Gallery, Expanded Mineshaft, Grand Armory, Spooky manor, PlayZone, Scarlet Basement, Scarlet Foyer, Sub Systems, Toy Store
+Viable ExtendedDungeonFlows: Haunted Mansion (300), Raven Manor (250), SCP Foundation (200), Storehouse (165), LC Office (100), Gray Apartments (100), Rubber Rooms (40), Mineshaft (32), Studio Floor (25), Atlantean Citadel (10), Liminal Facility (10), Greenhouse (3), Facility (3)
 
 [Info   :LethalLevelLoader] Setting Random DungeonFlows!
 [Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_GenerateNewFloor() Function To Prevent Conflicts
 [Info   :dev.ladyalice.dungenplus] Did not load a DunGenExtenderer
 [Info   :LethalLevelLoader] Fire Exit Patch Report, Details Below;
 
-EntranceTeleport's Found, Experimentation Contains 2 Entrances! ( 1 Fire Escapes) 
+EntranceTeleport's Found, Rockwell Contains 3 Entrances! ( 2 Fire Escapes) 
 Main Entrance: EntranceTeleportA (Entrance ID: 0)
 Alternate Entrance: EntranceTeleportB (Entrance ID: 1)
-Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawn rate Count From (1,1) To (1,1)
+Alternate Entrance: EntranceTeleportC (Entrance ID: 2)
+Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawn rate Count From (1,1) To (2,2)
 
 
-[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Experimentation ,Sub Systems ,Quota: 0 , Day: 1 , Weather: None
+[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Rockwell ,Haunted Mansion ,Quota: 0 , Day: 1 , Weather: None
+[Info   :TooManyEmotes-2.3.13] [Gustavo] Stopping emote.
 [Info   :  Huntdown] Storing values for scrap generated on new level.
-[Info   :VaiTerCebola] Encontrados 40 pontos de spawn. Spawning de 4 cebolas...
+[Info   :VaiTerCebola] Encontrados 91 pontos de spawn. Spawning de 4 cebolas...
 [Info   :VaiTerCebola] 4 cebolas foram adicionadas ao mapa!
-[Info   :me.loaforc.facilitymeltdown] Creating MoonMapper!
-[Info   :me.loaforc.facilitymeltdown] Creating InteriorMapper!
-[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
-[Info   :RuntimeIcons] Computing Vanilla/Apparatus icon
-[Info   :RuntimeIcons] Computing LethalLib/LethalLib/Arson Plush icon
-[Info   :RuntimeIcons] Computing Vanilla/Metal sheet icon
-[Info   :RuntimeIcons] Computing Vanilla/Metal sheet icon
-[Info   :RuntimeIcons] Computing Vanilla/Large axle icon
-[Info   :RuntimeIcons] Computing LethalLib/PiggyVarietyMod/Bullet icon
-[Info   :RuntimeIcons] Computing Vanilla/Easter egg icon
-[Info   :RuntimeIcons] Computing LethalLib/MoreItems/Banana peel icon
-[Info   :RuntimeIcons] Computing LethalLevelLoader/LC Office/Wrench icon
-[Info   :RuntimeIcons] Computing Vanilla/V-type engine icon
+[Info   :RuntimeIcons] Computing Vanilla/Toy cube icon
+[Info   :RuntimeIcons] Computing Vanilla/Plastic cup icon
+[Info   :RuntimeIcons] Computing Vanilla/Candy icon
+[Info   :RuntimeIcons] Computing LethalLib/LethalLib/Toimari Plush icon
+[Info   :RuntimeIcons] Computing Vanilla/Painting icon
+[Info   :RuntimeIcons] Computing Vanilla/Toothpaste icon
+[Info   :RuntimeIcons] Computing LethalLib/PremiumScraps/Frieren icon
+[Info   :RuntimeIcons] Computing LethalLib/PiggyVarietyMod/Magazine icon
+[Info   :RuntimeIcons] Computing Vanilla/Red soda icon
+[Info   :RuntimeIcons] Computing Vanilla/Clock icon
 [Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Lost Scavenger icon
 [Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Hoarding Bug Eggs icon
 [Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Data PC icon
 [Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Pentagram icon
-[Info   :CullFactory] Generation has completed with seed 71153352.
-[Info   :CullFactory] Preparing tile information for SubSysFlow took 32.181ms
-[Info   :RuntimeIcons] Vanilla/Apparatus now has a new icon
-[Info   :RuntimeIcons] Vanilla/V-type engine now has a new icon
-[Info   :RuntimeIcons] LethalLevelLoader/LC Office/Wrench now has a new icon
-[Info   :RuntimeIcons] LethalLib/MoreItems/Banana peel now has a new icon
-[Info   :RuntimeIcons] Vanilla/Easter egg now has a new icon
-[Info   :RuntimeIcons] LethalLib/PiggyVarietyMod/Bullet now has a new icon
+[Error  :Emergency Dice Updated] Something went wrong in the generation of the fire exits! (ignorable if EntranceTeleportOptimisation is installed)
+[Error  :   DawnLib] Something went wrong in the generation of the fire exits! (ignorable if EntranceTeleportOptimisation is installed)
+[Info   :CullFactory] Generation has completed with seed 35011564.
+[Info   :CullFactory] Preparing tile information for Level2Flow took 73.059ms
+[Info   :RuntimeIcons] Vanilla/Toy cube now has a new icon
+[Info   :RuntimeIcons] Vanilla/Clock now has a new icon
+[Info   :RuntimeIcons] Vanilla/Red soda now has a new icon
+[Info   :RuntimeIcons] LethalLib/PiggyVarietyMod/Magazine now has a new icon
+[Info   :RuntimeIcons] LethalLib/PremiumScraps/Frieren now has a new icon
+[Info   :RuntimeIcons] Vanilla/Toothpaste now has a new icon
+[Info   :RuntimeIcons] Vanilla/Painting now has a new icon
+[Info   :RuntimeIcons] LethalLib/LethalLib/Toimari Plush now has a new icon
+[Info   :RuntimeIcons] Vanilla/Candy now has a new icon
 [Info   :MaskedEnemyRework] Starting Round Manager
 [Info   :MaskedEnemyRework] no zombies :(
 [Info   :  Huntdown] Rolling for mission generation...
-[Info   :  Huntdown] Rolled 47 out of 100.
+[Info   :  Huntdown] Rolled 85 out of 100.
 [Info   :  Huntdown] Mission received: True.
 [Info   :  Huntdown] Calculating total weight of all missions...
 [Info   :  Huntdown] Adding Snare Flea's weight of 100 to total weight.
@@ -2088,147 +2662,838 @@ Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawn rate Count From (1,1) 
 [Info   :  Huntdown] New total weight: 1164.
 [Info   :  Huntdown] Cleaner Rivals is a disabled mission, not adding weight.
 [Info   :  Huntdown] New total weight: 1164.
-[Info   :  Huntdown] Bell Crab is a disabled mission, not adding weight.
-[Info   :  Huntdown] New total weight: 1164.
-[Info   :  Huntdown] Final total weight: 1164.
+[Info   :  Huntdown] Adding Bell Crab's weight of 75 to total weight.
+[Info   :  Huntdown] New total weight: 1239.
+[Info   :  Huntdown] Final total weight: 1239.
 [Info   :  Huntdown] Choosing random mission...
 [Info   :  Huntdown] Rolling for the mission Snare Flea.
-[Info   :  Huntdown] Rolled 843
+[Info   :  Huntdown] Rolled 622
 [Info   :  Huntdown] Rolling for the mission Bunker Spider.
-[Info   :  Huntdown] Rolled 743
+[Info   :  Huntdown] Rolled 522
 [Info   :  Huntdown] Rolling for the mission Hoarding Bug.
-[Info   :  Huntdown] Rolled 643
+[Info   :  Huntdown] Rolled 422
 [Info   :  Huntdown] Rolling for the mission Bracken.
-[Info   :  Huntdown] Rolled 593
+[Info   :  Huntdown] Rolled 372
 [Info   :  Huntdown] Rolling for the mission Thumper.
-[Info   :  Huntdown] Rolled 493
+[Info   :  Huntdown] Rolled 272
 [Info   :  Huntdown] Rolling for the mission Nutcracker.
-[Info   :  Huntdown] Rolled 443
+[Info   :  Huntdown] Rolled 222
 [Info   :  Huntdown] Rolling for the mission Masked.
-[Info   :  Huntdown] Rolled 368
+[Info   :  Huntdown] Rolled 147
 [Info   :  Huntdown] Rolling for the mission A Good Boy.
-[Info   :  Huntdown] Rolled 348
+[Info   :  Huntdown] Rolled 127
 [Info   :  Huntdown] Rolling for the mission Bug Mafia.
-[Info   :  Huntdown] Rolled 298
+[Info   :  Huntdown] Rolled 77
 [Info   :  Huntdown] Rolling for the mission Infestation.
-[Info   :  Huntdown] Rolled 273
+[Info   :  Huntdown] Rolled 52
 [Info   :  Huntdown] Rolling for the mission Last Month's Interns.
-[Info   :  Huntdown] Rolled 258
+[Info   :  Huntdown] Rolled 37
 [Info   :  Huntdown] Rolling for the mission Butler.
-[Info   :  Huntdown] Rolled 208
+[Info   :  Huntdown] Rolled -13
+[Info   :  Huntdown] Mission chosen: Butler.
 [Info   :  Huntdown] Rolling for the mission Maneater.
-[Info   :  Huntdown] Rolled 198
+[Info   :  Huntdown] Rolled -23
 [Info   :  Huntdown] Rolling for the mission Stabbin' Bros.
-[Info   :  Huntdown] Rolled 158
+[Info   :  Huntdown] Rolled -63
 [Info   :  Huntdown] Rolling for the mission Giant Size: Upgraded.
-[Info   :  Huntdown] Rolled 153
+[Info   :  Huntdown] Rolled -68
 [Info   :  Huntdown] Rolling for the mission Big Trouble Little Enemies.
-[Info   :  Huntdown] Rolled 148
+[Info   :  Huntdown] Rolled -73
 [Info   :  Huntdown] Rolling for the mission Who let the puppies out?.
-[Info   :  Huntdown] Rolled 143
+[Info   :  Huntdown] Rolled -78
 [Info   :  Huntdown] Rolling for the mission Baboon Gang.
-[Info   :  Huntdown] Rolled 103
+[Info   :  Huntdown] Rolled -118
 [Info   :  Huntdown] Rolling for the mission Facility Keeper.
-[Info   :  Huntdown] Rolled 88
+[Info   :  Huntdown] Rolled -133
 [Info   :  Huntdown] Rolling for the mission Lone Baboon Hawk.
-[Info   :  Huntdown] Rolled 18
+[Info   :  Huntdown] Rolled -203
 [Info   :  Huntdown] Rolling for the mission Dynamic Duo.
-[Info   :  Huntdown] Rolled -12
-[Info   :  Huntdown] Mission chosen: Dynamic Duo.
+[Info   :  Huntdown] Rolled -233
 [Info   :  Huntdown] Rolling for the mission Monstrous Den.
-[Info   :  Huntdown] Rolled -32
+[Info   :  Huntdown] Rolled -253
 [Info   :  Huntdown] Rolling for the mission Mask Outbreak.
-[Info   :  Huntdown] Rolled -38
+[Info   :  Huntdown] Rolled -259
 [Info   :  Huntdown] Rolling for the mission Left 4 Mask 2.
-[Info   :  Huntdown] Rolled -40
+[Info   :  Huntdown] Rolled -261
 [Info   :  Huntdown] Rolling for the mission Zombie.
-[Info   :  Huntdown] Rolled -115
+[Info   :  Huntdown] Rolled -336
 [Info   :  Huntdown] Rolling for the mission Last Year's Interns.
-[Info   :  Huntdown] Rolled -130
+[Info   :  Huntdown] Rolled -351
 [Info   :  Huntdown] Rolling for the mission Zombie Apocalypse.
-[Info   :  Huntdown] Rolled -138
+[Info   :  Huntdown] Rolled -359
 [Info   :  Huntdown] Rolling for the mission Boomba.
-[Info   :  Huntdown] Rolled -213
+[Info   :  Huntdown] Rolled -434
 [Info   :  Huntdown] Rolling for the mission Boombopocalypse.
-[Info   :  Huntdown] Rolled -221
-[Info   :  Huntdown] Attempting to generate mission 'Dynamic Duo'.
+[Info   :  Huntdown] Rolled -442
+[Info   :  Huntdown] Rolling for the mission Bell Crab.
+[Info   :  Huntdown] Rolled -517
+[Info   :  Huntdown] Attempting to generate mission 'Butler'.
 [Info   :  Huntdown] Rolling for a random faraway vent...
-[Info   :  Huntdown] MainEntrancePos: (-18.10, -217.59, 69.90)
-[Info   :  Huntdown] 0VentPosEntrancePos: (41.65, -220.84, -39.10)
-[Info   :  Huntdown] 1VentPosEntrancePos: (-45.35, -220.84, 105.90)
-[Info   :  Huntdown] 2VentPosEntrancePos: (5.65, -220.84, 33.90)
-[Info   :  Huntdown] 3VentPosEntrancePos: (29.65, -210.84, 1.90)
-[Info   :  Huntdown] 4VentPosEntrancePos: (18.65, -210.84, 17.90)
-[Info   :  Huntdown] 5VentPosEntrancePos: (48.65, -210.84, 17.90)
-[Info   :  Huntdown] longest dist: 124.3448
-[Info   :  Huntdown] midpoint: (11.77, -219.22, 15.40)
-[Info   :  Huntdown] halfway dist: 62.1724
-[Info   :  Huntdown] 0VentPosEntrancePos: (41.65, -220.84, -39.10)
-[Info   :  Huntdown] dist: 124.3448
-[Info   :  Huntdown] halfwaydist 62.1724
-[Info   :  Huntdown] 1VentPosEntrancePos: (-45.35, -220.84, 105.90)
-[Info   :  Huntdown] 2VentPosEntrancePos: (5.65, -220.84, 33.90)
-[Info   :  Huntdown] 3VentPosEntrancePos: (29.65, -210.84, 1.90)
-[Info   :  Huntdown] dist: 83.36443
-[Info   :  Huntdown] halfwaydist 62.1724
-[Info   :  Huntdown] 4VentPosEntrancePos: (18.65, -210.84, 17.90)
-[Info   :  Huntdown] dist: 64.03223
-[Info   :  Huntdown] halfwaydist 62.1724
-[Info   :  Huntdown] 5VentPosEntrancePos: (48.65, -210.84, 17.90)
-[Info   :  Huntdown] dist: 84.88303
-[Info   :  Huntdown] halfwaydist 62.1724
-[Info   :  Huntdown] Rolled 3 out of 4.
+[Info   :  Huntdown] MainEntrancePos: (-9.12, -218.00, 65.81)
+[Info   :  Huntdown] 0VentPosEntrancePos: (61.56, -218.93, 21.39)
+[Info   :  Huntdown] 1VentPosEntrancePos: (61.06, -218.83, 21.89)
+[Info   :  Huntdown] 2VentPosEntrancePos: (13.04, -218.93, 47.58)
+[Info   :  Huntdown] 3VentPosEntrancePos: (41.51, -218.75, 46.29)
+[Info   :  Huntdown] 4VentPosEntrancePos: (39.99, -211.57, 77.88)
+[Info   :  Huntdown] 5VentPosEntrancePos: (-43.34, -218.83, 4.41)
+[Info   :  Huntdown] 6VentPosEntrancePos: (78.21, -218.76, 48.42)
+[Info   :  Huntdown] 7VentPosEntrancePos: (68.01, -218.75, 21.16)
+[Info   :  Huntdown] 8VentPosEntrancePos: (65.53, -218.75, 6.38)
+[Info   :  Huntdown] 9VentPosEntrancePos: (39.99, -211.57, 77.88)
+[Info   :  Huntdown] longest dist: 95.42597
+[Info   :  Huntdown] midpoint: (28.20, -218.37, 36.09)
+[Info   :  Huntdown] halfway dist: 47.71298
+[Info   :  Huntdown] 0VentPosEntrancePos: (61.56, -218.93, 21.39)
+[Info   :  Huntdown] dist: 83.48978
+[Info   :  Huntdown] halfwaydist 47.71298
+[Info   :  Huntdown] 1VentPosEntrancePos: (61.06, -218.83, 21.89)
+[Info   :  Huntdown] dist: 82.79713
+[Info   :  Huntdown] halfwaydist 47.71298
+[Info   :  Huntdown] 2VentPosEntrancePos: (13.04, -218.93, 47.58)
+[Info   :  Huntdown] 3VentPosEntrancePos: (41.51, -218.75, 46.29)
+[Info   :  Huntdown] dist: 54.26475
+[Info   :  Huntdown] halfwaydist 47.71298
+[Info   :  Huntdown] 4VentPosEntrancePos: (39.99, -211.57, 77.88)
+[Info   :  Huntdown] dist: 50.987
+[Info   :  Huntdown] halfwaydist 47.71298
+[Info   :  Huntdown] 5VentPosEntrancePos: (-43.34, -218.83, 4.41)
+[Info   :  Huntdown] dist: 70.28885
+[Info   :  Huntdown] halfwaydist 47.71298
+[Info   :  Huntdown] 6VentPosEntrancePos: (78.21, -218.76, 48.42)
+[Info   :  Huntdown] dist: 89.05352
+[Info   :  Huntdown] halfwaydist 47.71298
+[Info   :  Huntdown] 7VentPosEntrancePos: (68.01, -218.75, 21.16)
+[Info   :  Huntdown] dist: 89.12895
+[Info   :  Huntdown] halfwaydist 47.71298
+[Info   :  Huntdown] 8VentPosEntrancePos: (65.53, -218.75, 6.38)
+[Info   :  Huntdown] dist: 95.42597
+[Info   :  Huntdown] halfwaydist 47.71298
+[Info   :  Huntdown] 9VentPosEntrancePos: (39.99, -211.57, 77.88)
+[Info   :  Huntdown] dist: 50.987
+[Info   :  Huntdown] halfwaydist 47.71298
+[Info   :  Huntdown] Rolled 6 out of 9.
 [Info   :  Huntdown] Spawning mission targets...
-[Info   :  Huntdown] Total enemies spawned: 2
-[Info   :  Huntdown] Mission 'Dynamic Duo' generated successfully.
+[Info   :  Huntdown] Spawning a single unnatural enemy of type: Butler
+[Info   :  Huntdown] Total enemies spawned: 1
+[Info   :  Huntdown] Mission 'Butler' generated successfully.
 [Info   :Starlancer AI Fix] Finding outside AI nodes.
 [Info   :Starlancer AI Fix] Finding inside AI nodes.
 [Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
-[Info   :Starlancer AI Fix] Adding IVisibleThreat component to Crawler(Clone).
+[Info   :Starlancer AI Fix] Adding IVisibleThreat component to ButlerEnemy(Clone).
+[Info   :RuntimeIcons] Vanilla/Plastic cup now has a new icon
+[Info   :Lethal Escape] Kiwi nest chance did not pass, or is disabled. Spawning outside.
+[Warning:Lethal Escape] Kiwi (-210784) SpawnEggsClientRpc_Postfix: Egg 'KiwiBabyItem(Clone)' (at (300.38, 9.45, 227.50), dist to nest: 0.9m) was 'isInFactory=true'. Forcing to 'false' as nest is outside.
+[Warning:Lethal Escape] Kiwi (-210784) SpawnEggsClientRpc_Postfix: Egg 'KiwiBabyItem(Clone)' (at (299.67, 9.52, 227.40), dist to nest: 0.8m) was 'isInFactory=true'. Forcing to 'false' as nest is outside.
+[Warning:Lethal Escape] Kiwi (-210784) SpawnEggsClientRpc_Postfix: Egg 'KiwiBabyItem(Clone)' (at (299.95, 9.45, 228.06), dist to nest: 0.8m) was 'isInFactory=true'. Forcing to 'false' as nest is outside.
+[Info   :RuntimeIcons] Computing Vanilla/Egg icon
+[Info   :RuntimeIcons] Computing Vanilla/Egg icon
+[Info   :RuntimeIcons] Computing Vanilla/Egg icon
+[Info   :TooManyEmotes-2.3.13] [lipe] Stopping emote.
+[Info   :RuntimeIcons] Vanilla/Egg now has a new icon
+[Info   :Lethal Escape] FindClosestReachableEntrance found a valid door: EntranceTeleportA with path length: 150.5966
+[Warning:CullFactory] A MeshRenderer in CloverTile(Clone) was unexpectedly destroyed.
+[Info   :  Surfaced] Horse launched with low power
+[Info   :  Surfaced] Player being launched removed from horse list
+[Info   :  Surfaced] Horse launched with low power
+[Info   :  Surfaced] Player being launched removed from horse list
+[Info   :ReservedItemSlotCore-2.0.52] [VERBOSE] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-2.0.52] [VERBOSE] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-2.0.52] [VERBOSE] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :Starlancer AI Fix] DoublewingedBird(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 7.999999
+[Info   :Starlancer AI Fix] Removing DoublewingedBird(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 6.999999
+[Info   :Starlancer AI Fix] DoublewingedBird(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 6.999999
+[Info   :Starlancer AI Fix] Removing DoublewingedBird(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 5.999999
 [Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
-[Info   :Starlancer AI Fix] Adding IVisibleThreat component to SandSpider(Clone).
-[Info   :RuntimeIcons] Vanilla/Large axle now has a new icon
+[Info   :Starlancer AI Fix] Adding IVisibleThreat component to NutcrackerEnemy(Clone).
+[Info   :Lethal Escape] FindClosestReachableEntrance found a valid door: EntranceTeleportA with path length: 151.6753
+[Info   :Lethal Escape] Butler -208038 (State: 1) target Gustavo is outside. Initiating escape timer with delay: 7s.
+[Info   :Lethal Escape] Butler -208038 escape delay (7s) met. Sending Butler outside to follow Gustavo.
+[Warning:Lethal Escape] No specific exit found for Butler to use when going outside. Using RoundManager.FindMainEntrancePosition (outside).
+[Warning:Lethal Escape] Agent areaMask remains 33556445.
+[Info   :Lethal Escape] SendEnemyOutside: Warping Butler near door at sampled position: (416.51, -1.12, 148.28)
+[Info   :Lethal Escape] Butler sent outside. isOutside: True, NavMesh AreaMask: 33556445
+[Info   :HerobrineMod] The ship is leaving.................
+[Info   :Starlancer AI Fix] NutcrackerEnemy(Clone) from the interior enemy list has died; 
+Previous interior power level is 0
+[Info   :Starlancer AI Fix] Removing NutcrackerEnemy(Clone)'s power (1) from the RoundManager; 
+Current interior power level is 0
+[Info   :Starlancer AI Fix] Horse(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing Horse(Clone)'s power (0.1) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] Horse(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing Horse(Clone)'s power (0.1) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] Horse(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing Horse(Clone)'s power (0.1) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] Horse(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing Horse(Clone)'s power (0.1) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] Horse(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing Horse(Clone)'s power (0.1) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] FlowerSnakeEnemy(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing FlowerSnakeEnemy(Clone)'s power (0.5) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] FlowerSnakeEnemy(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing FlowerSnakeEnemy(Clone)'s power (0.5) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] FlowerSnakeEnemy(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing FlowerSnakeEnemy(Clone)'s power (0.5) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] FlowerSnakeEnemy(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing FlowerSnakeEnemy(Clone)'s power (0.5) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] GiantKiwi(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing GiantKiwi(Clone)'s power (2) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] Horse(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing Horse(Clone)'s power (0.1) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] Horse(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing Horse(Clone)'s power (0.1) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] Horse(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing Horse(Clone)'s power (0.1) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] Horse(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing Horse(Clone)'s power (0.1) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] Horse(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing Horse(Clone)'s power (0.1) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] Nemo(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 0
+[Info   :Starlancer AI Fix] Removing Nemo(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 0
+[Info   :Starlancer AI Fix] ButlerEnemy(Clone) from the exterior enemy list has died; 
+Previous exterior power level is 0
+[Info   :Starlancer AI Fix] Removing ButlerEnemy(Clone)'s power (2) from the RoundManager; 
+Current exterior power level is 0
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :ImmersiveVisorLogSource] Visor Repaired
+[Info   :DiscountSync] Current discounts have been saved in the file.
+[Info   :JacobG5.WesleyMoons] Saving Wesley Data.
+[Info   : MoreItems] Maximum amount of items that can be saved set to 999 just before saving.
+[Info   :TooManyEmotes-2.3.13] Saving game values.
+[Info   :TooManyEmotes-2.3.13] Saving 22 unlocked emotes for player: lipe
+[Info   :TooManyEmotes-2.3.13] Saving 100 emote credits for player: lipe
+[Info   :TooManyEmotes-2.3.13] Saving 0 unlocked emotes for player: Gustavo
+[Info   :TooManyEmotes-2.3.13] Saving 100 emote credits for player: Gustavo
+[Info   :TooManyEmotes-2.3.13] Saved Seed: 902757765
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: GordionExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: MoonsCatalogue, LoadNode Is: CompanyMoonRouteConfirm
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: GordionExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: MoonsCatalogue, LoadNode Is: CompanyMoonRouteConfirm
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 2)
+[Info   :LethalLevelLoader] Saving Current SelectableLevel: 71 Gordion
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (2 / 2)
+[Info   :LethalLevelLoader] rockwellscene.lethalbundle Unloaded (0.20s)
+[Info   :Rolling Giant] [RandomlyMoveWhileLooking]: moveSpeed: 6, moveAcceleration: 2, moveDeceleration: 0.5, rotateToLookAtPlayer: True, delayBeforeLookingAtPlayer: 2, lookAtPlayerDuration: 3, waitTimeMin: 1, waitTimeMax: 3, randomMoveTimeMin: 1, randomMoveTimeMax: 3, lookTimeBeforeAgro: 0
+[Info   :Rolling Giant] Resetting all rolling giants!
+[Message:Rolling Giant] Rolling Giant AI changed: RandomlyMoveWhileLooking
+[Info   :RuntimeIcons] Computing Unknown/Body icon
+[Info   :RuntimeIcons] Computing Unknown/Body icon
+[Info   :HerobrineMod] The ship is leaving.................
+[Info   :ImmersiveVisorLogSource] Visor Repaired
+[Info   :ImmersiveVisorLogSource] New RaindropSolver instance created : MainCamera - 860 / 520
+[Info   :LethalThings] Dead players: 2
+[Info   :DiscountSync] Current discounts have been saved in the file.
+[Info   :JacobG5.WesleyMoons] Saving Wesley Data.
+[Info   : MoreItems] Maximum amount of items that can be saved set to 999 just before saving.
+[Info   :TooManyEmotes-2.3.13] Saving game values.
+[Info   :TooManyEmotes-2.3.13] Saving 22 unlocked emotes for player: lipe
+[Info   :TooManyEmotes-2.3.13] Saving 100 emote credits for player: lipe
+[Info   :TooManyEmotes-2.3.13] Saving 0 unlocked emotes for player: Gustavo
+[Info   :TooManyEmotes-2.3.13] Saving 100 emote credits for player: Gustavo
+[Info   :TooManyEmotes-2.3.13] Saved Seed: 902757765
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: AssuranceExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: HelpCommands, LoadNode Is: 220routeConfirm
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: AssuranceExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: HelpCommands, LoadNode Is: 220routeConfirm
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: AssuranceExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: CancelRoute, LoadNode Is: 220routeConfirm
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: AssuranceExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: CancelRoute, LoadNode Is: 220routeConfirm
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 2)
+[Info   :LethalLevelLoader] Saving Current SelectableLevel: 220 Assurance
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (2 / 2)
+[Info   :Rolling Giant] [RandomlyMoveWhileLooking]: moveSpeed: 6, moveAcceleration: 2, moveDeceleration: 0.5, rotateToLookAtPlayer: True, delayBeforeLookingAtPlayer: 2, lookAtPlayerDuration: 3, waitTimeMin: 1, waitTimeMax: 3, randomMoveTimeMin: 1, randomMoveTimeMax: 3, lookTimeBeforeAgro: 0
+[Info   :Rolling Giant] Resetting all rolling giants!
+[Message:Rolling Giant] Rolling Giant AI changed: RandomlyMoveWhileLooking
+[Info   :LethalLevelLoader] Getting Random DungeonFlows!
+[Info   :LethalLevelLoader] ExtendedLevel <-> ExtendedDungeonFlow Dynamic Matching Report.
+
+Info For ExtendedLevel: AssuranceExtendedLevel | Planet Name: Assurance | Content Tags: Free, Canyon, Vanilla | Route Price: 0 | Current Weather: Eclipsed
+Unviable ExtendedDungeonFlows: Facility, Facility, Tower, Zeranos Gray Apartments, Circus Facility, Expanded Mineshaft, Spooky manor, Raven Manor, Scarlet Basement, Scarlet Foyer, SCP Foundation, Studio Floor
+Viable ExtendedDungeonFlows: Facility (300), Sub Systems (250), Storehouse (200), Fractured Complex (125), LC Office (65), Rubber Rooms (40), Mineshaft (40), Grand Armory (30), Gray Apartments (25), Atlantean Citadel (10), Liminal Facility (10), Toy Store (5), Greenhouse (3), Haunted Mansion (3), PlayZone (2), Art Gallery (1)
+
+[Info   :LethalLevelLoader] Setting Random DungeonFlows!
+[Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_GenerateNewFloor() Function To Prevent Conflicts
+[Info   :dev.ladyalice.dungenplus] Loading DunGenExtender for OfficeDungeonFlow
+[Info   :LethalLevelLoader] Fire Exit Patch Report, Details Below;
+
+EntranceTeleport's Found, Assurance Contains 2 Entrances! ( 1 Fire Escapes) 
+Main Entrance: EntranceTeleportA (Entrance ID: 0)
+Alternate Entrance: EntranceTeleportB (Entrance ID: 1)
+Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawn rate Count From (1,3) To (1,1)
+
+
+[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Assurance ,LC Office ,Quota: 0 , Day: 2 , Weather: Eclipsed
+[Info   :  Huntdown] Storing values for scrap generated on new level.
+[Info   :VaiTerCebola] Encontrados 101 pontos de spawn. Spawning de 4 cebolas...
+[Info   :VaiTerCebola] 4 cebolas foram adicionadas ao mapa!
+[Info   :RuntimeIcons] Computing Vanilla/Cash register icon
+[Info   :RuntimeIcons] Computing LethalLib/MoreItems/Minikit icon
+[Info   :RuntimeIcons] Computing Vanilla/Cookie mold pan icon
+[Info   :RuntimeIcons] Computing Vanilla/Magnifying glass icon
+[Info   :RuntimeIcons] Computing Vanilla/Comedy icon
+[Info   :RuntimeIcons] Computing Unknown/Goldfish icon
+[Info   :RuntimeIcons] Computing LethalLevelLoader/LC Office/Wrench icon
+[Info   :RuntimeIcons] Computing LethalLib/LethalLib/Cookie Fumo icon
+[Info   :RuntimeIcons] Computing Vanilla/Steering wheel icon
+[Info   :RuntimeIcons] Computing LethalLib/MysteryDice/Chronos icon
+[Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Lost Scavenger icon
+[Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Hoarding Bug Eggs icon
+[Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Data PC icon
+[Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Pentagram icon
+[Info   :CullFactory] Generation has completed with seed 51934246.
+[Info   :CullFactory] Preparing tile information for OfficeDungeonFlow took 21.118ms
+[Info   :Piggy.LCOffice] Spawning Elevator On Host
+[Info   :RuntimeIcons] Vanilla/Cash register now has a new icon
+[Info   :RuntimeIcons] LethalLib/MysteryDice/Chronos now has a new icon
+[Info   :RuntimeIcons] Vanilla/Steering wheel now has a new icon
+[Info   :RuntimeIcons] LethalLib/LethalLib/Cookie Fumo now has a new icon
+[Info   :RuntimeIcons] LethalLevelLoader/LC Office/Wrench now has a new icon
+[Info   :RuntimeIcons] Unknown/Goldfish now has a new icon
+[Info   :RuntimeIcons] Vanilla/Comedy now has a new icon
+[Info   :MaskedEnemyRework] Starting Round Manager
+[Info   :MaskedEnemyRework] no zombies :(
+[Info   :  Huntdown] Rolling for mission generation...
+[Info   :  Huntdown] Rolled 75 out of 100.
+[Info   :  Huntdown] Mission received: True.
+[Info   :  Huntdown] Calculating total weight of all missions...
+[Info   :  Huntdown] Adding Snare Flea's weight of 200 to total weight.
+[Info   :  Huntdown] New total weight: 200.
+[Info   :  Huntdown] Adding Bunker Spider's weight of 200 to total weight.
+[Info   :  Huntdown] New total weight: 400.
+[Info   :  Huntdown] Adding Hoarding Bug's weight of 200 to total weight.
+[Info   :  Huntdown] New total weight: 600.
+[Info   :  Huntdown] Adding Bracken's weight of 100 to total weight.
+[Info   :  Huntdown] New total weight: 700.
+[Info   :  Huntdown] Adding Thumper's weight of 200 to total weight.
+[Info   :  Huntdown] New total weight: 900.
+[Info   :  Huntdown] Adding Nutcracker's weight of 100 to total weight.
+[Info   :  Huntdown] New total weight: 1000.
+[Info   :  Huntdown] Adding Masked's weight of 150 to total weight.
+[Info   :  Huntdown] New total weight: 1150.
+[Info   :  Huntdown] Adding A Good Boy's weight of 40 to total weight.
+[Info   :  Huntdown] New total weight: 1190.
+[Info   :  Huntdown] Adding Bug Mafia's weight of 100 to total weight.
+[Info   :  Huntdown] New total weight: 1290.
+[Info   :  Huntdown] Blunderbug is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 1290.
+[Info   :  Huntdown] Adding Infestation's weight of 50 to total weight.
+[Info   :  Huntdown] New total weight: 1340.
+[Info   :  Huntdown] Adding Last Month's Interns's weight of 30 to total weight.
+[Info   :  Huntdown] New total weight: 1370.
+[Info   :  Huntdown] Adding Butler's weight of 50 to total weight.
+[Info   :  Huntdown] New total weight: 1420.
+[Info   :  Huntdown] Adding Maneater's weight of 20 to total weight.
+[Info   :  Huntdown] New total weight: 1440.
+[Info   :  Huntdown] Adding Stabbin' Bros's weight of 80 to total weight.
+[Info   :  Huntdown] New total weight: 1520.
+[Info   :  Huntdown] Adding Giant Size: Upgraded's weight of 10 to total weight.
+[Info   :  Huntdown] New total weight: 1530.
+[Info   :  Huntdown] Adding Big Trouble Little Enemies's weight of 10 to total weight.
+[Info   :  Huntdown] New total weight: 1540.
+[Info   :  Huntdown] Adding Who let the puppies out?'s weight of 10 to total weight.
+[Info   :  Huntdown] New total weight: 1550.
+[Info   :  Huntdown] Adding Baboon Gang's weight of 80 to total weight.
+[Info   :  Huntdown] New total weight: 1630.
+[Info   :  Huntdown] Adding Facility Keeper's weight of 30 to total weight.
+[Info   :  Huntdown] New total weight: 1660.
+[Info   :  Huntdown] Adding Lone Baboon Hawk's weight of 140 to total weight.
+[Info   :  Huntdown] New total weight: 1800.
+[Info   :  Huntdown] Adding Dynamic Duo's weight of 60 to total weight.
+[Info   :  Huntdown] New total weight: 1860.
+[Info   :  Huntdown] Adding Monstrous Den's weight of 40 to total weight.
+[Info   :  Huntdown] New total weight: 1900.
+[Info   :  Huntdown] Adding Mask Outbreak's weight of 12 to total weight.
+[Info   :  Huntdown] New total weight: 1912.
+[Info   :  Huntdown] Adding Left 4 Mask 2's weight of 4 to total weight.
+[Info   :  Huntdown] New total weight: 1916.
+[Info   :  Huntdown] Adding Zombie's weight of 150 to total weight.
+[Info   :  Huntdown] New total weight: 2066.
+[Info   :  Huntdown] Adding Last Year's Interns's weight of 30 to total weight.
+[Info   :  Huntdown] New total weight: 2096.
+[Info   :  Huntdown] Adding Zombie Apocalypse's weight of 16 to total weight.
+[Info   :  Huntdown] New total weight: 2112.
+[Info   :  Huntdown] Adding Boomba's weight of 150 to total weight.
+[Info   :  Huntdown] New total weight: 2262.
+[Info   :  Huntdown] Adding Boombopocalypse's weight of 16 to total weight.
+[Info   :  Huntdown] New total weight: 2278.
+[Info   :  Huntdown] Haunted Harpist is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 2278.
+[Info   :  Huntdown] Phantom Piper is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 2278.
+[Info   :  Huntdown] Enforcer is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 2278.
+[Info   :  Huntdown] The Firing Squad is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 2278.
+[Info   :  Huntdown] The Manor Lord is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 2278.
+[Info   :  Huntdown] Janitor is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 2278.
+[Info   :  Huntdown] Cleaner Rivals is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 2278.
+[Info   :  Huntdown] Adding Bell Crab's weight of 150 to total weight.
+[Info   :  Huntdown] New total weight: 2428.
+[Info   :  Huntdown] Final total weight: 2428.
+[Info   :  Huntdown] Choosing random mission...
+[Info   :  Huntdown] Rolling for the mission Snare Flea.
+[Info   :  Huntdown] Rolled 1813
+[Info   :  Huntdown] Rolling for the mission Bunker Spider.
+[Info   :  Huntdown] Rolled 1613
+[Info   :  Huntdown] Rolling for the mission Hoarding Bug.
+[Info   :  Huntdown] Rolled 1413
+[Info   :  Huntdown] Rolling for the mission Bracken.
+[Info   :  Huntdown] Rolled 1313
+[Info   :  Huntdown] Rolling for the mission Thumper.
+[Info   :  Huntdown] Rolled 1113
+[Info   :  Huntdown] Rolling for the mission Nutcracker.
+[Info   :  Huntdown] Rolled 1013
+[Info   :  Huntdown] Rolling for the mission Masked.
+[Info   :  Huntdown] Rolled 863
+[Info   :  Huntdown] Rolling for the mission A Good Boy.
+[Info   :  Huntdown] Rolled 823
+[Info   :  Huntdown] Rolling for the mission Bug Mafia.
+[Info   :  Huntdown] Rolled 723
+[Info   :  Huntdown] Rolling for the mission Infestation.
+[Info   :  Huntdown] Rolled 673
+[Info   :  Huntdown] Rolling for the mission Last Month's Interns.
+[Info   :  Huntdown] Rolled 643
+[Info   :  Huntdown] Rolling for the mission Butler.
+[Info   :  Huntdown] Rolled 593
+[Info   :  Huntdown] Rolling for the mission Maneater.
+[Info   :  Huntdown] Rolled 573
+[Info   :  Huntdown] Rolling for the mission Stabbin' Bros.
+[Info   :  Huntdown] Rolled 493
+[Info   :  Huntdown] Rolling for the mission Giant Size: Upgraded.
+[Info   :  Huntdown] Rolled 483
+[Info   :  Huntdown] Rolling for the mission Big Trouble Little Enemies.
+[Info   :  Huntdown] Rolled 473
+[Info   :  Huntdown] Rolling for the mission Who let the puppies out?.
+[Info   :  Huntdown] Rolled 463
+[Info   :  Huntdown] Rolling for the mission Baboon Gang.
+[Info   :  Huntdown] Rolled 383
+[Info   :  Huntdown] Rolling for the mission Facility Keeper.
+[Info   :  Huntdown] Rolled 353
+[Info   :  Huntdown] Rolling for the mission Lone Baboon Hawk.
+[Info   :  Huntdown] Rolled 213
+[Info   :  Huntdown] Rolling for the mission Dynamic Duo.
+[Info   :  Huntdown] Rolled 153
+[Info   :  Huntdown] Rolling for the mission Monstrous Den.
+[Info   :  Huntdown] Rolled 113
+[Info   :  Huntdown] Rolling for the mission Mask Outbreak.
+[Info   :  Huntdown] Rolled 101
+[Info   :  Huntdown] Rolling for the mission Left 4 Mask 2.
+[Info   :  Huntdown] Rolled 97
+[Info   :  Huntdown] Rolling for the mission Zombie.
+[Info   :  Huntdown] Rolled -53
+[Info   :  Huntdown] Mission chosen: Zombie.
+[Info   :  Huntdown] Rolling for the mission Last Year's Interns.
+[Info   :  Huntdown] Rolled -83
+[Info   :  Huntdown] Rolling for the mission Zombie Apocalypse.
+[Info   :  Huntdown] Rolled -99
+[Info   :  Huntdown] Rolling for the mission Boomba.
+[Info   :  Huntdown] Rolled -249
+[Info   :  Huntdown] Rolling for the mission Boombopocalypse.
+[Info   :  Huntdown] Rolled -265
+[Info   :  Huntdown] Rolling for the mission Bell Crab.
+[Info   :  Huntdown] Rolled -415
+[Info   :  Huntdown] Attempting to generate mission 'Zombie'.
+[Info   :  Huntdown] Rolling for a random faraway vent...
+[Info   :  Huntdown] MainEntrancePos: (-16.18, -193.92, 57.88)
+[Info   :  Huntdown] 0VentPosEntrancePos: (-52.65, -228.68, 72.81)
+[Info   :  Huntdown] 1VentPosEntrancePos: (-40.66, -228.69, 72.81)
+[Info   :  Huntdown] 2VentPosEntrancePos: (-52.06, -228.43, 37.91)
+[Info   :  Huntdown] 3VentPosEntrancePos: (-35.31, -228.43, 37.91)
+[Info   :  Huntdown] 4VentPosEntrancePos: (-42.06, -228.43, 48.16)
+[Info   :  Huntdown] 5VentPosEntrancePos: (-37.55, -228.68, 9.49)
+[Info   :  Huntdown] 6VentPosEntrancePos: (-56.20, -228.68, 15.59)
+[Info   :  Huntdown] 7VentPosEntrancePos: (4.08, -228.35, 70.43)
+[Info   :  Huntdown] 8VentPosEntrancePos: (-19.26, -228.68, 33.60)
+[Info   :  Huntdown] 9VentPosEntrancePos: (-19.26, -228.69, 45.60)
+[Info   :  Huntdown] 10VentPosEntrancePos: (-65.22, -228.68, 72.86)
+[Info   :  Huntdown] 11VentPosEntrancePos: (-76.72, -228.69, 71.52)
+[Info   :  Huntdown] 12VentPosEntrancePos: (-49.76, -223.33, 136.67)
+[Info   :  Huntdown] 13VentPosEntrancePos: (-40.45, -229.04, 104.25)
+[Info   :  Huntdown] 14VentPosEntrancePos: (-37.03, -262.60, 137.03)
+[Info   :  Huntdown] 15VentPosEntrancePos: (-2.32, -223.19, 174.48)
+[Info   :  Huntdown] 16VentPosEntrancePos: (-38.31, -223.13, 165.33)
+[Info   :  Huntdown] 17VentPosEntrancePos: (-59.11, -223.16, 173.39)
+[Info   :  Huntdown] 18VentPosEntrancePos: (-97.59, -228.59, 43.67)
+[Info   :  Huntdown] 19VentPosEntrancePos: (-95.67, -228.59, 9.70)
+[Info   :  Huntdown] 20VentPosEntrancePos: (-99.69, -228.68, -8.80)
+[Info   :  Huntdown] 21VentPosEntrancePos: (-24.67, -228.35, 12.93)
+[Info   :  Huntdown] 22VentPosEntrancePos: (-52.65, -228.68, -13.44)
+[Info   :  Huntdown] 23VentPosEntrancePos: (-40.66, -228.69, -13.44)
+[Info   :  Huntdown] longest dist: 126.6504
+[Info   :  Huntdown] midpoint: (-37.64, -208.54, 115.63)
+[Info   :  Huntdown] halfway dist: 63.32522
+[Info   :  Huntdown] 0VentPosEntrancePos: (-52.65, -228.68, 72.81)
+[Info   :  Huntdown] 1VentPosEntrancePos: (-40.66, -228.69, 72.81)
+[Info   :  Huntdown] 2VentPosEntrancePos: (-52.06, -228.43, 37.91)
+[Info   :  Huntdown] 3VentPosEntrancePos: (-35.31, -228.43, 37.91)
+[Info   :  Huntdown] 4VentPosEntrancePos: (-42.06, -228.43, 48.16)
+[Info   :  Huntdown] 5VentPosEntrancePos: (-37.55, -228.68, 9.49)
+[Info   :  Huntdown] 6VentPosEntrancePos: (-56.20, -228.68, 15.59)
+[Info   :  Huntdown] dist: 67.8166
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] 7VentPosEntrancePos: (4.08, -228.35, 70.43)
+[Info   :  Huntdown] 8VentPosEntrancePos: (-19.26, -228.68, 33.60)
+[Info   :  Huntdown] 9VentPosEntrancePos: (-19.26, -228.69, 45.60)
+[Info   :  Huntdown] 10VentPosEntrancePos: (-65.22, -228.68, 72.86)
+[Info   :  Huntdown] 11VentPosEntrancePos: (-76.72, -228.69, 71.52)
+[Info   :  Huntdown] dist: 71.13808
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] 12VentPosEntrancePos: (-49.76, -223.33, 136.67)
+[Info   :  Huntdown] dist: 90.56099
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] 13VentPosEntrancePos: (-40.45, -229.04, 104.25)
+[Info   :  Huntdown] 14VentPosEntrancePos: (-37.03, -262.60, 137.03)
+[Info   :  Huntdown] dist: 106.8514
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] 15VentPosEntrancePos: (-2.32, -223.19, 174.48)
+[Info   :  Huntdown] dist: 121.0093
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] 16VentPosEntrancePos: (-38.31, -223.13, 165.33)
+[Info   :  Huntdown] dist: 113.5243
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] 17VentPosEntrancePos: (-59.11, -223.16, 173.39)
+[Info   :  Huntdown] dist: 126.6504
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] 18VentPosEntrancePos: (-97.59, -228.59, 43.67)
+[Info   :  Huntdown] dist: 89.62661
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] 19VentPosEntrancePos: (-95.67, -228.59, 9.70)
+[Info   :  Huntdown] dist: 99.2179
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] 20VentPosEntrancePos: (-99.69, -228.68, -8.80)
+[Info   :  Huntdown] dist: 112.3845
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] 21VentPosEntrancePos: (-24.67, -228.35, 12.93)
+[Info   :  Huntdown] 22VentPosEntrancePos: (-52.65, -228.68, -13.44)
+[Info   :  Huntdown] dist: 87.32497
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] 23VentPosEntrancePos: (-40.66, -228.69, -13.44)
+[Info   :  Huntdown] dist: 83.03402
+[Info   :  Huntdown] halfwaydist 63.32522
+[Info   :  Huntdown] Rolled 0 out of 12.
+[Info   :  Huntdown] Spawning mission targets...
+[Info   :  Huntdown] Spawning a single unnatural enemy of type: 
+[Error  :  Huntdown] There was an error when trying to generate the mission.
+Object reference not set to an instance of an object
+[Info   :  Huntdown] Mission 'Zombie'has been completed!
+[Info   :  Huntdown] Spawning default reward
+[Info   :  Huntdown] Value of total scrap before correction: 618
+[Info   :  Huntdown] Length of AllScrapNetwork array: 13
+[Info   :  Huntdown] Length of correctedScrapNetworkArray array: 14
+[Info   :  Huntdown] Attempting to sync server and client scrap values.
+[Info   :  Huntdown] Value of total scrap after correction: 721
+[Info   :RuntimeIcons] Computing LethalLib/LethalLib/Hamis Plush icon
+[Info   :RuntimeIcons] Vanilla/Magnifying glass now has a new icon
+[Info   :Starlancer AI Fix] Finding outside AI nodes.
+[Info   :Starlancer AI Fix] Finding inside AI nodes.
 [Info   :RuntimeIcons] Computing Vanilla/Hive icon
-[Info   :RuntimeIcons] Vanilla/Metal sheet now has a new icon
-[Info   :RuntimeIcons] LethalLib/LethalLib/Arson Plush now has a new icon
+[Info   :RuntimeIcons] Computing Vanilla/Hive icon
+[Info   :RuntimeIcons] Computing Vanilla/Hive icon
+[Info   :RuntimeIcons] Vanilla/Cookie mold pan now has a new icon
+[Info   :RuntimeIcons] LethalLib/MoreItems/Minikit now has a new icon
+[Info   :RuntimeIcons] LethalLib/LethalLib/Hamis Plush now has a new icon
 [Info   :RuntimeIcons] Vanilla/Hive now has a new icon
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :TooManyEmotes-2.3.13] [lipe] Performing emote: hip_thrust
+[Info   :TooManyEmotes-2.3.13] Saving TooManyEmotes emote menu preferences.
+[Info   :TooManyEmotes-2.3.13] [lipe] Stopping emote.
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :TooManyEmotes-2.3.13] [lipe] Performing emote: hip_thrust
+[Info   :TooManyEmotes-2.3.13] Saving TooManyEmotes emote menu preferences.
+[Info   :TooManyEmotes-2.3.13] [lipe] Stopping emote.
+[Info   :Piggy.LCOffice] Elevator Ascending from 1 to 2
+[Info   :TooManyEmotes-2.3.13] Saving TooManyEmotes emote menu preferences.
 [Info   :RuntimeIcons] Computing Unknown/Body icon
+[Info   :ImmersiveVisorLogSource] Visor Damaged : level 2
 [Info   :RuntimeIcons] Computing Unknown/Body icon
+[Info   :Piggy.LCOffice] Despawning Elevator
+[Info   :HerobrineMod] The ship is leaving.................
+[Info   :Starlancer AI Fix] SandWorm(Clone) from the exterior enemy list has died; 
+Previous exterior power level is 0
+[Info   :Starlancer AI Fix] Removing SandWorm(Clone)'s power (2) from the RoundManager; 
+Current exterior power level is 0
+[Info   :ImmersiveVisorLogSource] Visor Repaired
+[Info   :ImmersiveVisorLogSource] New RaindropSolver instance created : MainCamera - 860 / 520
+[Info   :LethalThings] Dead players: 2
+[Info   :ImmersiveVisorLogSource] Visor Repaired
+[Info   :DiscountSync] Current discounts have been saved in the file.
+[Info   :JacobG5.WesleyMoons] Saving Wesley Data.
+[Info   : MoreItems] Maximum amount of items that can be saved set to 999 just before saving.
+[Info   :TooManyEmotes-2.3.13] Saving game values.
+[Info   :TooManyEmotes-2.3.13] Saving 22 unlocked emotes for player: lipe
+[Info   :TooManyEmotes-2.3.13] Saving 100 emote credits for player: lipe
+[Info   :TooManyEmotes-2.3.13] Saving 0 unlocked emotes for player: Gustavo
+[Info   :TooManyEmotes-2.3.13] Saving 100 emote credits for player: Gustavo
+[Info   :TooManyEmotes-2.3.13] Saved Seed: 902757765
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :More Ship Upgrades] [LguStore] Players fired, reseting upgrade bus.
+[Info   :More Ship Upgrades] [LguStore] Applying loaded upgrades...
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :TooManyEmotes-2.3.13] [lipe] Performing emote: hip_thrust
+[Info   :TooManyEmotes-2.3.13] Saving TooManyEmotes emote menu preferences.
+[Info   :TooManyEmotes-2.3.13] [lipe] Stopping emote.
+[Info   :TooManyEmotes-2.3.13] Resetting saved game values.
+[Info   :TooManyEmotes-2.3.13] Resetting progress.
+[Info   :TooManyEmotes-2.3.13] Resetting unlocked emotes.
+[Info   :JacobG5.WesleyMoons] Resetting Wesley Data.
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 2)
+[Info   :LethalLevelLoader] Saving Current SelectableLevel: 41 Experimentation
+[Info   :ImmersiveVisorLogSource] Visor Repaired
+[Info   :TooManyEmotes-2.3.13] Resetting progress.
+[Info   :TooManyEmotes-2.3.13] Resetting unlocked emotes.
+[Info   :TooManyEmotes-2.3.13] Rotating emote selection in store. Seed: 542440448
+[Info   :LethalFashion] ID: 0, Name: Orange suit
+[Info   :LethalFashion] ID: 1, Name: Green suit
+[Info   :LethalFashion] ID: 2, Name: Hazard suit
+[Info   :LethalFashion] ID: 3, Name: Pajama suit
+[Info   :LethalFashion] ID: 4, Name: Cozy lights
+[Info   :LethalFashion] ID: 5, Name: Teleporter
+[Info   :LethalFashion] ID: 6, Name: Television
+[Info   :LethalFashion] ID: 7, Name: Cupboard
+[Info   :LethalFashion] ID: 8, Name: File Cabinet
+[Info   :LethalFashion] ID: 9, Name: Toilet
+[Info   :LethalFashion] ID: 10, Name: Shower
+[Info   :LethalFashion] ID: 11, Name: Light switch
+[Info   :LethalFashion] ID: 12, Name: Record player
+[Info   :LethalFashion] ID: 13, Name: Table
+[Info   :LethalFashion] ID: 14, Name: Romantic table
+[Info   :LethalFashion] ID: 15, Name: Bunkbeds
+[Info   :LethalFashion] ID: 16, Name: Terminal
+[Info   :LethalFashion] ID: 17, Name: Signal translator
+[Info   :LethalFashion] ID: 18, Name: Loud horn
+[Info   :LethalFashion] ID: 19, Name: Inverse Teleporter
+[Info   :LethalFashion] ID: 20, Name: JackOLantern
+[Info   :LethalFashion] ID: 21, Name: Welcome mat
+[Info   :LethalFashion] ID: 22, Name: Goldfish
+[Info   :LethalFashion] ID: 23, Name: Plushie pajama man
+[Info   :LethalFashion] ID: 24, Name: Purple Suit
+[Info   :LethalFashion] ID: 25, Name: Bee Suit
+[Info   :LethalFashion] ID: 26, Name: Bunny Suit
+[Info   :LethalFashion] ID: 27, Name: Disco Ball
+[Info   :LethalFashion] ID: 28, Name: Microwave
+[Info   :LethalFashion] ID: 29, Name: Sofa chair
+[Info   :LethalFashion] ID: 30, Name: Fridge
+[Info   :LethalFashion] ID: 31, Name: Classic painting
+[Info   :LethalFashion] ID: 32, Name: Electric chair
+[Info   :LethalFashion] ID: 33, Name: Dog house
+[Info   :LethalFashion] ID: 34, Name: Brown suit
+[Info   :LethalFashion] ID: 35, Name: Small Rug
+[Info   :LethalFashion] ID: 36, Name: Large Rug
+[Info   :LethalFashion] ID: 37, Name: Fatalities Sign
+[Info   :LethalFashion] ID: 38, Name: Dartboard
+[Info   :LethalFashion] ID: 39, Name: Lady-Luck
+[Info   :LethalFashion] ID: 40, Name: Shutter Switch
+[Info   :LethalFashion] ID: 41, Name: Bodycam
+[Info   :LethalFashion] ID: 42, Name: Switchboard
+[Info   :LethalFashion] ID: 43, Name: Gold Suit
+[Info   :LethalFashion] ID: 44, Name: Golden Throne
+[Info   :LethalFashion] ID: 45, Name: Bronze Suit
+[Info   :LethalFashion] ID: 46, Name: Silver Suit
+[Info   :LethalFashion] ID: 47, Name: Directory LOG
+[Info   :LethalFashion] ID: 48, Name: Groovy Gold
+[Info   :LethalFashion] ID: 49, Name: Gold Toilet
+[Info   :LethalFashion] ID: 50, Name: Cat o Gold
+[Info   :LethalFashion] ID: 51, Name: Safe Box
+[Info   :LethalFashion] ID: 52, Name: Goldfather Clock
+[Info   :LethalFashion] ID: 53, Name: Gold Trophy
+[Info   :LethalFashion] ID: 54, Name: Gold Medal
+[Info   :LethalFashion] ID: 55, Name: Red Suit
+[Info   :LethalFashion] ID: 56, Name: Yellow Suit
+[Info   :LethalFashion] ID: 57, Name: Green Suit
+[Info   :LethalFashion] ID: 58, Name: Blue Suit
+[Info   :LethalFashion] ID: 59, Name: Purple Suit
+[Info   :LethalFashion] ID: 60, Name: Pink Suit
+[Info   :LethalFashion] ID: 61, Name: White Suit
+[Info   :LethalFashion] ID: 62, Name: Black Suit
+[Info   :LethalFashion] ID: 63, Name: EtherFit
+[Info   :LethalFashion] ID: 64, Name: Glow
+[Info   :LethalFashion] ID: 65, Name: Kirby
+[Info   :LethalFashion] ID: 66, Name: Knuckles
+[Info   :LethalFashion] ID: 67, Name: Luigi
+[Info   :LethalFashion] ID: 68, Name: Mario
+[Info   :LethalFashion] ID: 69, Name: Minion
+[Info   :LethalFashion] ID: 70, Name: Skeleton
+[Info   :LethalFashion] ID: 71, Name: Slayer
+[Info   :LethalFashion] ID: 72, Name: Smile
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :LethalFashion] ID: 73, Name: Orange suit
+[Info   :DiscountSync] Current discounts have been saved in the file.
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (2 / 2)
+[Warning:Classic Suit Restoration] Tried to add classic suit to unlockables list twice
+[Info   :JacobG5.WesleyMoons] Saving Wesley Data.
+[Info   : MoreItems] Maximum amount of items that can be saved set to 999 just before saving.
+[Info   :TooManyEmotes-2.3.13] Saving game values.
+[Info   :TooManyEmotes-2.3.13] Saving 22 unlocked emotes for player: lipe
+[Info   :TooManyEmotes-2.3.13] Saving 100 emote credits for player: lipe
+[Info   :TooManyEmotes-2.3.13] Saving 0 unlocked emotes for player: Gustavo
+[Info   :TooManyEmotes-2.3.13] Saving 100 emote credits for player: Gustavo
+[Info   :TooManyEmotes-2.3.13] Saved Seed: 542440448
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: HalationExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: MoonsCatalogue, LoadNode Is: halationRouteConfirm
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: HalationExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: MoonsCatalogue, LoadNode Is: halationRouteConfirm
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: False To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (0 / 2)
+[Info   :LethalLevelLoader] Saving Current SelectableLevel: 64 Halation
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (0 / 2)
+[Info   :LethalLevelLoader] halationscene.lethalbundle Loaded (0.48s)!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 2)
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (2 / 2)
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :TooManyEmotes-2.3.13] [lipe] Performing emote: hip_thrust
+[Info   :TooManyEmotes-2.3.13] Saving TooManyEmotes emote menu preferences.
+[Info   :TooManyEmotes-2.3.13] [lipe] Stopping emote.
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
+[Info   :LethalPhones] Deleting phone for player: Player (1)
+[Info   :LethalPhones] Removing number: 9894
+[Info   :LethalPhones] Deleting phone for player: Player (1)
+[Info   :LethalPhones] Removing number: 0
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
+[Info   :LCGoldScrapMod] Saving LCGoldScrapMod SaveData...
 [Info   :Rolling Giant] [RandomlyMoveWhileLooking]: moveSpeed: 6, moveAcceleration: 2, moveDeceleration: 0.5, rotateToLookAtPlayer: True, delayBeforeLookingAtPlayer: 2, lookAtPlayerDuration: 3, waitTimeMin: 1, waitTimeMax: 3, randomMoveTimeMin: 1, randomMoveTimeMax: 3, lookTimeBeforeAgro: 0
 [Info   :Rolling Giant] Resetting all rolling giants!
 [Message:Rolling Giant] Reverting sync
 [Info   :JacobG5.WesleyMoons] Saving Wesley Data.
-[Info   :Starlancer AI Fix] DoublewingedBird(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 5
-[Info   :Starlancer AI Fix] Removing DoublewingedBird(Clone)'s power (1) from the RoundManager; 
-Current daytime power level is 4
-[Info   :Starlancer AI Fix] DoublewingedBird(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 4
-[Info   :Starlancer AI Fix] Removing DoublewingedBird(Clone)'s power (1) from the RoundManager; 
-Current daytime power level is 3
-[Info   :Starlancer AI Fix] DocileLocustBees(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 3
-[Info   :Starlancer AI Fix] Removing DocileLocustBees(Clone)'s power (1) from the RoundManager; 
-Current daytime power level is 2
-[Info   :Starlancer AI Fix] RedLocustBees(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 2
-[Info   :Starlancer AI Fix] Removing RedLocustBees(Clone)'s power (1) from the RoundManager; 
-Current daytime power level is 1
-[Info   :Starlancer AI Fix] DocileLocustBees(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 1
-[Info   :Starlancer AI Fix] Removing DocileLocustBees(Clone)'s power (1) from the RoundManager; 
-Current daytime power level is 0
-[Info   :Starlancer AI Fix] SandSpider(Clone) from the interior enemy list has died; 
-Previous interior power level is 0
-[Info   :Starlancer AI Fix] Removing SandSpider(Clone)'s power (2) from the RoundManager; 
-Current interior power level is 0
-[Info   :Starlancer AI Fix] Crawler(Clone) from the interior enemy list has died; 
-Previous interior power level is 0
-[Info   :Starlancer AI Fix] Removing Crawler(Clone)'s power (3) from the RoundManager; 
-Current interior power level is 0
-[Info   :  Huntdown] Mission 'Dynamic Duo'has been completed!
-[Info   :  Huntdown] Spawning default reward
-[Error  :  Huntdown] Calculation of new total scrap in level failed.
-NetworkManager is not listening, start a server or host before spawning objects
-[Info   :RuntimeIcons] Computing Vanilla/Ring icon
+[Info   : MoreItems] Maximum amount of items that can be saved set to 999 just before saving.
+[Info   :TooManyEmotes-2.3.13] Saving game values.
+[Info   :TooManyEmotes-2.3.13] Saving 22 unlocked emotes for player: lipe
+[Info   :TooManyEmotes-2.3.13] Saving 100 emote credits for player: lipe
+[Info   :TooManyEmotes-2.3.13] Saving 0 unlocked emotes for player: Gustavo
+[Info   :TooManyEmotes-2.3.13] Saving 100 emote credits for player: Gustavo
+[Info   :TooManyEmotes-2.3.13] Saved Seed: 542440448
 [Info   :MoreCompany] LANMenu startLAN Patched
+[Info   :LethalPhones] Injecting phone customization menu into main menu...

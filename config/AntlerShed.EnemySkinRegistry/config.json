@@ -172,10 +172,12 @@
     "68 Artifice",
     "5 Embrion",
     "135 Duckstroid-14",
+    "57 Harbringer",
     "196 Baykal",
     "96 Calypso",
     "724 Descent",
     "61 Espira",
+    "86 Ether",
     "64 Halation",
     "Kaleidos",
     "823 Bozoros",
@@ -221,7 +223,8 @@
     "Pandoramus",
     "186 Praetor",
     "161 Rockwell",
-    "646 Ultimatum"
+    "646 Ultimatum",
+    "115 Wither"
   ],
   "version": "1.4.6",
   "mapConfigurations": {
