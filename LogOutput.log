@@ -51,7 +51,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 67 plugins to load
+[Info   :   BepInEx] 87 plugins to load
 [Info   :   BepInEx] Loading [LCMaxSoundsFix 1.2.0]
 [Info   :LCMaxSoundsFix] Plugin LCMaxSoundsFix is loaded!
 [Info   :LCMaxSoundsFix] Audio settings (numRealVoices=128; numVirtualVoices=1024) are applied.
@@ -148,11 +148,19 @@
 [Info   :   BepInEx] Loading [Scarlet Basement 1.0.0]
 [Info   :dev.ladyalice.scarletmansion.basement] Plugin Scarlet Basement has been added!
 [Info   :dev.ladyalice.scarletmansion.basement] Lethal config compability patch added!
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 2.0.52]
+[Info   :ReservedItemSlotCore-2.0.52] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.52] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 2.0.10]
+[Info   :ReservedFlashlightSlot-2.0.10] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.52] Created ReservedItemSlotData for: flashlight. Slot priority: 200
+[Info   :ReservedFlashlightSlot-2.0.10] ReservedFlashlightSlot loaded
 [Info   :   BepInEx] Loading [Scarlet Devil Mansion 2.3.3]
 [Info   :dev.ladyalice.scarletmansion] Plugin Scarlet Devil Mansion has been added!
 [Info   :dev.ladyalice.scarletmansion] Loading compability patch for ainavt.lc.lethalconfig
 [Info   :dev.ladyalice.scarletmansion] Loading compability patch for ainavt.lc.lethalconfig
 [Info   :dev.ladyalice.scarletmansion] Loading compability patch for ainavt.lc.lethalconfig
+[Info   :dev.ladyalice.scarletmansion] Loading compability patch for FlipMods.ReservedFlashlightSlot
 [Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for sdmFoyer
 [Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for sdmBasement
 [Info   :LethalLevelLoader] Found ExtendedMod: ScarletDevilMansionMod
@@ -160,9 +168,210 @@
 [Info   :   BepInEx] Loading [Scarlet Mansion Mimics Patch 1.0.0]
 [Info   :   BepInEx] Loading [DiscountAlert 2.3.0.0]
 [Info   :DiscountAlert] Plugin discount.alert is loaded!
-[Info   :   BepInEx] Loading [ReservedItemSlotCore 2.0.52]
-[Info   :ReservedItemSlotCore-2.0.52] BindingConfigs
-[Info   :ReservedItemSlotCore-2.0.52] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [DiscountSync 1.0.22]
+[Info   :DiscountSync] Plugin DiscountSync is loaded!
+[Info   :DiscountSync] Harmony patches patched!
+[Info   :   BepInEx] Loading [ColorfulEnemyVariety 2.3.1]
+[Info   :   BepInEx] Loading [LethalThings 0.10.7]
+[Info   :LethalThings] LethalLib version is 1.1.1, which is compatible with LethalThings 0.9.0+
+[Info   :LethalThings] [Optional dependency] LethalCompanyInputUtils version is 0.7.12, which is compatible with LethalThings 0.10.5+
+[Info   :LethalThings] [Compatibility] ReservedItemSlotCore version is 2.0.52, which is compatible with LethalThings 0.8.0+
+[Info   :LethalThings] Skipping Maggie enemy registration since spawn weight is 0
+[Info   :LethalThings] Skipping CrystalRay enemy registration since spawn weight is 0
+[Info   : LethalLib] [LethalLib] LethalThings is registering 26 content items!
+[Info   :LethalThings] Not initializing MaggieSpawner since spawn weight is 0
+[Info   :LethalThings] LethalThings loaded successfully!!!
+[Info   :   BepInEx] Loading [Needy Cats 1.2.3]
+[Info   :Jordo.NeedyCats] Initialized Needy Cats
+[Info   :   BepInEx] Loading [Huntdown 1.6.4]
+[Info   :  Huntdown] LethalThings detected.  Zombie missions and more rewards will be available.
+[Info   :  Huntdown] Needy Cats detected.  Cat rewards will be available.
+[Info   :  Huntdown] Starlancer AI Fix detected.  More missions will be available.
+[Info   :  Huntdown] Binding configs.
+[Info   :  Huntdown] [0] Binding: Display Target at Round Start
+[Info   :  Huntdown] [1] Binding: Percentage Chance of Mission
+[Info   :  Huntdown] [2] Binding: Dynamic Weighting System
+[Info   :  Huntdown] [3] Binding: Change ScanNode Subtext
+[Info   :  Huntdown] [4] Binding: Snare Flea Mission Enabled
+[Info   :  Huntdown] [5] Binding: Bunker Spider Mission Enabled
+[Info   :  Huntdown] [6] Binding: Hoarder Bug Mission Enabled
+[Info   :  Huntdown] [7] Binding: Bracken Mission Enabled
+[Info   :  Huntdown] [8] Binding: Thumper Mission Enabled
+[Info   :  Huntdown] [9] Binding: Nutcracker Mission Enabled
+[Info   :  Huntdown] [10] Binding: Masked Mission Enabled
+[Info   :  Huntdown] [11] Binding: Good Boy Mission Enabled
+[Info   :  Huntdown] [12] Binding: Bug Mafia Mission Enabled
+[Info   :  Huntdown] [13] Binding: Blunderbug Mission Enabled
+[Info   :  Huntdown] [14] Binding: Infestation Mission Enabled
+[Info   :  Huntdown] [15] Binding: Last Months Interns Mission Enabled
+[Info   :  Huntdown] [16] Binding: Butler Mission Enabled
+[Info   :  Huntdown] [17] Binding: Maneater Mission Enabled
+[Info   :  Huntdown] [18] Binding: Stabbin Bros Mission Enabled
+[Info   :  Huntdown] [19] Binding: Giant Size Upgraded Mission Enabled
+[Info   :  Huntdown] [20] Binding: Big Trouble Little Enemies Mission Enabled
+[Info   :  Huntdown] [21] Binding: Who let the puppies out Mission Enabled
+[Info   :  Huntdown] [22] Binding: Baboon Gang Mission Enabled
+[Info   :  Huntdown] [23] Binding: Facility Keeper Mission Enabled
+[Info   :  Huntdown] [24] Binding: Lone Hawk Mission Enabled
+[Info   :  Huntdown] [25] Binding: Dynamic Duo Mission Enabled
+[Info   :  Huntdown] [26] Binding: Monstrous Den Mission Enabled
+[Info   :  Huntdown] [27] Binding: Mask Outbreak Mission Enabled
+[Info   :  Huntdown] [28] Binding: Left 4 Mask 2 Mission Enabled
+[Info   :  Huntdown] [29] Binding: Zombie Mission Enabled
+[Info   :  Huntdown] [30] Binding: Last Years Interns Mission Enabled
+[Info   :  Huntdown] [31] Binding: Zombie Apocalypse Mission Enabled
+[Info   :  Huntdown] [32] Binding: Boomba Mission Enabled
+[Info   :  Huntdown] [33] Binding: Boombopocalypse Mission Enabled
+[Info   :  Huntdown] [34] Binding: Haunted Harpist Mission Enabled
+[Info   :  Huntdown] [35] Binding: Phantom Piper Mission Enabled
+[Info   :  Huntdown] [36] Binding: Ethereal Enforcer Mission Enabled
+[Info   :  Huntdown] [37] Binding: The Firing Squad Mission Enabled
+[Info   :  Huntdown] [38] Binding: Manor Lord Mission Enabled
+[Info   :  Huntdown] [39] Binding: Janitor Mission Enabled
+[Info   :  Huntdown] [40] Binding: Cleaner Rivals Mission Enabled
+[Info   :  Huntdown] [41] Binding: Bell Crab Mission Enabled
+[Info   :  Huntdown] [42] Binding: Snare Flea Mission Weight
+[Info   :  Huntdown] [43] Binding: Bunker Spider Mission Weight
+[Info   :  Huntdown] [44] Binding: Hoarder Bug Mission Weight
+[Info   :  Huntdown] [45] Binding: Bracken Mission Weight
+[Info   :  Huntdown] [46] Binding: Thumper Mission Weight
+[Info   :  Huntdown] [47] Binding: Nutcracker Mission Weight
+[Info   :  Huntdown] [48] Binding: Masked Mission Weight
+[Info   :  Huntdown] [49] Binding: Good Boy Mission Weight
+[Info   :  Huntdown] [50] Binding: Bug Mafia Mission Weight
+[Info   :  Huntdown] [51] Binding: Blunderbug Mission Weight
+[Info   :  Huntdown] [52] Binding: Infestation Mission Weight
+[Info   :  Huntdown] [53] Binding: Last Months Interns Mission Weight
+[Info   :  Huntdown] [54] Binding: Butler Mission Weight
+[Info   :  Huntdown] [55] Binding: Maneater Mission Weight
+[Info   :  Huntdown] [56] Binding: Stabbin Bros Mission Weight
+[Info   :  Huntdown] [57] Binding: Giant Size Upgraded Mission Weight
+[Info   :  Huntdown] [58] Binding: Big Trouble Little Enemies Mission Weight
+[Info   :  Huntdown] [59] Binding: Who let the puppies out Mission Weight
+[Info   :  Huntdown] [60] Binding: Baboon Gang Mission Weight
+[Info   :  Huntdown] [61] Binding: Facility Keeper Mission Weight
+[Info   :  Huntdown] [62] Binding: Lone Hawk Mission Weight
+[Info   :  Huntdown] [63] Binding: Dynamic Duo Mission Weight
+[Info   :  Huntdown] [64] Binding: Monstrous Den Mission Weight
+[Info   :  Huntdown] [65] Binding: Mask Outbreak Mission Weight
+[Info   :  Huntdown] [66] Binding: Left 4 Mask 2 Mission Weight
+[Info   :  Huntdown] [67] Binding: Zombie Mission Weight
+[Info   :  Huntdown] [68] Binding: Last Years Interns Mission Weight
+[Info   :  Huntdown] [69] Binding: Zombie Apocalypse Mission Weight
+[Info   :  Huntdown] [70] Binding: Boomba Mission Weight
+[Info   :  Huntdown] [71] Binding: Boombopocalypse Mission Weight
+[Info   :  Huntdown] [72] Binding: Haunted Harpist Mission Weight
+[Info   :  Huntdown] [73] Binding: Phantom Piper Mission Weight
+[Info   :  Huntdown] [74] Binding: Ethereal Enforcer Mission Weight
+[Info   :  Huntdown] [75] Binding: The Firing Squad Mission Weight
+[Info   :  Huntdown] [76] Binding: Manor Lord Mission Weight
+[Info   :  Huntdown] [77] Binding: Janitor Mission Weight
+[Info   :  Huntdown] [78] Binding: Cleaner Rivals Mission Weight
+[Info   :  Huntdown] [79] Binding: Bell Crab Mission Weight
+[Info   :  Huntdown] [80] Binding: Easy Mission Reward
+[Info   :  Huntdown] [81] Binding: Medium Mission Reward
+[Info   :  Huntdown] [82] Binding: Hard Mission Reward
+[Info   :  Huntdown] [83] Binding: Extreme Mission Reward
+[Info   :  Huntdown] [84] Binding: Brutal Mission Reward
+[Info   :  Huntdown] [85] Binding: Execution Mission Reward
+[Info   :  Huntdown] [86] Binding: Enable Tool Rewards
+[Info   :  Huntdown] Configs successfully bound.
+[Info   :  Huntdown] Assigning keys to enemies.
+[Info   :  Huntdown] Keys successfully assigned to enemies.
+[Info   :  Huntdown] Assigning keys to items.
+[Info   :  Huntdown] Keys successfully assigned to items.
+[Info   :  Huntdown] Creating reward pools for missions.
+[Info   :  Huntdown] Creating reward pool. Index: RewardLow, Value: 50
+[Info   :  Huntdown] Creating reward pool. Index: RewardMedium, Value: 100
+[Info   :  Huntdown] Creating reward pool. Index: RewardHigh, Value: 200
+[Info   :  Huntdown] Creating reward pool. Index: RewardExtreme, Value: 300
+[Info   :  Huntdown] Creating reward pool. Index: RewardMedium, Value: 100
+[Info   :  Huntdown] Creating reward pool. Index: RewardBrutal, Value: 400
+[Info   :  Huntdown] Creating reward pool. Index: RewardExecution, Value: 500
+[Info   :  Huntdown] Reward pools successfully created.
+[Info   :  Huntdown] Creating missions with information from player configuration.
+[Info   :  Huntdown] Creating mission: Snare Flea, Weight: 100, Enabled: True
+[Info   :  Huntdown] Creating mission: Bunker Spider, Weight: 100, Enabled: True
+[Info   :  Huntdown] Creating mission: Hoarding Bug, Weight: 100, Enabled: True
+[Info   :  Huntdown] Creating mission: Bracken, Weight: 50, Enabled: True
+[Info   :  Huntdown] Creating mission: Thumper, Weight: 100, Enabled: True
+[Info   :  Huntdown] Creating mission: Nutcracker, Weight: 50, Enabled: True
+[Info   :  Huntdown] Creating mission: Masked, Weight: 75, Enabled: True
+[Info   :  Huntdown] Creating mission: A Good Boy, Weight: 20, Enabled: True
+[Info   :  Huntdown] Creating mission: Bug Mafia, Weight: 50, Enabled: True
+[Info   :  Huntdown] Creating mission: Blunderbug, Weight: 0, Enabled: False
+[Info   :  Huntdown] Creating mission: Infestation, Weight: 25, Enabled: True
+[Info   :  Huntdown] Creating mission: Last Month's Interns, Weight: 15, Enabled: True
+[Info   :  Huntdown] Creating mission: Butler, Weight: 50, Enabled: True
+[Info   :  Huntdown] Creating mission: Maneater, Weight: 10, Enabled: True
+[Info   :  Huntdown] Creating mission: Stabbin' Bros, Weight: 40, Enabled: True
+[Info   :  Huntdown] Creating mission: Giant Size: Upgraded, Weight: 5, Enabled: True
+[Info   :  Huntdown] Creating mission: Big Trouble Little Enemies, Weight: 5, Enabled: True
+[Info   :  Huntdown] Creating mission: Who let the puppies out?, Weight: 5, Enabled: True
+[Info   :  Huntdown] Creating mission: Baboon Gang, Weight: 40, Enabled: True
+[Info   :  Huntdown] Creating mission: Facility Keeper, Weight: 15, Enabled: True
+[Info   :  Huntdown] Creating mission: Lone Baboon Hawk, Weight: 70, Enabled: True
+[Info   :  Huntdown] Creating mission: Dynamic Duo, Weight: 30, Enabled: True
+[Info   :  Huntdown] Creating mission: Monstrous Den, Weight: 20, Enabled: True
+[Info   :  Huntdown] Creating mission: Mask Outbreak, Weight: 6, Enabled: True
+[Info   :  Huntdown] Creating mission: Left 4 Mask 2, Weight: 2, Enabled: True
+[Info   :  Huntdown] Creating mission: Zombie, Weight: 75, Enabled: True
+[Info   :  Huntdown] Creating mission: Last Year's Interns, Weight: 15, Enabled: True
+[Info   :  Huntdown] Creating mission: Zombie Apocalypse, Weight: 8, Enabled: True
+[Info   :  Huntdown] Creating mission: Boomba, Weight: 75, Enabled: True
+[Info   :  Huntdown] Creating mission: Boombopocalypse, Weight: 8, Enabled: True
+[Info   :  Huntdown] Creating mission: Haunted Harpist, Weight: 30, Enabled: False
+[Info   :  Huntdown] Creating mission: Phantom Piper, Weight: 20, Enabled: False
+[Info   :  Huntdown] Creating mission: Enforcer, Weight: 50, Enabled: False
+[Info   :  Huntdown] Creating mission: The Firing Squad, Weight: 30, Enabled: False
+[Info   :  Huntdown] Creating mission: The Manor Lord, Weight: 5, Enabled: False
+[Info   :  Huntdown] Creating mission: Janitor, Weight: 60, Enabled: False
+[Info   :  Huntdown] Creating mission: Cleaner Rivals, Weight: 40, Enabled: False
+[Info   :  Huntdown] Creating mission: Bell Crab, Weight: 75, Enabled: False
+[Info   :  Huntdown] Missions successfully created.
+[Info   :  Huntdown] Patching mod.
+[Info   :  Huntdown] Patches were successful.
+[Info   :  Huntdown] Huntdown mod loaded.
+[Info   :   BepInEx] Loading [BellMonster 1.0.6]
+[Info   :BellMonster] Successfully loaded Bell Monster assets.
+[Info   :BellMonster] Plugin Drak.BellMonster is loaded!
+[Info   :   BepInEx] Loading [BonBon 1.1.4]
+[Info   :    BonBon] BonBonLog: Config loaded
+[Info   :    BonBon] BonBonLog: BonBon, go get Him!
+[Info   :   BepInEx] Loading [BetterStamina 1.5.7]
+[Info   :BetterStamina-1.5.7] Binding Configs
+[Info   :BetterStamina-1.5.7] BetterStamina loaded
+[Info   :   BepInEx] Loading [FasterItemDropship 1.3.1]
+[Info   :FasterItemDropship] BindingConfigs
+[Info   :FasterItemDropship] FasterItemDropship loaded
+[Info   :   BepInEx] Loading [ObjectVolumeController 1.1.2]
+[Info   :ObjectVolumeController-1.1.2] BindingConfigs
+[Info   :ObjectVolumeController-1.1.2] Initializing hotkeys.
+[Info   :ObjectVolumeController] ObjectVolumeController loaded
+[Info   :   BepInEx] Loading [ReservedWalkieSlot 2.0.7]
+[Info   :ReservedWalkieSlot-2.0.7] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.52] Created ReservedItemSlotData for: walkie_talkie. Slot priority: 150
+[Info   :ReservedWalkieSlot-2.0.7] ReservedWalkieSlot loaded
+[Info   :   BepInEx] Loading [TooManyEmotes 2.3.13]
+[Info   :TooManyEmotes-2.3.13] BindingConfigs
+[Info   :TooManyEmotes-2.3.13] Initializing custom emote hotkeys.
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 29 animation clips from asset bundle: Assets/emotes_complementary
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 106 animation clips from asset bundle: Assets/emotes_0
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 190 animation clips from asset bundle: Assets/emotes_1
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 116 animation clips from asset bundle: Assets/emotes_2
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 8 animation clips from asset bundle: Assets/emotes_3
+[Info   :TooManyEmotes-2.3.13] Successfully loaded 11 animation clips from asset bundle: Assets/emotes_special
+[Info   :TooManyEmotes-2.3.13] Successfully loaded radial menu asset.
+[Info   :TooManyEmotes-2.3.13] Loaded 27 emote props.
+[Info   :TooManyEmotes-2.3.13] Loading 144 dmca-free audio clips.
+[Info   :TooManyEmotes-2.3.13] Loading 241 dmca audio clips.
+[Info   :TooManyEmotes-2.3.13] TooManyEmotes finished loading!
+[Info   :   BepInEx] Loading [Generic interior modifications 1.0.0]
+[Info   :       Cat] Meow?
+[Info   :       Cat] Meow.
+[Info   :   BepInEx] Loading [HoldScanButton 1.0.0]
+[Info   :HoldScanButton] Plugin HoldScanButton has loaded!
+[Info   :   BepInEx] Loading [DynamicInteriorVariety 1.0.0]
 [Info   :   BepInEx] Loading [ImmortalSnail 0.7.4]
 [Info   :ImmortalSnail] Loading a mod by swAAn
 
@@ -201,6 +410,8 @@
 [Info   :JacobG5.JLL] Netcode Successfully Patched!
 [Info   :   BepInEx] Loading [WesleyMoonScripts 1.1.5]
 [Info   :JacobG5.WesleyMoonScripts] Netcode Successfully Patched!
+[Info   :   BepInEx] Loading [YPlayBoombox 2.3.9]
+[Info   :YPlayBoombox] Downloading tools...
 [Info   :   BepInEx] Loading [Lethal Company API 3.4.12]
 [Warning:Lethal Company API] 
 .____    _________           _____  __________ .___  
@@ -220,6 +431,10 @@
 [Info   :LethalNetworkAPI] LethalNetworkAPI v3.3.2 has Loaded.
 [Info   :   BepInEx] Loading [MaskedEnemyRework 3.4.0]
 [Info   :MaskedEnemyRework] Plugin MaskedEnemyRework is loaded! Woohoo!
+[Info   :   BepInEx] Loading [Elads HUD 1.2.3]
+[Info   : Elads HUD] Plugin Elad's HUD is loaded!
+[Info   :   BepInEx] Loading [MoreItems 1.0.2]
+[Info   : MoreItems] Plugin MoreItems is loaded!
 [Info   :   BepInEx] Loading [Backrooms 0.1.3]
 [Info   : Backrooms] Plugin Backrooms is loaded!
 [Info   :   BepInEx] Loading [RuntimeNetcodeRPCValidator 0.2.5]
@@ -228,6 +443,8 @@
 [Info   :   BepInEx] Loading [itolib 0.5.1]
 [Info   :    itolib] itolib v0.5.1 loaded!
 [Info   :   BepInEx] Loading [Mirage.Core 1.0.4]
+[Info   :   BepInEx] Loading [Scopophobia 1.1.5]
+[Info   :Scopophobia] Scopophobia | SCP-096 has entered the facility. All remaining personnel proceed with caution.
 [Info   :   BepInEx] Loading [SCPCBDunGen 4.3.5]
 [Info   :SCPCBDunGen] SCP:CB DunGen for Lethal Company [Version 4.3.5] successfully loaded.
 [Info   :SCPCBDunGen] SCPCBDunGen v4.3.5 has loaded!
@@ -262,7 +479,7 @@
 [Info   :   BepInEx] Loading [CustomStoryLogs 1.5.2]
 [Error  :CustomStoryLogs] Failed to load custom assets.
 [Info   :me.loaforc.soundapi] Starting Sound-pack loading pipeline
-[Info   :me.loaforc.soundapi] (Step 1) Loading Sound-pack definitions took 3ms
+[Info   :me.loaforc.soundapi] (Step 1) Loading Sound-pack definitions took 4ms
 [Warning:me.loaforc.soundapi] No sound-packs were found to load! This can be ignorable if you're doing testing or using SoundAPI for another purpose, but if you expected sound-packs to load you may have set it up incorrectly.
 [Info   :me.loaforc.soundapi] (Step 2) Loading Sound-pack mappings ('0') took 0ms
 [Info   :me.loaforc.soundapi] (Step 3) Skipped 0 collection(s), 0 replacement(s), 0 sound(s)
@@ -270,32 +487,35 @@
 [Info   :me.loaforc.soundapi] (Step 4) Started loading 0 audio file(s)
 [Info   :me.loaforc.soundapi] Waiting for splash screens to complete to continue...
 [Message:   BepInEx] Chainloader startup complete
-[Info   :LethalLevelLoader] halationmoon.lethalbundle Loaded (9.24s)!
-[Info   :LethalLevelLoader] calypsomoon.lethalbundle Loaded (9.29s)!
-[Info   :LethalLevelLoader] lithiummoon.lethalbundle Loaded (9.29s)!
-[Info   :LethalLevelLoader] baykalmoon.lethalbundle Loaded (9.32s)!
-[Info   :LethalLevelLoader] makronmoon.lethalbundle Loaded (9.36s)!
-[Info   :LethalLevelLoader] pandoramusmoon.lethalbundle Loaded (9.37s)!
-[Info   :LethalLevelLoader] praetormoon.lethalbundle Loaded (9.38s)!
-[Info   :LethalLevelLoader] mazonmoon.lethalbundle Loaded (9.56s)!
-[Info   :LethalLevelLoader] dungeon_ravenmanor.lethalbundle Loaded (10.04s)!
-[Info   :LethalLevelLoader] ultimatummoon.lethalbundle Loaded (10.07s)!
-[Info   :LethalLevelLoader] dungeon_studio.lethalbundle Loaded (10.31s)!
-[Info   :LethalLevelLoader] halationscene.lethalbundle Loaded (10.31s)!
-[Info   :LethalLevelLoader] praetorscene.lethalbundle Loaded (10.31s)!
-[Info   :LethalLevelLoader] dungeon_grayapartments.lethalbundle Loaded (11.13s)!
-[Info   :LethalLevelLoader] prismscene.lethalbundle Loaded (11.14s)!
-[Info   :LethalLevelLoader] mazonlevel.lethalbundle Loaded (11.14s)!
-[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Loaded (11.14s)!
-[Info   :LethalLevelLoader] prismmoon.lethalbundle Loaded (11.17s)!
-[Info   :LethalLevelLoader] espirascene.lethalbundle Loaded (11.17s)!
-[Info   :LethalLevelLoader] makronscene.lethalbundle Loaded (11.17s)!
-[Info   :LethalLevelLoader] espiramoon.lethalbundle Loaded (11.52s)!
-[Info   :LethalLevelLoader] dungeon_subsystem.lethalbundle Loaded (11.88s)!
-[Info   :LethalLevelLoader] lithiumscene.lethalbundle Loaded (11.89s)!
-[Info   :LethalLevelLoader] calypsolevel.lethalbundle Loaded (11.89s)!
-[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Loaded (11.89s)!
-[Info   :LethalLevelLoader] baykalscene.lethalbundle Loaded (11.89s)!
+[Info   :LethalLevelLoader] halationmoon.lethalbundle Loaded (22.10s)!
+[Info   :LethalLevelLoader] baykalmoon.lethalbundle Loaded (22.15s)!
+[Info   :LethalLevelLoader] lithiummoon.lethalbundle Loaded (22.20s)!
+[Info   :LethalLevelLoader] makronmoon.lethalbundle Loaded (22.23s)!
+[Info   :LethalLevelLoader] calypsomoon.lethalbundle Loaded (22.25s)!
+[Info   :LethalLevelLoader] pandoramusmoon.lethalbundle Loaded (22.35s)!
+[Info   :LethalLevelLoader] praetormoon.lethalbundle Loaded (22.46s)!
+[Info   :LethalLevelLoader] dungeon_ravenmanor.lethalbundle Loaded (22.87s)!
+[Info   :LethalLevelLoader] mazonmoon.lethalbundle Loaded (23.07s)!
+[Info   :LethalLevelLoader] dungeon_studio.lethalbundle Loaded (23.30s)!
+[Info   :LethalLevelLoader] prismmoon.lethalbundle Loaded (23.32s)!
+[Info   :LethalLevelLoader] lithiumscene.lethalbundle Loaded (23.32s)!
+[Info   :LethalLevelLoader] rockwellmoon.lethalbundle Loaded (23.35s)!
+[Info   :LethalLevelLoader] ultimatummoon.lethalbundle Loaded (23.36s)!
+[Info   :LethalLevelLoader] praetorscene.lethalbundle Loaded (23.36s)!
+[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Loaded (23.36s)!
+[Info   :LethalLevelLoader] mazonlevel.lethalbundle Loaded (23.36s)!
+[Info   :LethalLevelLoader] dungeon_grayapartments.lethalbundle Loaded (23.92s)!
+[Info   :LethalLevelLoader] espiramoon.lethalbundle Loaded (24.59s)!
+[Info   :LethalLevelLoader] espirascene.lethalbundle Loaded (24.59s)!
+[Info   :LethalLevelLoader] dungeon_subsystem.lethalbundle Loaded (24.80s)!
+[Info   :LethalLevelLoader] calypsolevel.lethalbundle Loaded (24.80s)!
+[Info   :LethalLevelLoader] makronscene.lethalbundle Loaded (24.80s)!
+[Info   :LethalLevelLoader] baykalscene.lethalbundle Loaded (24.80s)!
+[Info   :LethalLevelLoader] prismscene.lethalbundle Loaded (24.80s)!
+[Info   :LethalLevelLoader] halationscene.lethalbundle Loaded (24.80s)!
+[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Loaded (24.80s)!
+[Info   :LethalLevelLoader] rockwellscene.lethalbundle Loaded (24.80s)!
+[Info   :LethalLevelLoader] genericinterior.lethalbundle Loaded (26.34s)!
 [Info   :LethalLevelLoader] Finished Processing Bundles!
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Baykalmoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Baykal
@@ -317,6 +537,8 @@
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_PraetorMoon
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Prismmoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_KaleidosMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Rockwellmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_RockwellMoon
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Ultimatummoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_UltimatumMoon
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_grayapartments.lethalbundle
@@ -327,34 +549,177 @@
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Studio
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_subsystem.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_SubSystem
-[Info   :JacobG5.JLL] [User] Successfully Registered 1 JLLMods and 0 LevelPropertyOverrides.
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Genericinterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: GenericInteriorsMod
+[Info   :JacobG5.JLL] [User] Successfully Registered 3 JLLMods and 0 LevelPropertyOverrides.
 [Info   :LethalLevelLoader] LethalBundleManger Finished Requested Load
 [Info   :LethalLevelLoader] Custom Content Processed. Unlocking Main Menu.
+[Info   :ReservedFlashlightSlot-2.0.10] Initializing hotkeys.
+[Info   :ReservedWalkieSlot-2.0.7] Initializing hotkeys.
 [Info   :me.loaforc.soundapi] Starting AudioManager.
 [Info   :Lethal Company API] LC_API Started!
 [Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
+[Info   : Elads HUD] 87 plugins loaded
+[Info   : Elads HUD] Plugin GUID: .LCMaxSoundsFix
+[Info   : Elads HUD] Plugin GUID: 1.Waga.JigglePhysicsPlugin
+[Info   : Elads HUD] Plugin GUID: ACS.AdditionalContentFramework
+[Info   : Elads HUD] Plugin GUID: ainavt.lc.lethalconfig
+[Info   : Elads HUD] Plugin GUID: antlershed.lethalcompany.enemyskinregistry
+[Info   : Elads HUD] Plugin GUID: AntlerShed.LethalCompany.EnemySkinKit
+[Info   : Elads HUD] Plugin GUID: atk.lethalcompany.laternights
+[Info   : Elads HUD] Plugin GUID: AudioKnight.StarlancerAIFix
+[Info   : Elads HUD] Plugin GUID: evaisa.lethallib
+[Info   : Elads HUD] Plugin GUID: BakaMODs.VaiTerCebola
+[Info   : Elads HUD] Plugin GUID: butterystancakes.lethalcompany.barberfixes
+[Info   : Elads HUD] Plugin GUID: butterystancakes.lethalcompany.classicsuitrestoration
+[Info   : Elads HUD] Plugin GUID: butterystancakes.lethalcompany.maskfixes
+[Info   : Elads HUD] Plugin GUID: butterystancakes.lethalcompany.meleefixes
+[Info   : Elads HUD] Plugin GUID: butterystancakes.lethalcompany.restorelasso
+[Info   : Elads HUD] Plugin GUID: butterystancakes.lethalcompany.upturnedvariety
+[Info   : Elads HUD] Plugin GUID: ccode.chair
+[Info   : Elads HUD] Plugin GUID: Ccode.SirenHead
+[Info   : Elads HUD] Plugin GUID: Chaos.LCCutscene
+[Info   : Elads HUD] Plugin GUID: com.fumiko.CullFactory
+[Info   : Elads HUD] Plugin GUID: com.github.lethalcompanymodding.vertexlibrary
+[Info   : Elads HUD] Plugin GUID: Zaggy1024.PathfindingLib
+[Info   : Elads HUD] Plugin GUID: com.github.teamxiaolan.dawnlib
+[Info   : Elads HUD] Plugin GUID: me.loaforc.soundapi
+[Info   : Elads HUD] Plugin GUID: com.github.teamxiaolan.dawnlib.compatibility
+[Info   : Elads HUD] Plugin GUID: com.github.teamxiaolan.dawnlib.dusk
+[Info   : Elads HUD] Plugin GUID: com.github.WhiteSpike.MoonDaySpeedMultiplierPatcher
+[Info   : Elads HUD] Plugin GUID: com.rune580.LethalCompanyInputUtils
+[Info   : Elads HUD] Plugin GUID: com.sigurd.csync
+[Info   : Elads HUD] Plugin GUID: com.willis.lc.lethalsettings
+[Info   : Elads HUD] Plugin GUID: CustomSounds
+[Info   : Elads HUD] Plugin GUID: dev.kittenji.NavMeshInCompany
+[Info   : Elads HUD] Plugin GUID: MaxWasUnavailable.LethalModDataLib
+[Info   : Elads HUD] Plugin GUID: imabatby.lethallevelloader
+[Info   : Elads HUD] Plugin GUID: dev.ladyalice.dungenplus
+[Info   : Elads HUD] Plugin GUID: dev.ladyalice.dungenplus.loadstonepatch
+[Info   : Elads HUD] Plugin GUID: dev.ladyalice.scarletmansion.foyer
+[Info   : Elads HUD] Plugin GUID: dev.ladyalice.scarletmansion.basement
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedItemSlotCore
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedFlashlightSlot
+[Info   : Elads HUD] Plugin GUID: dev.ladyalice.scarletmansion
+[Info   : Elads HUD] Plugin GUID: dev.ladyalice.scarletmansion.coronerpatch
+[Info   : Elads HUD] Plugin GUID: dev.ladyalice.scarletmansion.mimicspatch
+[Info   : Elads HUD] Plugin GUID: discount.alert
+[Info   : Elads HUD] Plugin GUID: DiscountSync
+[Info   : Elads HUD] Plugin GUID: DistinctBlaze.ColorfulEnemyVariety
+[Info   : Elads HUD] Plugin GUID: evaisa.lethalthings
+[Info   : Elads HUD] Plugin GUID: Jordo.NeedyCats
+[Info   : Elads HUD] Plugin GUID: doggosuki.Huntdown
+[Info   : Elads HUD] Plugin GUID: Drak.BellMonster
+[Info   : Elads HUD] Plugin GUID: Entity378.BonBon
+[Info   : Elads HUD] Plugin GUID: FlipMods.BetterStamina
+[Info   : Elads HUD] Plugin GUID: FlipMods.FasterItemDropship
+[Info   : Elads HUD] Plugin GUID: FlipMods.ObjectVolumeController
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedWalkieSlot
+[Info   : Elads HUD] Plugin GUID: FlipMods.TooManyEmotes
+[Info   : Elads HUD] Plugin GUID: GGMD.GenericInteriors
+[Info   : Elads HUD] Plugin GUID: HoldScanButton
+[Info   : Elads HUD] Plugin GUID: iambatby.dynamicinteriorvariety
+[Info   : Elads HUD] Plugin GUID: ImmortalSnail
+[Info   : Elads HUD] Plugin GUID: io.daxcess.nojumpdelay
+[Info   : Elads HUD] Plugin GUID: JacobG5.JLL
+[Info   : Elads HUD] Plugin GUID: JacobG5.JLLItemModule
+[Info   : Elads HUD] Plugin GUID: JacobG5.WesleyMoonScripts
+[Info   : Elads HUD] Plugin GUID: kerotein.YPlayBoombox
+[Info   : Elads HUD] Plugin GUID: LC_API_V50
+[Info   : Elads HUD] Plugin GUID: LCSoundTool
+[Info   : Elads HUD] Plugin GUID: LethalFashion
+[Info   : Elads HUD] Plugin GUID: LethalNetworkAPI
+[Info   : Elads HUD] Plugin GUID: MaskedEnemyRework
+[Info   : Elads HUD] Plugin GUID: me.eladnlg.customhud
+[Info   : Elads HUD] Plugin GUID: MoreItems
+[Info   : Elads HUD] Plugin GUID: Neekhaulas.Backrooms
+[Info   : Elads HUD] Plugin GUID: NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
+[Info   : Elads HUD] Plugin GUID: NoteBoxz.NotezyLib
+[Info   : Elads HUD] Plugin GUID: pacoito.itolib
+[Info   : Elads HUD] Plugin GUID: qwbarch.Mirage.Core
+[Info   : Elads HUD] Plugin GUID: Scopophobia
+[Info   : Elads HUD] Plugin GUID: SCPCBDunGen
+[Info   : Elads HUD] Plugin GUID: solidlib
+[Info   : Elads HUD] Plugin GUID: SoulDev
+[Info   : Elads HUD] Plugin GUID: taffyko.BetterSprayPaint
+[Info   : Elads HUD] Plugin GUID: TestAccount666.TestAccountCore
+[Info   : Elads HUD] Plugin GUID: VirusTLNR.MaskedInvisFix
+[Info   : Elads HUD] Plugin GUID: WhiteSpike.InteractiveTerminalAPI
+[Info   : Elads HUD] Plugin GUID: XuuXiaolan.SoftMaskKiller
+[Info   : Elads HUD] Plugin GUID: Yorimor.CustomStoryLogs
 [Info   :me.loaforc.soundapi] Splash screens done! Continuing pipeline
 [Warning:me.loaforc.soundapi] The game will freeze for a moment!
 [Info   :me.loaforc.soundapi] (Step 5) All file reads are done, waiting for the audio clips conversions.
-[Info   :me.loaforc.soundapi] (Step 6) Took 4ms to finish loading audio clips from files
-[Info   :me.loaforc.soundapi] Entire load process took an effective 7ms
-[Info   :LethalLevelLoader] baykalscene.lethalbundle Unloaded (6.86s)
-[Info   :LethalLevelLoader] calypsolevel.lethalbundle Unloaded (6.87s)
-[Info   :LethalLevelLoader] espirascene.lethalbundle Unloaded (6.87s)
-[Info   :LethalLevelLoader] halationscene.lethalbundle Unloaded (6.89s)
-[Info   :LethalLevelLoader] lithiumscene.lethalbundle Unloaded (6.89s)
-[Info   :LethalLevelLoader] makronscene.lethalbundle Unloaded (6.91s)
-[Info   :LethalLevelLoader] mazonlevel.lethalbundle Unloaded (6.91s)
-[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Unloaded (6.93s)
-[Info   :LethalLevelLoader] praetorscene.lethalbundle Unloaded (6.93s)
-[Info   :LethalLevelLoader] prismscene.lethalbundle Unloaded (6.95s)
-[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Unloaded (6.95s)
+[Info   :me.loaforc.soundapi] (Step 6) Took 3ms to finish loading audio clips from files
+[Info   :me.loaforc.soundapi] Entire load process took an effective 8ms
+[Info   :YPlayBoombox] Successfully downloaded tools
+[Info   :LethalLevelLoader] baykalscene.lethalbundle Unloaded (4.52s)
+[Info   :LethalLevelLoader] calypsolevel.lethalbundle Unloaded (4.54s)
+[Info   :LethalLevelLoader] espirascene.lethalbundle Unloaded (4.56s)
+[Info   :LethalLevelLoader] halationscene.lethalbundle Unloaded (4.60s)
+[Info   :LethalLevelLoader] lithiumscene.lethalbundle Unloaded (4.61s)
+[Info   :LethalLevelLoader] makronscene.lethalbundle Unloaded (4.62s)
+[Info   :LethalLevelLoader] mazonlevel.lethalbundle Unloaded (4.63s)
+[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Unloaded (4.64s)
+[Info   :LethalLevelLoader] praetorscene.lethalbundle Unloaded (4.64s)
+[Info   :LethalLevelLoader] prismscene.lethalbundle Unloaded (4.64s)
+[Info   :LethalLevelLoader] rockwellscene.lethalbundle Unloaded (4.76s)
+[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Unloaded (4.77s)
+[Warning:YPlayBoombox] Potential mod conflicts found [DiscountAlert (discount.alert), DiscountSync (DiscountSync), ObjectVolumeController (FlipMods.ObjectVolumeController)]. It is recommended to disable these if there are compatibility issues with YPlayBoombox.
 [Info   :LethalLevelLoader] Registering Bundle Content!
-[Info   :LethalLevelLoader] Skipped Registering 57 NetworkObjects As They Were Already Registered.
+[Info   :LethalLevelLoader] Skipped Registering 68 NetworkObjects As They Were Already Registered.
+[Info   :Jordo.NeedyCats] Added NeedyCats prefabs to Network Manager.
+[Info   :LethalThings] Found conductive scrap [LungApparatus]
+[Info   :LethalThings] Found conductive scrap [PatcherGunItem]
+[Info   :LethalThings] Found conductive scrap [Cog]
+[Info   :LethalThings] Found conductive scrap [EnginePart]
+[Info   :LethalThings] Found conductive scrap [MetalSheet]
+[Info   :LethalThings] Found conductive scrap [ShovelItem]
+[Info   :LethalThings] Found conductive scrap [BigBolt]
+[Info   :LethalThings] Found conductive scrap [FancyLamp]
+[Info   :LethalThings] Found conductive scrap [FancyRing]
+[Info   :LethalThings] Found conductive scrap [HandBell]
+[Info   :LethalThings] Found conductive scrap [RobotToy]
+[Info   :LethalThings] Found conductive scrap [TeaKettle]
+[Info   :LethalThings] Found conductive scrap [StopSign]
+[Info   :LethalThings] Found conductive scrap [CookieMoldPan]
+[Info   :LethalThings] Found conductive scrap [RedSodaCan]
+[Info   :LethalThings] Found conductive scrap [EggBeater]
+[Info   :LethalThings] Found conductive scrap [JetpackItem]
+[Info   :LethalThings] Found conductive scrap [Clownhorn]
+[Info   :LethalThings] Found conductive scrap [GoldBar]
+[Info   :LethalThings] Found conductive scrap [CashRegisterItem]
+[Info   :LethalThings] Found conductive scrap [Key]
+[Info   :LethalThings] Found conductive scrap [TZPChemical]
+[Info   :LethalThings] Found conductive scrap [LungApparatusTurnedOff]
+[Info   :LethalThings] Found conductive scrap [RedLocustHive]
+[Info   :LethalThings] Found conductive scrap [ExtensionLadderItem]
+[Info   :LethalThings] Found conductive scrap [RadarBoosterDevice]
+[Info   :LethalThings] Found conductive scrap [YieldSign]
+[Info   :LethalThings] Found conductive scrap [KnifeItem]
+[Info   :LethalThings] Found conductive scrap [GarbageLid]
+[Info   :LethalThings] Found conductive scrap [ControlPad]
+[Info   :LethalThings] Found conductive scrap [CaveDwellerEnemy]
+[Info   :LethalThings] Found conductive scrap [ZeddogPlushie]
+[Info   :LethalThings] Found conductive scrap [OuijaBoard]
+[Info   :LethalThings] Found conductive scrap [MAKGoldChunk]
+[Info   :LethalThings] Found conductive scrap [MAKGoldCoin]
+[Info   :LethalThings] Found conductive scrap [FlakShells]
+[Info   :LethalThings] Found conductive scrap [PulseMagazine]
+[Info   :LethalThings] Found conductive scrap [RocketPack]
+[Info   :LethalThings] Found conductive scrap [ShockCore]
+[Info   :LethalThings] Found conductive scrap [CatFood]
+[Info   :LethalThings] Found conductive scrap [NET_ScarletKey]
+[Info   :LethalThings] Found conductive scrap [NET_ScarletKnife]
+[Info   :LethalThings] Found conductive scrap [Dingus]
+[Info   :LethalThings] Found conductive scrap [GremlinEnergy]
+[Info   :LethalThings] Found conductive scrap [FlaregunAmmo]
+[Info   :LethalThings] Found conductive scrap [BonBon]
 [Info   :MaxWasUnavailable.LethalModDataLib] Registering ModDataAttribute fields...
 [Info   :MaxWasUnavailable.LethalModDataLib] Hooking up save, load and delete events...
 [Info   :MaxWasUnavailable.LethalModDataLib] ModDataHandler initialised!
 [Message:Lethal Company API] server pre-setup success
+[Info   :LethalThings] Spawning config manager
 [Info   :LethalLevelLoader] LethalLevelLoaderNetworkManager Spawned.
 [Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedLevels:
 1. 41 Experimentation (Vanilla)
@@ -380,7 +745,8 @@
 21. 6 Mazon (Custom)
 22. Pandoramus (Custom)
 23. 186 Praetor (Custom)
-24. 646 Ultimatum (Custom)
+24. 161 Rockwell (Custom)
+25. 646 Ultimatum (Custom)
 
 [Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedDungeonFlows:
 1. Facility (Level1Flow) (Vanilla)
@@ -388,14 +754,17 @@
 3. Facility (Level1FlowExtraLarge) (Vanilla)
 4. Facility (Level1Flow3Exits) (Vanilla)
 5. Mineshaft (Level3Flow) (Vanilla)
-6. Gray Apartments (GrayApartmentsFlow) (Custom)
-7. Zeranos Gray Apartments (GrayApartmentsFlowZ) (Custom)
-8. Raven Manor (RavenFlow) (Custom)
-9. Scarlet Basement (sdmBasement) (Custom)
-10. Scarlet Foyer (sdmFoyer) (Custom)
-11. SCP Foundation (SCPFlow) (Custom)
-12. Studio Floor (StudioFlow) (Custom)
-13. Sub Systems (SubSysFlow) (Custom)
+6. Liminal Facility (BackroomsFlow) (Custom)
+7. Storehouse (StorehouseFlow) (Custom)
+8. Tower (TowerFlow) (Custom)
+9. Gray Apartments (GrayApartmentsFlow) (Custom)
+10. Zeranos Gray Apartments (GrayApartmentsFlowZ) (Custom)
+11. Raven Manor (RavenFlow) (Custom)
+12. Scarlet Basement (sdmBasement) (Custom)
+13. Scarlet Foyer (sdmFoyer) (Custom)
+14. SCP Foundation (SCPFlow) (Custom)
+15. Studio Floor (StudioFlow) (Custom)
+16. Sub Systems (SubSysFlow) (Custom)
 
 [Info   :LethalLevelLoader] Initialized LLL Save File, Current Level Was: , Current Vanilla Save Is: LCSaveFile1
 [Info   :LethalLevelLoader] LethalLevelLoader Has Finished Initializing.
@@ -403,15 +772,21 @@
 [Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
 [Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
 [Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
-[Info   : LethalLib] Adding 0 unlockables to unlockables list
-[Info   : LethalLib] Adding 0 items to terminal
+[Info   :Jordo.NeedyCats] Added NeedyCats items to items list.
+[Info   :TooManyEmotes-2.3.13] Loading AudioManager preferences.
+[Info   : LethalLib] Adding 4 unlockables to unlockables list
+[Info   : LethalLib] Adding 8 items to terminal
+[Info   :TooManyEmotes-2.3.13] Initializing emote menu
+[Info   :TooManyEmotes-2.3.13] Loading AudioManager preferences.
+[Info   :TooManyEmotes-2.3.13] Loading ThirdPersonEmoteController preferences.
+[Info   :TooManyEmotes-2.3.13] Initializing animation renderer
 [Warning:SoftMaskKiller] Preventing SoftMask from being enabled because of an exception: System.NullReferenceException: Object reference not set to an instance of an object
   at SoftMasking.SoftMask.UpdateMaskParameters () [0x0003f] in <f6d400b2730f4700aa0acc85707a1316>:IL_003F 
   at (wrapper dynamic-method) SoftMasking.SoftMask.DMD<SoftMasking.SoftMask::OnEnable>(SoftMasking.SoftMask)
 [Warning:SoftMaskKiller] Preventing SoftMask from erroring because of an exception: System.NullReferenceException: Object reference not set to an instance of an object
   at SoftMasking.SoftMask.DestroyMaterials () [0x00000] in <f6d400b2730f4700aa0acc85707a1316>:IL_0000 
   at (wrapper dynamic-method) SoftMasking.SoftMask.DMD<SoftMasking.SoftMask::OnDisable>(SoftMasking.SoftMask)
-[Info   : LethalLib] Found 2 prefabs to fix
+[Info   : LethalLib] Found 28 prefabs to fix
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - finding suit prefab...
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - found suit prefab!
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - loading content modules...
@@ -430,28 +805,35 @@
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applying content modules...
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applying additional content module from: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits...
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=0_Red_Suit, name=Red Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=0_Red_Suit, name=Red Suit}! (new unlockable count is 36)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=0_Red_Suit, name=Red Suit}! (new unlockable count is 40)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=1_Yellow_Suit, name=Yellow Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=1_Yellow_Suit, name=Yellow Suit}! (new unlockable count is 37)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=1_Yellow_Suit, name=Yellow Suit}! (new unlockable count is 41)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=2_Green_Suit, name=Green Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=2_Green_Suit, name=Green Suit}! (new unlockable count is 38)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=2_Green_Suit, name=Green Suit}! (new unlockable count is 42)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=3_Blue_Suit, name=Blue Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=3_Blue_Suit, name=Blue Suit}! (new unlockable count is 39)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=3_Blue_Suit, name=Blue Suit}! (new unlockable count is 43)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=4_Purple_Suit, name=Purple Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=4_Purple_Suit, name=Purple Suit}! (new unlockable count is 40)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=4_Purple_Suit, name=Purple Suit}! (new unlockable count is 44)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=5_Pink_Suit, name=Pink Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=5_Pink_Suit, name=Pink Suit}! (new unlockable count is 41)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=5_Pink_Suit, name=Pink Suit}! (new unlockable count is 45)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=6_White_Suit, name=White Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=6_White_Suit, name=White Suit}! (new unlockable count is 42)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=6_White_Suit, name=White Suit}! (new unlockable count is 46)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=7_Black_Suit, name=Black Suit}...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=7_Black_Suit, name=Black Suit}! (new unlockable count is 43)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=7_Black_Suit, name=Black Suit}! (new unlockable count is 47)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applyed additional content module from: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits!
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applied content modules!
+[Info   :ObjectVolumeController-1.1.2] ShipSpeaker volume: 0.58
 [Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
 [Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
 [Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
 [Info   :LethalLevelLoader] Saving Current SelectableLevel: 41 Experimentation
+[Info   :DiscountSync] File LCSaveFile1_SaveSales.dat not found, returning default percentages.
+[Info   :DiscountSync] This is the first save load today, so the discounts in the file will not be overwritten.
+[Info   :TooManyEmotes-2.3.13] Loading game values.
+[Info   :TooManyEmotes-2.3.13] Resetting unlocked emotes.
+[Info   :TooManyEmotes-2.3.13] Loaded Seed: 0
 [Warning:Classic Suit Restoration] Tried to add classic suit to unlockables list twice
+[Info   :TooManyEmotes-2.3.13] Rotating emote selection in store. Seed: 699646547
 [Info   :JacobG5.JLL] [User] JLL Network Manager Initialized.
 [Info   :LethalFashion] SpawnUnlockable method found successfully.
 [Info   :LethalFashion] ID: 0, Name: Orange suit
@@ -489,20 +871,39 @@
 [Info   :LethalFashion] ID: 32, Name: Electric chair
 [Info   :LethalFashion] ID: 33, Name: Dog house
 [Info   :LethalFashion] ID: 34, Name: Brown suit
-[Info   :LethalFashion] ID: 35, Name: Red Suit
-[Info   :LethalFashion] ID: 36, Name: Yellow Suit
-[Info   :LethalFashion] ID: 37, Name: Green Suit
-[Info   :LethalFashion] ID: 38, Name: Blue Suit
-[Info   :LethalFashion] ID: 39, Name: Purple Suit
-[Info   :LethalFashion] ID: 40, Name: Pink Suit
-[Info   :LethalFashion] ID: 41, Name: White Suit
-[Info   :LethalFashion] ID: 42, Name: Black Suit
+[Info   :LethalFashion] ID: 35, Name: Small Rug
+[Info   :LethalFashion] ID: 36, Name: Large Rug
+[Info   :LethalFashion] ID: 37, Name: Fatalities Sign
+[Info   :LethalFashion] ID: 38, Name: Dartboard
+[Info   :LethalFashion] ID: 39, Name: Red Suit
+[Info   :LethalFashion] ID: 40, Name: Yellow Suit
+[Info   :LethalFashion] ID: 41, Name: Green Suit
+[Info   :LethalFashion] ID: 42, Name: Blue Suit
+[Info   :LethalFashion] ID: 43, Name: Purple Suit
+[Info   :LethalFashion] ID: 44, Name: Pink Suit
+[Info   :LethalFashion] ID: 45, Name: White Suit
+[Info   :LethalFashion] ID: 46, Name: Black Suit
 [Info   :LCCutscene] Cutscene Manager initialized!
 [Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (1)
 [Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (3)
 [Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (2)
 [Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player
 [Info   : LethalLib] Skipping Chair because it was already added
+[Info   :  Huntdown] Attempting to store enemies and items for later use.
+[Info   :  Huntdown] Stored: Centipede.
+[Info   :  Huntdown] Stored: Bunker Spider.
+[Info   :  Huntdown] Stored: Hoarding bug.
+[Info   :  Huntdown] Stored: Flowerman.
+[Info   :  Huntdown] Stored: Crawler.
+[Info   :  Huntdown] Stored: Nutcracker.
+[Info   :  Huntdown] Stored: Boomba.
+[Info   :  Huntdown] Stored: MouthDog.
+[Info   :  Huntdown] Stored: ForestGiant.
+[Info   :  Huntdown] Stored: Maneater.
+[Info   :  Huntdown] Stored: Baboon hawk.
+[Info   :  Huntdown] Stored: Masked.
+[Info   :  Huntdown] Stored: Butler.
+[Info   :  Huntdown] Finished storing enemies and items.
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
@@ -526,23 +927,69 @@
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
+[Warning:   DawnLib] Item Toy Hammer is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] Enemy Clay Surgeon is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] MapObject Fern2 is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] MapObject DeadBush is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] MapObject Fern2 is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] MapObject BushyGrass is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] MapObject SmallGrass is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] MapObject Fern2 is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] MapObject DeadBush is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_Start() Function To Prevent Conflicts
+[Info   :  Huntdown] Is the player the host: True.
+[Info   :Jordo.NeedyCats] Added NeedyCats to all levels.
+[Info   :YPlayBoombox] [CONFIG] Pocket play [OFF]
+[Info   :YPlayBoombox] [CONFIG] Sync [OFF]
+[Info   :YPlayBoombox] [CONFIG] Boombox random color [OFF]
+[Info   :YPlayBoombox] YPlayBoombox enabled for Player #0 [client: v2.3.9] [server: v2.3.9]
+[Info   :YPlayBoombox] Successfully initialized
+[Info   :ReservedItemSlotCore-2.0.52] Unlocking reserved item slot: flashlight
+[Info   :ReservedItemSlotCore-2.0.52] Unlocking reserved item slot: walkie_talkie
+[Info   :TooManyEmotes-2.3.13] Loading ThirdPersonEmoteController preferences.
+[Info   :TooManyEmotes-2.3.13] Initializing local player.
+[Info   :TooManyEmotes-2.3.13] Rotating emote selection in store. Seed: 699646547
 [Info   :Solid's Library] Created SolidLibUtils. Scene is: 'SampleSceneRelay'
+[Info   :ReservedItemSlotCore-2.0.52] Unlocking reserved item slot: flashlight
+[Info   :ReservedItemSlotCore-2.0.52] Unlocking reserved item slot: walkie_talkie
 [Warning:Lethal Company API] Asking all other players for their mod list..
+[Warning:dev.ladyalice.scarletmansion] Player 0 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Info   :LethalThings] Syncing configs!
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: AssuranceExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: Start, LoadNode Is: 220routeConfirm
+[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: AssuranceExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: Start, LoadNode Is: 220routeConfirm
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
+[Info   :LethalLevelLoader] Saving Current SelectableLevel: 220 Assurance
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
+[Info   :TooManyEmotes-2.3.13] Saving TooManyEmotes emote menu preferences.
 [Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
 [Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
 [Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 2)
 [Info   :LethalLevelLoader] LoadedStatus Is Currently: (2 / 2)
-[Info   :ReservedItemSlotCore-2.0.52] Receiving sync request from client: 1
-[Info   :ReservedItemSlotCore-2.0.52] Sending sync to client with id: 1
-[Info   :ReservedItemSlotCore-2.0.52] Receiving sync held objects request from client with id: 1. 0 players are currently holding a reserved item.
+[Info   :YPlayBoombox] Sync request from Player #1
+[Info   :YPlayBoombox] [CONFIG] Pocket play [OFF] sent to Player #1
+[Info   :YPlayBoombox] [CONFIG] Sync [OFF] sent to Player #1
+[Info   :YPlayBoombox] [CONFIG] Boombox random color [OFF] sent to Player #1
+[Info   :YPlayBoombox] YPlayBoombox enabled for Player #1 [client: v2.3.9] [server: v2.3.9]
+[Info   :ReservedItemSlotCore-2.0.52] Receiving sync request from client: 3
+[Info   :ReservedItemSlotCore-2.0.52] Sending slot to client: flashlight Unlocked: True
+[Info   :ReservedItemSlotCore-2.0.52] Sending slot to client: walkie_talkie Unlocked: True
+[Info   :ReservedItemSlotCore-2.0.52] Sending sync to client with id: 3
+[Info   :BetterStamina-1.5.7] Receiving config sync request from client with id: 3. Sending config sync to client.
+[Info   :TooManyEmotes-2.3.13] Receiving config sync request from client: 3
+[Info   : LethalLib] Config sync request received from client: 3
+[Info   :TooManyEmotes-2.3.13] Receiving sync request from client: 3
+[Info   :TooManyEmotes-2.3.13] Loading 0 unlocked emotes for player: Matheus
+[Info   :TooManyEmotes-2.3.13] Loading 100 emote credits for player: Matheus
+[Info   :ReservedItemSlotCore-2.0.52] Receiving sync held objects request from client with id: 3. 0 players are currently holding a reserved item.
 [Warning:Lethal Company API] Asking all other players for their mod list..
 [Warning:Lethal Company API] Matheus responded with these mods:
 .LCMaxSoundsFix
@@ -583,26 +1030,46 @@ dev.ladyalice.dungenplus
 dev.ladyalice.dungenplus.loadstonepatch
 dev.ladyalice.scarletmansion.foyer
 dev.ladyalice.scarletmansion.basement
+FlipMods.ReservedItemSlotCore
+FlipMods.ReservedFlashlightSlot
 dev.ladyalice.scarletmansion
 dev.ladyalice.scarletmansion.coronerpatch
 dev.ladyalice.scarletmansion.mimicspatch
 discount.alert
-FlipMods.ReservedItemSlotCore
+DiscountSync
+DistinctBlaze.ColorfulEnemyVariety
+evaisa.lethalthings
+Jordo.NeedyCats
+doggosuki.Huntdown
+Drak.BellMonster
+Entity378.BonBon
+FlipMods.BetterStamina
+FlipMods.FasterItemDropship
+FlipMods.ObjectVolumeController
+FlipMods.ReservedWalkieSlot
+FlipMods.TooManyEmotes
+GGMD.GenericInteriors
+HoldScanButton
+iambatby.dynamicinteriorvariety
 ImmortalSnail
 io.daxcess.nojumpdelay
 JacobG5.JLL
 JacobG5.JLLItemModule
 JacobG5.WesleyMoonScripts
+kerotein.YPlayBoombox
 LC_API_V50
 LCSoundTool
 LethalFashion
 LethalNetworkAPI
 MaskedEnemyRework
+me.eladnlg.customhud
+MoreItems
 Neekhaulas.Backrooms
 NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
 NoteBoxz.NotezyLib
 pacoito.itolib
 qwbarch.Mirage.Core
+Scopophobia
 SCPCBDunGen
 solidlib
 SoulDev
@@ -612,42 +1079,274 @@ VirusTLNR.MaskedInvisFix
 WhiteSpike.InteractiveTerminalAPI
 XuuXiaolan.SoftMaskKiller
 Yorimor.CustomStoryLogs
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :TooManyEmotes-2.3.13] [lipe] Performing emote: cheer
+[Info   :TooManyEmotes-2.3.13] Saving TooManyEmotes emote menu preferences.
 [Info   :LethalLevelLoader] Getting Random DungeonFlows!
 [Info   :LethalLevelLoader] ExtendedLevel <-> ExtendedDungeonFlow Dynamic Matching Report.
 
-Info For ExtendedLevel: ExperimentationExtendedLevel | Planet Name: Experimentation | Content Tags: Free, Wasteland, Vanilla | Route Price: 0 | Current Weather: None
-Unviable ExtendedDungeonFlows: Facility, Facility, Zeranos Gray Apartments, Raven Manor, Scarlet Basement, Scarlet Foyer, SCP Foundation
-Viable ExtendedDungeonFlows: Sub Systems (300), Facility (300), Studio Floor (50), Gray Apartments (25), Mineshaft (3), Haunted Mansion (1)
+Info For ExtendedLevel: AssuranceExtendedLevel | Planet Name: Assurance | Content Tags: Free, Canyon, Vanilla | Route Price: 0 | Current Weather: None
+Unviable ExtendedDungeonFlows: Facility, Facility, Tower, Zeranos Gray Apartments, Raven Manor, Scarlet Basement, Scarlet Foyer, SCP Foundation, Studio Floor
+Viable ExtendedDungeonFlows: Facility (300), Sub Systems (250), Storehouse (200), Mineshaft (40), Gray Apartments (25), Liminal Facility (10), Haunted Mansion (3)
 
 [Info   :LethalLevelLoader] Setting Random DungeonFlows!
 [Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_GenerateNewFloor() Function To Prevent Conflicts
 [Info   :dev.ladyalice.dungenplus] Did not load a DunGenExtenderer
 [Info   :LethalLevelLoader] Fire Exit Patch Report, Details Below;
 
-EntranceTeleport's Found, Experimentation Contains 2 Entrances! ( 1 Fire Escapes) 
+EntranceTeleport's Found, Assurance Contains 2 Entrances! ( 1 Fire Escapes) 
 Main Entrance: EntranceTeleportA (Entrance ID: 0)
 Alternate Entrance: EntranceTeleportB (Entrance ID: 1)
 Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawn rate Count From (1,1) To (1,1)
 
 
-[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Experimentation ,Sub Systems ,Quota: 0 , Day: 1 , Weather: None
-[Info   :VaiTerCebola] Encontrados 57 pontos de spawn. Spawning de 4 cebolas...
+[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Assurance ,Sub Systems ,Quota: 0 , Day: 1 , Weather: None
+[Info   :  Huntdown] Storing values for scrap generated on new level.
+[Info   :VaiTerCebola] Encontrados 40 pontos de spawn. Spawning de 4 cebolas...
 [Info   :VaiTerCebola] 4 cebolas foram adicionadas ao mapa!
-[Info   :CullFactory] Generation has completed with seed 45374207.
-[Info   :CullFactory] Preparing tile information for SubSysFlow took 29.785ms
+[Info   :CullFactory] Generation has completed with seed 59565750.
+[Info   :CullFactory] Preparing tile information for SubSysFlow took 28.366ms
 [Info   :MaskedEnemyRework] Starting Round Manager
 [Info   :MaskedEnemyRework] no zombies :(
+[Info   :  Huntdown] Rolling for mission generation...
+[Info   :  Huntdown] Rolled 96 out of 100.
+[Info   :  Huntdown] Mission received: True.
+[Info   :  Huntdown] Calculating total weight of all missions...
+[Info   :  Huntdown] Adding Snare Flea's weight of 100 to total weight.
+[Info   :  Huntdown] New total weight: 100.
+[Info   :  Huntdown] Adding Bunker Spider's weight of 100 to total weight.
+[Info   :  Huntdown] New total weight: 200.
+[Info   :  Huntdown] Adding Hoarding Bug's weight of 100 to total weight.
+[Info   :  Huntdown] New total weight: 300.
+[Info   :  Huntdown] Adding Bracken's weight of 50 to total weight.
+[Info   :  Huntdown] New total weight: 350.
+[Info   :  Huntdown] Adding Thumper's weight of 100 to total weight.
+[Info   :  Huntdown] New total weight: 450.
+[Info   :  Huntdown] Adding Nutcracker's weight of 50 to total weight.
+[Info   :  Huntdown] New total weight: 500.
+[Info   :  Huntdown] Adding Masked's weight of 75 to total weight.
+[Info   :  Huntdown] New total weight: 575.
+[Info   :  Huntdown] Adding A Good Boy's weight of 20 to total weight.
+[Info   :  Huntdown] New total weight: 595.
+[Info   :  Huntdown] Adding Bug Mafia's weight of 50 to total weight.
+[Info   :  Huntdown] New total weight: 645.
+[Info   :  Huntdown] Blunderbug is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 645.
+[Info   :  Huntdown] Adding Infestation's weight of 25 to total weight.
+[Info   :  Huntdown] New total weight: 670.
+[Info   :  Huntdown] Adding Last Month's Interns's weight of 15 to total weight.
+[Info   :  Huntdown] New total weight: 685.
+[Info   :  Huntdown] Adding Butler's weight of 50 to total weight.
+[Info   :  Huntdown] New total weight: 735.
+[Info   :  Huntdown] Adding Maneater's weight of 10 to total weight.
+[Info   :  Huntdown] New total weight: 745.
+[Info   :  Huntdown] Adding Stabbin' Bros's weight of 40 to total weight.
+[Info   :  Huntdown] New total weight: 785.
+[Info   :  Huntdown] Adding Giant Size: Upgraded's weight of 5 to total weight.
+[Info   :  Huntdown] New total weight: 790.
+[Info   :  Huntdown] Adding Big Trouble Little Enemies's weight of 5 to total weight.
+[Info   :  Huntdown] New total weight: 795.
+[Info   :  Huntdown] Adding Who let the puppies out?'s weight of 5 to total weight.
+[Info   :  Huntdown] New total weight: 800.
+[Info   :  Huntdown] Adding Baboon Gang's weight of 40 to total weight.
+[Info   :  Huntdown] New total weight: 840.
+[Info   :  Huntdown] Adding Facility Keeper's weight of 15 to total weight.
+[Info   :  Huntdown] New total weight: 855.
+[Info   :  Huntdown] Adding Lone Baboon Hawk's weight of 70 to total weight.
+[Info   :  Huntdown] New total weight: 925.
+[Info   :  Huntdown] Adding Dynamic Duo's weight of 30 to total weight.
+[Info   :  Huntdown] New total weight: 955.
+[Info   :  Huntdown] Adding Monstrous Den's weight of 20 to total weight.
+[Info   :  Huntdown] New total weight: 975.
+[Info   :  Huntdown] Adding Mask Outbreak's weight of 6 to total weight.
+[Info   :  Huntdown] New total weight: 981.
+[Info   :  Huntdown] Adding Left 4 Mask 2's weight of 2 to total weight.
+[Info   :  Huntdown] New total weight: 983.
+[Info   :  Huntdown] Adding Zombie's weight of 75 to total weight.
+[Info   :  Huntdown] New total weight: 1058.
+[Info   :  Huntdown] Adding Last Year's Interns's weight of 15 to total weight.
+[Info   :  Huntdown] New total weight: 1073.
+[Info   :  Huntdown] Adding Zombie Apocalypse's weight of 8 to total weight.
+[Info   :  Huntdown] New total weight: 1081.
+[Info   :  Huntdown] Adding Boomba's weight of 75 to total weight.
+[Info   :  Huntdown] New total weight: 1156.
+[Info   :  Huntdown] Adding Boombopocalypse's weight of 8 to total weight.
+[Info   :  Huntdown] New total weight: 1164.
+[Info   :  Huntdown] Haunted Harpist is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 1164.
+[Info   :  Huntdown] Phantom Piper is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 1164.
+[Info   :  Huntdown] Enforcer is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 1164.
+[Info   :  Huntdown] The Firing Squad is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 1164.
+[Info   :  Huntdown] The Manor Lord is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 1164.
+[Info   :  Huntdown] Janitor is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 1164.
+[Info   :  Huntdown] Cleaner Rivals is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 1164.
+[Info   :  Huntdown] Bell Crab is a disabled mission, not adding weight.
+[Info   :  Huntdown] New total weight: 1164.
+[Info   :  Huntdown] Final total weight: 1164.
+[Info   :  Huntdown] Choosing random mission...
+[Info   :  Huntdown] Rolling for the mission Snare Flea.
+[Info   :  Huntdown] Rolled 521
+[Info   :  Huntdown] Rolling for the mission Bunker Spider.
+[Info   :  Huntdown] Rolled 421
+[Info   :  Huntdown] Rolling for the mission Hoarding Bug.
+[Info   :  Huntdown] Rolled 321
+[Info   :  Huntdown] Rolling for the mission Bracken.
+[Info   :  Huntdown] Rolled 271
+[Info   :  Huntdown] Rolling for the mission Thumper.
+[Info   :  Huntdown] Rolled 171
+[Info   :  Huntdown] Rolling for the mission Nutcracker.
+[Info   :  Huntdown] Rolled 121
+[Info   :  Huntdown] Rolling for the mission Masked.
+[Info   :  Huntdown] Rolled 46
+[Info   :  Huntdown] Rolling for the mission A Good Boy.
+[Info   :  Huntdown] Rolled 26
+[Info   :  Huntdown] Rolling for the mission Bug Mafia.
+[Info   :  Huntdown] Rolled -24
+[Info   :  Huntdown] Mission chosen: Bug Mafia.
+[Info   :  Huntdown] Rolling for the mission Infestation.
+[Info   :  Huntdown] Rolled -49
+[Info   :  Huntdown] Rolling for the mission Last Month's Interns.
+[Info   :  Huntdown] Rolled -64
+[Info   :  Huntdown] Rolling for the mission Butler.
+[Info   :  Huntdown] Rolled -114
+[Info   :  Huntdown] Rolling for the mission Maneater.
+[Info   :  Huntdown] Rolled -124
+[Info   :  Huntdown] Rolling for the mission Stabbin' Bros.
+[Info   :  Huntdown] Rolled -164
+[Info   :  Huntdown] Rolling for the mission Giant Size: Upgraded.
+[Info   :  Huntdown] Rolled -169
+[Info   :  Huntdown] Rolling for the mission Big Trouble Little Enemies.
+[Info   :  Huntdown] Rolled -174
+[Info   :  Huntdown] Rolling for the mission Who let the puppies out?.
+[Info   :  Huntdown] Rolled -179
+[Info   :  Huntdown] Rolling for the mission Baboon Gang.
+[Info   :  Huntdown] Rolled -219
+[Info   :  Huntdown] Rolling for the mission Facility Keeper.
+[Info   :  Huntdown] Rolled -234
+[Info   :  Huntdown] Rolling for the mission Lone Baboon Hawk.
+[Info   :  Huntdown] Rolled -304
+[Info   :  Huntdown] Rolling for the mission Dynamic Duo.
+[Info   :  Huntdown] Rolled -334
+[Info   :  Huntdown] Rolling for the mission Monstrous Den.
+[Info   :  Huntdown] Rolled -354
+[Info   :  Huntdown] Rolling for the mission Mask Outbreak.
+[Info   :  Huntdown] Rolled -360
+[Info   :  Huntdown] Rolling for the mission Left 4 Mask 2.
+[Info   :  Huntdown] Rolled -362
+[Info   :  Huntdown] Rolling for the mission Zombie.
+[Info   :  Huntdown] Rolled -437
+[Info   :  Huntdown] Rolling for the mission Last Year's Interns.
+[Info   :  Huntdown] Rolled -452
+[Info   :  Huntdown] Rolling for the mission Zombie Apocalypse.
+[Info   :  Huntdown] Rolled -460
+[Info   :  Huntdown] Rolling for the mission Boomba.
+[Info   :  Huntdown] Rolled -535
+[Info   :  Huntdown] Rolling for the mission Boombopocalypse.
+[Info   :  Huntdown] Rolled -543
+[Info   :  Huntdown] Attempting to generate mission 'Bug Mafia'.
+[Info   :  Huntdown] Rolling for a random faraway vent...
+[Info   :  Huntdown] MainEntrancePos: (-10.10, -217.59, 69.90)
+[Info   :  Huntdown] 0VentPosEntrancePos: (5.65, -220.84, -14.10)
+[Info   :  Huntdown] 1VentPosEntrancePos: (-46.35, -220.84, -10.10)
+[Info   :  Huntdown] 2VentPosEntrancePos: (-21.35, -220.84, 89.90)
+[Info   :  Huntdown] 3VentPosEntrancePos: (49.65, -220.84, 45.90)
+[Info   :  Huntdown] 4VentPosEntrancePos: (1.65, -220.84, -53.10)
+[Info   :  Huntdown] longest dist: 123.6027
+[Info   :  Huntdown] midpoint: (-4.23, -219.22, 8.40)
+[Info   :  Huntdown] halfway dist: 61.80134
+[Info   :  Huntdown] 0VentPosEntrancePos: (5.65, -220.84, -14.10)
+[Info   :  Huntdown] dist: 85.52557
+[Info   :  Huntdown] halfwaydist 61.80134
+[Info   :  Huntdown] 1VentPosEntrancePos: (-46.35, -220.84, -10.10)
+[Info   :  Huntdown] dist: 87.88985
+[Info   :  Huntdown] halfwaydist 61.80134
+[Info   :  Huntdown] 2VentPosEntrancePos: (-21.35, -220.84, 89.90)
+[Info   :  Huntdown] 3VentPosEntrancePos: (49.65, -220.84, 45.90)
+[Info   :  Huntdown] dist: 64.47189
+[Info   :  Huntdown] halfwaydist 61.80134
+[Info   :  Huntdown] 4VentPosEntrancePos: (1.65, -220.84, -53.10)
+[Info   :  Huntdown] dist: 123.6027
+[Info   :  Huntdown] halfwaydist 61.80134
+[Info   :  Huntdown] Rolled 3 out of 4.
+[Info   :  Huntdown] Spawning mission targets...
+[Info   :  Huntdown] Spawning a single unnatural enemy of type: Hoarding bug
+[Info   :  Huntdown] Spawning a single unnatural enemy of type: Hoarding bug
+[Info   :  Huntdown] Spawning a single unnatural enemy of type: Hoarding bug
+[Info   :  Huntdown] Spawning a single unnatural enemy of type: Hoarding bug
+[Info   :  Huntdown] Spawning a single unnatural enemy of type: Hoarding bug
+[Info   :  Huntdown] Total enemies spawned: 5
+[Info   :  Huntdown] Mission 'Bug Mafia' generated successfully.
 [Info   :Starlancer AI Fix] Finding outside AI nodes.
 [Info   :Starlancer AI Fix] Finding inside AI nodes.
-[Info   :Starlancer AI Fix] RedLocustBees(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 3
-[Info   :Starlancer AI Fix] Removing RedLocustBees(Clone)'s power (1) from the RoundManager; 
-Current daytime power level is 2
+[Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
+[Info   :Starlancer AI Fix] Adding IVisibleThreat component to HoarderBug(Clone).
+[Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
+[Info   :Starlancer AI Fix] Adding IVisibleThreat component to HoarderBug(Clone).
+[Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
+[Info   :Starlancer AI Fix] Adding IVisibleThreat component to HoarderBug(Clone).
+[Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
+[Info   :Starlancer AI Fix] Adding IVisibleThreat component to HoarderBug(Clone).
+[Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
+[Info   :Starlancer AI Fix] Adding IVisibleThreat component to HoarderBug(Clone).
+[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
+[Info   :TooManyEmotes-2.3.13] [lipe] Performing emote: hip_thrust
+[Info   :TooManyEmotes-2.3.13] Saving TooManyEmotes emote menu preferences.
+[Info   :TooManyEmotes-2.3.13] [lipe] Stopping emote.
+[Info   :TooManyEmotes-2.3.13] Receiving performing emote update from client: 3 Emote: hip_thrust
+[Info   :TooManyEmotes-2.3.13] [Matheus] Performing emote: hip_thrust
+[Info   :TooManyEmotes-2.3.13] [Matheus] Stopping emote.
+[Info   :Starlancer AI Fix] Chair(Clone) from the interior enemy list has died; 
+Previous interior power level is 4
+[Info   :Starlancer AI Fix] Removing Chair(Clone)'s power (1) from the RoundManager; 
+Current interior power level is 3
 [Info   :Starlancer AI Fix] DoublewingedBird(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 2
+Previous daytime power level is 7
 [Info   :Starlancer AI Fix] Removing DoublewingedBird(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 6
+[Info   :Starlancer AI Fix] RedLocustBees(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 6
+[Info   :Starlancer AI Fix] Removing RedLocustBees(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 5
+[Info   :Starlancer AI Fix] DoublewingedBird(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 5
+[Info   :Starlancer AI Fix] Removing DoublewingedBird(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 4
+[Info   :Starlancer AI Fix] RedLocustBees(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 4
+[Info   :Starlancer AI Fix] Removing RedLocustBees(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 3
+[Info   :Starlancer AI Fix] GiantKiwi(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 3
+[Info   :Starlancer AI Fix] Removing GiantKiwi(Clone)'s power (2) from the RoundManager; 
 Current daytime power level is 1
-[Info   :Starlancer AI Fix] DocileLocustBees(Clone) from the daytime enemy list has died; 
+[Info   :Starlancer AI Fix] DoublewingedBird(Clone) from the daytime enemy list has died; 
 Previous daytime power level is 1
-[Info   :Starlancer AI Fix] Removing DocileLocustBees(Clone)'s power (1) from the RoundManager; 
+[Info   :Starlancer AI Fix] Removing DoublewingedBird(Clone)'s power (1) from the RoundManager; 
 Current daytime power level is 0
+[Info   :Starlancer AI Fix] HoarderBug(Clone) from the interior enemy list has died; 
+Previous interior power level is 3
+[Info   :Starlancer AI Fix] Removing HoarderBug(Clone)'s power (1) from the RoundManager; 
+Current interior power level is 2
+[Info   :Starlancer AI Fix] HoarderBug(Clone) from the interior enemy list has died; 
+Previous interior power level is 2
+[Info   :Starlancer AI Fix] Removing HoarderBug(Clone)'s power (1) from the RoundManager; 
+Current interior power level is 1
+[Info   :Starlancer AI Fix] HoarderBug(Clone) from the interior enemy list has died; 
+Previous interior power level is 1
+[Info   :Starlancer AI Fix] Removing HoarderBug(Clone)'s power (1) from the RoundManager; 
+Current interior power level is 0
+[Info   :Starlancer AI Fix] HoarderBug(Clone) from the interior enemy list has died; 
+Previous interior power level is 0
+[Info   :Starlancer AI Fix] Removing HoarderBug(Clone)'s power (1) from the RoundManager; 
+Current interior power level is 0
+[Info   :Starlancer AI Fix] HoarderBug(Clone) from the interior enemy list has died; 
+Previous interior power level is 0
+[Info   :Starlancer AI Fix] Removing HoarderBug(Clone)'s power (1) from the RoundManager; 
+Current interior power level is 0
+[Info   :FixPluginTypesSerialization] Restored original AssemblyNames list
