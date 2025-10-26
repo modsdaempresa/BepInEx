@@ -51,7 +51,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 45 plugins to load
+[Info   :   BepInEx] 67 plugins to load
 [Info   :   BepInEx] Loading [LCMaxSoundsFix 1.2.0]
 [Info   :LCMaxSoundsFix] Plugin LCMaxSoundsFix is loaded!
 [Info   :LCMaxSoundsFix] Audio settings (numRealVoices=128; numVirtualVoices=1024) are applied.
@@ -64,13 +64,35 @@
 [Info   :ainavt.lc.lethalconfig] LethalConfig loaded!
 [Info   :   BepInEx] Loading [EnemySkinRegistry 1.4.6]
 [Info   :   BepInEx] Loading [Vanilla Enemy Skin Kit 1.4.1]
+[Info   :   BepInEx] Loading [Later Nights 1.0.0]
+[Info   :Later Nights] Later Nights mod loaded
 [Info   :   BepInEx] Loading [Starlancer AI Fix 3.11.1]
 [Info   :Starlancer AI Fix] Starlancer AI Fix Online.
+[Info   :   BepInEx] Loading [LethalLib 1.1.1]
+[Info   : LethalLib] LethalLib loaded!!
+[Info   :   BepInEx] Loading [VaiTerCebola 1.0.0]
+[Info   :VaiTerCebola] Cebola registrada como sucata.
+[Info   :VaiTerCebola] Patch do RoundManager para spawn da cebola aplicado.
+[Info   :VaiTerCebola] Plugin BakaMODs.VaiTerCebola foi carregado!
 [Info   :   BepInEx] Loading [Barber Fixes 1.3.0]
 [Info   :Barber Fixes] Barber Fixes v1.3.0 loaded
+[Info   :   BepInEx] Loading [Classic Suit Restoration 2.1.3]
+[Info   :Classic Suit Restoration] Classic Suit Restoration v2.1.3 loaded
 [Info   :   BepInEx] Loading [Mask Fixes 1.5.2]
 [Info   :Mask Fixes] CROSS-COMPATIBILITY - EnableEnemyMesh patch will be disabled
 [Info   :Mask Fixes] Mask Fixes v1.5.2 loaded
+[Info   :   BepInEx] Loading [Melee Fixes 1.4.1]
+[Info   :Melee Fixes] Melee Fixes v1.4.1 loaded
+[Info   :   BepInEx] Loading [Restore Lasso 1.0.0]
+[Info   :Restore Lasso] Restore Lasso v1.0.0 loaded
+[Info   :   BepInEx] Loading [Upturned Variety 2.1.0]
+[Info   :Upturned Variety] Upturned Variety v2.1.0 loaded
+[Info   :   BepInEx] Loading [Rolling Chair 1.0.0]
+[Info   :Rolling Chair] Registered spawn rate for level type All to 75
+[Info   :   BepInEx] Loading [SirenHead 2.0.3]
+[Info   : SirenHead] Registered spawn rate for level type VowLevel to 100
+[Info   : SirenHead] Registered spawn rate for level type MarchLevel to 100
+[Info   : SirenHead] SirenHead 2.0.3 loaded.
 [Info   :   BepInEx] Loading [LCCutscene 2.0.1]
 [Info   :LCCutscene] Loaded asset bundle!
 [Info   :LCCutscene] LCCutscene started.
@@ -109,8 +131,6 @@
 [Info   :CustomSounds] "HideManagerGameObject" is correctly set to true.
 [Info   :CustomSounds] Plugin CustomSounds is loaded!
 [Info   :   BepInEx] Loading [NavMeshInCompany 1.0.3]
-[Info   :   BepInEx] Loading [LethalLib 1.1.1]
-[Info   : LethalLib] LethalLib loaded!!
 [Info   :   BepInEx] Loading [MaxWasUnavailable.LethalModDataLib 1.2.2]
 [Info   :MaxWasUnavailable.LethalModDataLib] Plugin MaxWasUnavailable.LethalModDataLib is loaded!
 [Info   :   BepInEx] Loading [LethalLevelLoader 1.5.1]
@@ -118,14 +138,58 @@
 [Info   :LethalLevelLoader] evaisa.lethallibfound, enabling compatability patches.
 [Info   :LethalLevelLoader] LethalBundleManger: Starting!
 [Info   :LethalLevelLoader] LethalBundleManger: Now Loading Bundles!
-[Info   :LethalLevelLoader] No Files Found, Cancelling LoadAllBundlesRequest!
 [Info   :LethalLevelLoader] Config Level Set As: User
 [Info   :   BepInEx] Loading [Dungeon Generation Plus 1.4.1]
 [Info   :dev.ladyalice.dungenplus] Plugin Dungeon Generation Plus has been added!
 [Info   :   BepInEx] Loading [Dungeon Generation Plus Loadstone Patch 1.0.0]
+[Info   :   BepInEx] Loading [Scarlet Foyer 1.0.0]
+[Info   :dev.ladyalice.scarletmansion.foyer] Plugin Scarlet Foyer has been added!
+[Info   :dev.ladyalice.scarletmansion.foyer] Lethal config compability patch added!
+[Info   :   BepInEx] Loading [Scarlet Basement 1.0.0]
+[Info   :dev.ladyalice.scarletmansion.basement] Plugin Scarlet Basement has been added!
+[Info   :dev.ladyalice.scarletmansion.basement] Lethal config compability patch added!
+[Info   :   BepInEx] Loading [Scarlet Devil Mansion 2.3.3]
+[Info   :dev.ladyalice.scarletmansion] Plugin Scarlet Devil Mansion has been added!
+[Info   :dev.ladyalice.scarletmansion] Loading compability patch for ainavt.lc.lethalconfig
+[Info   :dev.ladyalice.scarletmansion] Loading compability patch for ainavt.lc.lethalconfig
+[Info   :dev.ladyalice.scarletmansion] Loading compability patch for ainavt.lc.lethalconfig
+[Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for sdmFoyer
+[Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for sdmBasement
+[Info   :LethalLevelLoader] Found ExtendedMod: ScarletDevilMansionMod
+[Info   :   BepInEx] Loading [Scarlet Mansion Coroner Patch 1.0.0]
+[Info   :   BepInEx] Loading [Scarlet Mansion Mimics Patch 1.0.0]
+[Info   :   BepInEx] Loading [DiscountAlert 2.3.0.0]
+[Info   :DiscountAlert] Plugin discount.alert is loaded!
 [Info   :   BepInEx] Loading [ReservedItemSlotCore 2.0.52]
 [Info   :ReservedItemSlotCore-2.0.52] BindingConfigs
 [Info   :ReservedItemSlotCore-2.0.52] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ImmortalSnail 0.7.4]
+[Info   :ImmortalSnail] Loading a mod by swAAn
+
+                                    _
+                                ,-"" "".
+                              ,'  ____  `.
+                            ,'  ,'    `.  `._
+   (`.         _..--.._   ,'  ,'        \    \
+  (`-.\    .-""        ""'   /          (  d _b
+ (`._  `-"" ,._             (            `-(   \
+ <_  `     (  <`<            \              `-._\
+  <`-       (__< <           :
+   (__        (_<_<          ;
+    `~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Info   :ImmortalSnail] 
+         __,._
+        /  _  \
+       |  6 \  \  oo
+        \___/ .|__||
+ __,..=" ^  . , "  ,\
+<.__________________/
+[Info   :ImmortalSnail] Configuring Snail.
+[Info   :ImmortalSnail] Applying User-Defined Configuration Settings
+[Info   :ImmortalSnail] Registering Snail as Enemy
+[Info   :ImmortalSnail] Plugin ImmortalSnail 0.7.4 is loaded!
+[Info   :   BepInEx] Loading [NoJumpDelay 1.1.0]
+[Info   :NoJumpDelay] Boing boing!
 [Info   :   BepInEx] Loading [JLL 1.9.8]
 [Info   :JacobG5.JLL] Skipping Netcode Class
 [Info   :JacobG5.JLL] Skipping Netcode Class
@@ -133,7 +197,6 @@
 [Info   :JacobG5.JLL] JLL Logging Level set to: User
 [Info   :JacobG5.JLL] [User] Searching for Bundles and JSONs....
 [Info   :JacobG5.JLL] [User] Finished reading 0 files.
-[Info   :JacobG5.JLL] [User] Successfully Registered 0 JLLMods and 0 LevelPropertyOverrides.
 [Info   :   BepInEx] Loading [JLLItemModule 1.3.4]
 [Info   :JacobG5.JLL] Netcode Successfully Patched!
 [Info   :   BepInEx] Loading [WesleyMoonScripts 1.1.5]
@@ -150,14 +213,24 @@
 [Info   :Lethal Company API] LC_API Starting up..
 [Info   :   BepInEx] Loading [LC Sound Tool 1.5.1]
 [Info   :LCSoundTool] Plugin LCSoundTool is loaded!
+[Info   :   BepInEx] Loading [LethalFashion 1.0.8]
+[Info   :LethalFashion] Plugin LethalFashion is loaded!
+[Info   :LethalFashion] Patch applied successfully. You are now FASHIONABLE.
 [Info   :   BepInEx] Loading [LethalNetworkAPI 3.3.2]
 [Info   :LethalNetworkAPI] LethalNetworkAPI v3.3.2 has Loaded.
+[Info   :   BepInEx] Loading [MaskedEnemyRework 3.4.0]
+[Info   :MaskedEnemyRework] Plugin MaskedEnemyRework is loaded! Woohoo!
+[Info   :   BepInEx] Loading [Backrooms 0.1.3]
+[Info   : Backrooms] Plugin Backrooms is loaded!
 [Info   :   BepInEx] Loading [RuntimeNetcodeRPCValidator 0.2.5]
 [Info   :   BepInEx] Loading [NotezyLib 0.1.5]
 [Info   : NotezyLib] NoteBoxz.NotezyLib v0.1.5 has loaded!
 [Info   :   BepInEx] Loading [itolib 0.5.1]
 [Info   :    itolib] itolib v0.5.1 loaded!
 [Info   :   BepInEx] Loading [Mirage.Core 1.0.4]
+[Info   :   BepInEx] Loading [SCPCBDunGen 4.3.5]
+[Info   :SCPCBDunGen] SCP:CB DunGen for Lethal Company [Version 4.3.5] successfully loaded.
+[Info   :SCPCBDunGen] SCPCBDunGen v4.3.5 has loaded!
 [Info   :   BepInEx] Loading [Solid's Library 1.2.1]
 [Info   :Solid's Library] Initializing Library
 [Info   :Solid's Library] [Registry] Initializing GameObject registry holder
@@ -169,6 +242,12 @@
 [Info   :Solid's Library] [Registry] Initializing SpawnableMapObjectDef registry holder
 [Info   :Solid's Library] [Registry] Initializing TerminalNode registry holder
 [Info   :Solid's Library] [Registry] Initializing TerminalKeyword registry holder
+[Info   :   BepInEx] Loading [Soul Devourer Enemy 1.0.0]
+[Warning:Solid's Library] [Registry] Registry with name Soul_Devourer is already registered.
+[Info   :Solid's Library] [Registry] Initalizing Enemys for SolidLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[Info   :Soul Devourer Enemy] Plugin SoulDev is loaded!
+[Info   :   BepInEx] Loading [BetterSprayPaint 2.0.9]
+[Info   :BetterSprayPaint] Loading taffyko.BetterSprayPaint
 [Info   :   BepInEx] Loading [TestAccountCore 1.14.4]
 [Info   :TestAccountCore] TestAccount666.TestAccountCore v1.14.4 has loaded!
 [Info   :   BepInEx] Loading [MaskedInvisFix 0.0.2]
@@ -183,7 +262,7 @@
 [Info   :   BepInEx] Loading [CustomStoryLogs 1.5.2]
 [Error  :CustomStoryLogs] Failed to load custom assets.
 [Info   :me.loaforc.soundapi] Starting Sound-pack loading pipeline
-[Info   :me.loaforc.soundapi] (Step 1) Loading Sound-pack definitions took 14ms
+[Info   :me.loaforc.soundapi] (Step 1) Loading Sound-pack definitions took 3ms
 [Warning:me.loaforc.soundapi] No sound-packs were found to load! This can be ignorable if you're doing testing or using SoundAPI for another purpose, but if you expected sound-packs to load you may have set it up incorrectly.
 [Info   :me.loaforc.soundapi] (Step 2) Loading Sound-pack mappings ('0') took 0ms
 [Info   :me.loaforc.soundapi] (Step 3) Skipped 0 collection(s), 0 replacement(s), 0 sound(s)
@@ -191,17 +270,87 @@
 [Info   :me.loaforc.soundapi] (Step 4) Started loading 0 audio file(s)
 [Info   :me.loaforc.soundapi] Waiting for splash screens to complete to continue...
 [Message:   BepInEx] Chainloader startup complete
+[Info   :LethalLevelLoader] halationmoon.lethalbundle Loaded (9.24s)!
+[Info   :LethalLevelLoader] calypsomoon.lethalbundle Loaded (9.29s)!
+[Info   :LethalLevelLoader] lithiummoon.lethalbundle Loaded (9.29s)!
+[Info   :LethalLevelLoader] baykalmoon.lethalbundle Loaded (9.32s)!
+[Info   :LethalLevelLoader] makronmoon.lethalbundle Loaded (9.36s)!
+[Info   :LethalLevelLoader] pandoramusmoon.lethalbundle Loaded (9.37s)!
+[Info   :LethalLevelLoader] praetormoon.lethalbundle Loaded (9.38s)!
+[Info   :LethalLevelLoader] mazonmoon.lethalbundle Loaded (9.56s)!
+[Info   :LethalLevelLoader] dungeon_ravenmanor.lethalbundle Loaded (10.04s)!
+[Info   :LethalLevelLoader] ultimatummoon.lethalbundle Loaded (10.07s)!
+[Info   :LethalLevelLoader] dungeon_studio.lethalbundle Loaded (10.31s)!
+[Info   :LethalLevelLoader] halationscene.lethalbundle Loaded (10.31s)!
+[Info   :LethalLevelLoader] praetorscene.lethalbundle Loaded (10.31s)!
+[Info   :LethalLevelLoader] dungeon_grayapartments.lethalbundle Loaded (11.13s)!
+[Info   :LethalLevelLoader] prismscene.lethalbundle Loaded (11.14s)!
+[Info   :LethalLevelLoader] mazonlevel.lethalbundle Loaded (11.14s)!
+[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Loaded (11.14s)!
+[Info   :LethalLevelLoader] prismmoon.lethalbundle Loaded (11.17s)!
+[Info   :LethalLevelLoader] espirascene.lethalbundle Loaded (11.17s)!
+[Info   :LethalLevelLoader] makronscene.lethalbundle Loaded (11.17s)!
+[Info   :LethalLevelLoader] espiramoon.lethalbundle Loaded (11.52s)!
+[Info   :LethalLevelLoader] dungeon_subsystem.lethalbundle Loaded (11.88s)!
+[Info   :LethalLevelLoader] lithiumscene.lethalbundle Loaded (11.89s)!
+[Info   :LethalLevelLoader] calypsolevel.lethalbundle Loaded (11.89s)!
+[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Loaded (11.89s)!
+[Info   :LethalLevelLoader] baykalscene.lethalbundle Loaded (11.89s)!
+[Info   :LethalLevelLoader] Finished Processing Bundles!
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Baykalmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Baykal
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Calypsomoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_CalypsoMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Espiramoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_EspiraMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Halationmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_HalationMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Lithiummoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_LithiumMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Makronmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_MakronMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Mazonmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_MazonMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Pandoramusmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Pandoramus
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Praetormoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_PraetorMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Prismmoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_KaleidosMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Ultimatummoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_UltimatumMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_grayapartments.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_GrayApps
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_ravenmanor.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_RavenManor
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_studio.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Studio
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_subsystem.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_SubSystem
+[Info   :JacobG5.JLL] [User] Successfully Registered 1 JLLMods and 0 LevelPropertyOverrides.
+[Info   :LethalLevelLoader] LethalBundleManger Finished Requested Load
+[Info   :LethalLevelLoader] Custom Content Processed. Unlocking Main Menu.
 [Info   :me.loaforc.soundapi] Starting AudioManager.
 [Info   :Lethal Company API] LC_API Started!
 [Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
 [Info   :me.loaforc.soundapi] Splash screens done! Continuing pipeline
 [Warning:me.loaforc.soundapi] The game will freeze for a moment!
 [Info   :me.loaforc.soundapi] (Step 5) All file reads are done, waiting for the audio clips conversions.
-[Info   :me.loaforc.soundapi] (Step 6) Took 3ms to finish loading audio clips from files
-[Info   :me.loaforc.soundapi] Entire load process took an effective 19ms
-[Info   :LethalLevelLoader] Custom Content Processed. Unlocking Main Menu.
+[Info   :me.loaforc.soundapi] (Step 6) Took 4ms to finish loading audio clips from files
+[Info   :me.loaforc.soundapi] Entire load process took an effective 7ms
+[Info   :LethalLevelLoader] baykalscene.lethalbundle Unloaded (6.86s)
+[Info   :LethalLevelLoader] calypsolevel.lethalbundle Unloaded (6.87s)
+[Info   :LethalLevelLoader] espirascene.lethalbundle Unloaded (6.87s)
+[Info   :LethalLevelLoader] halationscene.lethalbundle Unloaded (6.89s)
+[Info   :LethalLevelLoader] lithiumscene.lethalbundle Unloaded (6.89s)
+[Info   :LethalLevelLoader] makronscene.lethalbundle Unloaded (6.91s)
+[Info   :LethalLevelLoader] mazonlevel.lethalbundle Unloaded (6.91s)
+[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Unloaded (6.93s)
+[Info   :LethalLevelLoader] praetorscene.lethalbundle Unloaded (6.93s)
+[Info   :LethalLevelLoader] prismscene.lethalbundle Unloaded (6.95s)
+[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Unloaded (6.95s)
 [Info   :LethalLevelLoader] Registering Bundle Content!
-[Info   :LethalLevelLoader] Skipped Registering 0 NetworkObjects As They Were Already Registered.
+[Info   :LethalLevelLoader] Skipped Registering 57 NetworkObjects As They Were Already Registered.
 [Info   :MaxWasUnavailable.LethalModDataLib] Registering ModDataAttribute fields...
 [Info   :MaxWasUnavailable.LethalModDataLib] Hooking up save, load and delete events...
 [Info   :MaxWasUnavailable.LethalModDataLib] ModDataHandler initialised!
@@ -221,6 +370,17 @@
 11. 68 Artifice (Vanilla)
 12. 44 Liquidation (Vanilla)
 13. 5 Embrion (Vanilla)
+14. 196 Baykal (Custom)
+15. 96 Calypso (Custom)
+16. 61 Espira (Custom)
+17. 64 Halation (Custom)
+18. Kaleidos (Custom)
+19. 62 Lithium (Custom)
+20. 276 Makron (Custom)
+21. 6 Mazon (Custom)
+22. Pandoramus (Custom)
+23. 186 Praetor (Custom)
+24. 646 Ultimatum (Custom)
 
 [Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedDungeonFlows:
 1. Facility (Level1Flow) (Vanilla)
@@ -228,8 +388,16 @@
 3. Facility (Level1FlowExtraLarge) (Vanilla)
 4. Facility (Level1Flow3Exits) (Vanilla)
 5. Mineshaft (Level3Flow) (Vanilla)
+6. Gray Apartments (GrayApartmentsFlow) (Custom)
+7. Zeranos Gray Apartments (GrayApartmentsFlowZ) (Custom)
+8. Raven Manor (RavenFlow) (Custom)
+9. Scarlet Basement (sdmBasement) (Custom)
+10. Scarlet Foyer (sdmFoyer) (Custom)
+11. SCP Foundation (SCPFlow) (Custom)
+12. Studio Floor (StudioFlow) (Custom)
+13. Sub Systems (SubSysFlow) (Custom)
 
-[Info   :LethalLevelLoader] Initialized LLL Save File, Current Level Was: ExperimentationLevel, Current Vanilla Save Is: LCSaveFile1
+[Info   :LethalLevelLoader] Initialized LLL Save File, Current Level Was: , Current Vanilla Save Is: LCSaveFile1
 [Info   :LethalLevelLoader] LethalLevelLoader Has Finished Initializing.
 [Info   :LethalLevelLoader] NetworkBundleManager Initializing.
 [Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
@@ -243,32 +411,213 @@
 [Warning:SoftMaskKiller] Preventing SoftMask from erroring because of an exception: System.NullReferenceException: Object reference not set to an instance of an object
   at SoftMasking.SoftMask.DestroyMaterials () [0x00000] in <f6d400b2730f4700aa0acc85707a1316>:IL_0000 
   at (wrapper dynamic-method) SoftMasking.SoftMask.DMD<SoftMasking.SoftMask::OnDisable>(SoftMasking.SoftMask)
-[Info   : LethalLib] Found 0 prefabs to fix
+[Info   : LethalLib] Found 2 prefabs to fix
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - finding suit prefab...
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - found suit prefab!
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - loading content modules...
-[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - loaded content modules! (count=0)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - attempting to load suits from path:C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - attempting to parse json file: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits\suit-defs.json
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - 	loaded suit def: Red Suit
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - 	loaded suit def: Yellow Suit
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - 	loaded suit def: Green Suit
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - 	loaded suit def: Blue Suit
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - 	loaded suit def: Purple Suit
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - 	loaded suit def: Pink Suit
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - 	loaded suit def: White Suit
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - 	loaded suit def: Black Suit
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - finished loading suits from path:C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - loaded content modules! (count=1)
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applying content modules...
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applying additional content module from: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits...
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=0_Red_Suit, name=Red Suit}...
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=0_Red_Suit, name=Red Suit}! (new unlockable count is 36)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=1_Yellow_Suit, name=Yellow Suit}...
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=1_Yellow_Suit, name=Yellow Suit}! (new unlockable count is 37)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=2_Green_Suit, name=Green Suit}...
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=2_Green_Suit, name=Green Suit}! (new unlockable count is 38)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=3_Blue_Suit, name=Blue Suit}...
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=3_Blue_Suit, name=Blue Suit}! (new unlockable count is 39)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=4_Purple_Suit, name=Purple Suit}...
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=4_Purple_Suit, name=Purple Suit}! (new unlockable count is 40)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=5_Pink_Suit, name=Pink Suit}...
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=5_Pink_Suit, name=Pink Suit}! (new unlockable count is 41)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=6_White_Suit, name=White Suit}...
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=6_White_Suit, name=White Suit}! (new unlockable count is 42)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - adding suit to rack {id=7_Black_Suit, name=Black Suit}...
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - added suit to rack {id=7_Black_Suit, name=Black Suit}! (new unlockable count is 43)
+[Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applyed additional content module from: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits!
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applied content modules!
 [Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
 [Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
 [Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
 [Info   :LethalLevelLoader] Saving Current SelectableLevel: 41 Experimentation
+[Warning:Classic Suit Restoration] Tried to add classic suit to unlockables list twice
 [Info   :JacobG5.JLL] [User] JLL Network Manager Initialized.
+[Info   :LethalFashion] SpawnUnlockable method found successfully.
+[Info   :LethalFashion] ID: 0, Name: Orange suit
+[Info   :LethalFashion] ID: 1, Name: Green suit
+[Info   :LethalFashion] ID: 2, Name: Hazard suit
+[Info   :LethalFashion] ID: 3, Name: Pajama suit
+[Info   :LethalFashion] ID: 4, Name: Cozy lights
+[Info   :LethalFashion] ID: 5, Name: Teleporter
+[Info   :LethalFashion] ID: 6, Name: Television
+[Info   :LethalFashion] ID: 7, Name: Cupboard
+[Info   :LethalFashion] ID: 8, Name: File Cabinet
+[Info   :LethalFashion] ID: 9, Name: Toilet
+[Info   :LethalFashion] ID: 10, Name: Shower
+[Info   :LethalFashion] ID: 11, Name: Light switch
+[Info   :LethalFashion] ID: 12, Name: Record player
+[Info   :LethalFashion] ID: 13, Name: Table
+[Info   :LethalFashion] ID: 14, Name: Romantic table
+[Info   :LethalFashion] ID: 15, Name: Bunkbeds
+[Info   :LethalFashion] ID: 16, Name: Terminal
+[Info   :LethalFashion] ID: 17, Name: Signal translator
+[Info   :LethalFashion] ID: 18, Name: Loud horn
+[Info   :LethalFashion] ID: 19, Name: Inverse Teleporter
+[Info   :LethalFashion] ID: 20, Name: JackOLantern
+[Info   :LethalFashion] ID: 21, Name: Welcome mat
+[Info   :LethalFashion] ID: 22, Name: Goldfish
+[Info   :LethalFashion] ID: 23, Name: Plushie pajama man
+[Info   :LethalFashion] ID: 24, Name: Purple Suit
+[Info   :LethalFashion] ID: 25, Name: Bee Suit
+[Info   :LethalFashion] ID: 26, Name: Bunny Suit
+[Info   :LethalFashion] ID: 27, Name: Disco Ball
+[Info   :LethalFashion] ID: 28, Name: Microwave
+[Info   :LethalFashion] ID: 29, Name: Sofa chair
+[Info   :LethalFashion] ID: 30, Name: Fridge
+[Info   :LethalFashion] ID: 31, Name: Classic painting
+[Info   :LethalFashion] ID: 32, Name: Electric chair
+[Info   :LethalFashion] ID: 33, Name: Dog house
+[Info   :LethalFashion] ID: 34, Name: Brown suit
+[Info   :LethalFashion] ID: 35, Name: Red Suit
+[Info   :LethalFashion] ID: 36, Name: Yellow Suit
+[Info   :LethalFashion] ID: 37, Name: Green Suit
+[Info   :LethalFashion] ID: 38, Name: Blue Suit
+[Info   :LethalFashion] ID: 39, Name: Purple Suit
+[Info   :LethalFashion] ID: 40, Name: Pink Suit
+[Info   :LethalFashion] ID: 41, Name: White Suit
+[Info   :LethalFashion] ID: 42, Name: Black Suit
 [Info   :LCCutscene] Cutscene Manager initialized!
 [Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (1)
 [Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (3)
 [Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (2)
 [Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player
+[Info   : LethalLib] Skipping Chair because it was already added
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Masked!
+[Warning:   DawnLib] Enemy Clay Surgeon is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] MapObject Fern2 is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] MapObject DeadBush is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] MapObject Fern2 is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] MapObject BushyGrass is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] MapObject DeadBush is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_Start() Function To Prevent Conflicts
 [Info   :Solid's Library] Created SolidLibUtils. Scene is: 'SampleSceneRelay'
 [Warning:Lethal Company API] Asking all other players for their mod list..
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 2)
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (2 / 2)
+[Info   :ReservedItemSlotCore-2.0.52] Receiving sync request from client: 1
+[Info   :ReservedItemSlotCore-2.0.52] Sending sync to client with id: 1
+[Info   :ReservedItemSlotCore-2.0.52] Receiving sync held objects request from client with id: 1. 0 players are currently holding a reserved item.
+[Warning:Lethal Company API] Asking all other players for their mod list..
+[Warning:Lethal Company API] Matheus responded with these mods:
+.LCMaxSoundsFix
+1.Waga.JigglePhysicsPlugin
+ACS.AdditionalContentFramework
+ainavt.lc.lethalconfig
+antlershed.lethalcompany.enemyskinregistry
+AntlerShed.LethalCompany.EnemySkinKit
+atk.lethalcompany.laternights
+AudioKnight.StarlancerAIFix
+evaisa.lethallib
+BakaMODs.VaiTerCebola
+butterystancakes.lethalcompany.barberfixes
+butterystancakes.lethalcompany.classicsuitrestoration
+butterystancakes.lethalcompany.maskfixes
+butterystancakes.lethalcompany.meleefixes
+butterystancakes.lethalcompany.restorelasso
+butterystancakes.lethalcompany.upturnedvariety
+ccode.chair
+Ccode.SirenHead
+Chaos.LCCutscene
+com.fumiko.CullFactory
+com.github.lethalcompanymodding.vertexlibrary
+Zaggy1024.PathfindingLib
+com.github.teamxiaolan.dawnlib
+me.loaforc.soundapi
+com.github.teamxiaolan.dawnlib.compatibility
+com.github.teamxiaolan.dawnlib.dusk
+com.github.WhiteSpike.MoonDaySpeedMultiplierPatcher
+com.rune580.LethalCompanyInputUtils
+com.sigurd.csync
+com.willis.lc.lethalsettings
+CustomSounds
+dev.kittenji.NavMeshInCompany
+MaxWasUnavailable.LethalModDataLib
+imabatby.lethallevelloader
+dev.ladyalice.dungenplus
+dev.ladyalice.dungenplus.loadstonepatch
+dev.ladyalice.scarletmansion.foyer
+dev.ladyalice.scarletmansion.basement
+dev.ladyalice.scarletmansion
+dev.ladyalice.scarletmansion.coronerpatch
+dev.ladyalice.scarletmansion.mimicspatch
+discount.alert
+FlipMods.ReservedItemSlotCore
+ImmortalSnail
+io.daxcess.nojumpdelay
+JacobG5.JLL
+JacobG5.JLLItemModule
+JacobG5.WesleyMoonScripts
+LC_API_V50
+LCSoundTool
+LethalFashion
+LethalNetworkAPI
+MaskedEnemyRework
+Neekhaulas.Backrooms
+NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
+NoteBoxz.NotezyLib
+pacoito.itolib
+qwbarch.Mirage.Core
+SCPCBDunGen
+solidlib
+SoulDev
+taffyko.BetterSprayPaint
+TestAccount666.TestAccountCore
+VirusTLNR.MaskedInvisFix
+WhiteSpike.InteractiveTerminalAPI
+XuuXiaolan.SoftMaskKiller
+Yorimor.CustomStoryLogs
 [Info   :LethalLevelLoader] Getting Random DungeonFlows!
 [Info   :LethalLevelLoader] ExtendedLevel <-> ExtendedDungeonFlow Dynamic Matching Report.
 
 Info For ExtendedLevel: ExperimentationExtendedLevel | Planet Name: Experimentation | Content Tags: Free, Wasteland, Vanilla | Route Price: 0 | Current Weather: None
-Unviable ExtendedDungeonFlows: Facility, Facility
-Viable ExtendedDungeonFlows: Facility (300), Mineshaft (3), Haunted Mansion (1)
+Unviable ExtendedDungeonFlows: Facility, Facility, Zeranos Gray Apartments, Raven Manor, Scarlet Basement, Scarlet Foyer, SCP Foundation
+Viable ExtendedDungeonFlows: Sub Systems (300), Facility (300), Studio Floor (50), Gray Apartments (25), Mineshaft (3), Haunted Mansion (1)
 
 [Info   :LethalLevelLoader] Setting Random DungeonFlows!
 [Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_GenerateNewFloor() Function To Prevent Conflicts
@@ -281,12 +630,24 @@ Alternate Entrance: EntranceTeleportB (Entrance ID: 1)
 Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawn rate Count From (1,1) To (1,1)
 
 
-[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Experimentation ,Facility ,Quota: 0 , Day: 1 , Weather: None
-[Info   :CullFactory] Generation has completed with seed 20100752.
-[Info   :CullFactory] Preparing tile information for Level1Flow took 32.852ms
+[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Experimentation ,Sub Systems ,Quota: 0 , Day: 1 , Weather: None
+[Info   :VaiTerCebola] Encontrados 57 pontos de spawn. Spawning de 4 cebolas...
+[Info   :VaiTerCebola] 4 cebolas foram adicionadas ao mapa!
+[Info   :CullFactory] Generation has completed with seed 45374207.
+[Info   :CullFactory] Preparing tile information for SubSysFlow took 29.785ms
+[Info   :MaskedEnemyRework] Starting Round Manager
+[Info   :MaskedEnemyRework] no zombies :(
 [Info   :Starlancer AI Fix] Finding outside AI nodes.
 [Info   :Starlancer AI Fix] Finding inside AI nodes.
+[Info   :Starlancer AI Fix] RedLocustBees(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 3
+[Info   :Starlancer AI Fix] Removing RedLocustBees(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 2
 [Info   :Starlancer AI Fix] DoublewingedBird(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 1
+Previous daytime power level is 2
 [Info   :Starlancer AI Fix] Removing DoublewingedBird(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 1
+[Info   :Starlancer AI Fix] DocileLocustBees(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 1
+[Info   :Starlancer AI Fix] Removing DocileLocustBees(Clone)'s power (1) from the RoundManager; 
 Current daytime power level is 0
