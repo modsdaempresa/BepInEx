@@ -51,7 +51,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 87 plugins to load
+[Info   :   BepInEx] 105 plugins to load
 [Info   :   BepInEx] Loading [LCMaxSoundsFix 1.2.0]
 [Info   :LCMaxSoundsFix] Plugin LCMaxSoundsFix is loaded!
 [Info   :LCMaxSoundsFix] Audio settings (numRealVoices=128; numVirtualVoices=1024) are applied.
@@ -99,6 +99,22 @@
 [Info   :   BepInEx] Loading [CullFactory 2.0.3]
 [Info   :CullFactory] Loaded CullFactory's Burst assembly.
 [Info   :   BepInEx] Loading [VertexLibrary 1.1.0]
+[Info   :   BepInEx] Loading [MaxWasUnavailable.LethalModDataLib 1.2.2]
+[Info   :MaxWasUnavailable.LethalModDataLib] Plugin MaxWasUnavailable.LethalModDataLib is loaded!
+[Info   :   BepInEx] Loading [LethalLevelLoader 1.5.1]
+[Info   :LethalLevelLoader] LethalLevelLoader loaded!!
+[Info   :LethalLevelLoader] evaisa.lethallibfound, enabling compatability patches.
+[Info   :LethalLevelLoader] LethalBundleManger: Starting!
+[Info   :LethalLevelLoader] LethalBundleManger: Now Loading Bundles!
+[Info   :LethalLevelLoader] Config Level Set As: User
+[Info   :   BepInEx] Loading [RuntimeIcons 0.3.3]
+[Info   :RuntimeIcons] Initializing Configs
+[Info   :RuntimeIcons] Loading Compute shader
+[Info   :RuntimeIcons] Preparing Stage
+[Info   :RuntimeIcons] Loading Overrides
+[Info   :RuntimeIcons] Loading Icons
+[Info   :RuntimeIcons] Patching Methods
+[Info   :RuntimeIcons] RuntimeIcons v0.3.3 Loaded!
 [Info   :   BepInEx] Loading [PathfindingLib 2.4.1]
 [Info   :   BepInEx] Loading [DawnLib 0.2.16]
 [Info   :   DawnLib] [ExtendedTOML] Registered converter for 'BoundedRange'
@@ -121,24 +137,45 @@
 [Info   :DawnLib.DuskMod] com.github.teamxiaolan.dawnlib.dusk v0.2.16 has loaded!
 [Info   :   BepInEx] Loading [Moon Day Speed Multiplier Patcher 1.0.0]
 [Info   :Moon Day Speed Multiplier Patcher] Moon Day Speed Multiplier Patcher 1.0.0 has been loaded successfully.
+[Info   :   BepInEx] Loading [CSync 5.0.1]
+[Info   :     CSync] CSync successfully applied patches.
 [Info   :   BepInEx] Loading [Lethal Company Input Utils 0.7.12]
 [Info   :Lethal Company Input Utils] Registered InputUtilsExtendedMouse Layout Override!
 [Info   :Lethal Company Input Utils] InputUtils 0.7.12 has finished loading!
-[Info   :   BepInEx] Loading [CSync 5.0.1]
-[Info   :     CSync] CSync successfully applied patches.
+[Info   :   BepInEx] Loading [Interactive Terminal API 1.2.0]
+[Info   :Interactive Terminal API] Game managers have been patched
+[Info   :Interactive Terminal API] Interactive Terminal API 1.2.0 has been loaded successfully.
+[Info   :   BepInEx] Loading [More Ship Upgrades 3.12.8]
+[Info   :More Ship Upgrades] Registed sample for the enemy "centipede"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "bunker spider"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "hoarding bug"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "flowerman"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "mouthdog"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "baboon hawk"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "crawler"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "forestgiant"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "manticoil"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "tulip snake"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "bush wolf"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "puffer"...
+[Info   :More Ship Upgrades] Registed sample for the enemy "maneater"...
+[Info   :More Ship Upgrades] Items have been setup
+[Info   :More Ship Upgrades] Commands have been setup
+[Info   :More Ship Upgrades] Upgrades have been setup
+[Info   :More Ship Upgrades] Enemies have been patched
+[Info   :More Ship Upgrades] HUD has been patched
+[Info   :More Ship Upgrades] Interactables have been patched
+[Info   :More Ship Upgrades] Items have been patched
+[Info   :More Ship Upgrades] Game managers have been patched
+[Info   :More Ship Upgrades] Weathers have been patched
+[Info   :More Ship Upgrades] More Ship Upgrades 3.12.8 has been loaded successfully.
 [Info   :   BepInEx] Loading [LethalSettings 1.4.1]
 [Info   :   BepInEx] Loading [Custom Sounds 2.3.2]
 [Info   :CustomSounds] "HideManagerGameObject" is correctly set to true.
 [Info   :CustomSounds] Plugin CustomSounds is loaded!
+[Info   :   BepInEx] Loading [longerDay 1.0.0]
+[Info   :longerDayLog] time speed = 0.5
 [Info   :   BepInEx] Loading [NavMeshInCompany 1.0.3]
-[Info   :   BepInEx] Loading [MaxWasUnavailable.LethalModDataLib 1.2.2]
-[Info   :MaxWasUnavailable.LethalModDataLib] Plugin MaxWasUnavailable.LethalModDataLib is loaded!
-[Info   :   BepInEx] Loading [LethalLevelLoader 1.5.1]
-[Info   :LethalLevelLoader] LethalLevelLoader loaded!!
-[Info   :LethalLevelLoader] evaisa.lethallibfound, enabling compatability patches.
-[Info   :LethalLevelLoader] LethalBundleManger: Starting!
-[Info   :LethalLevelLoader] LethalBundleManger: Now Loading Bundles!
-[Info   :LethalLevelLoader] Config Level Set As: User
 [Info   :   BepInEx] Loading [Dungeon Generation Plus 1.4.1]
 [Info   :dev.ladyalice.dungenplus] Plugin Dungeon Generation Plus has been added!
 [Info   :   BepInEx] Loading [Dungeon Generation Plus Loadstone Patch 1.0.0]
@@ -148,6 +185,29 @@
 [Info   :   BepInEx] Loading [Scarlet Basement 1.0.0]
 [Info   :dev.ladyalice.scarletmansion.basement] Plugin Scarlet Basement has been added!
 [Info   :dev.ladyalice.scarletmansion.basement] Lethal config compability patch added!
+[Info   :   BepInEx] Loading [FacilityMeltdown 2.7.3]
+[Info   :me.loaforc.facilitymeltdown] Assets.Init               == Getting assets
+[Info   :me.loaforc.facilitymeltdown] LangParser.Init           == Getting possible languages
+[Info   :me.loaforc.facilitymeltdown] new MeltdownConfig()      == Setting up config
+[Info   :me.loaforc.facilitymeltdown] Loading language: English (en)
+[Info   :me.loaforc.facilitymeltdown] Loaded English
+[Info   :me.loaforc.facilitymeltdown] LangParser.SetLanguage    == Setting language
+[Info   :me.loaforc.facilitymeltdown] RegisterPatches           == Integrating into LethalCompany
+[Info   :me.loaforc.facilitymeltdown] RegisterNetworking        == Making sure everything is networked
+[Info   :me.loaforc.facilitymeltdown] Registering Items
+[Info   :me.loaforc.facilitymeltdown] RegisterItems             == Adding the Geiger Counter
+[Info   :me.loaforc.facilitymeltdown] CompatibleDependency.Init == Checking for any soft dependencies
+[Info   :me.loaforc.facilitymeltdown] FacilityMeltdown:2.7.3 by loaforc has loaded! have fun :3
+[Info   :me.loaforc.facilitymeltdown]          .-_; ;_-.          
+[Info   :me.loaforc.facilitymeltdown]         / /     \ \        
+[Info   :me.loaforc.facilitymeltdown]        | |       | |      
+[Info   :me.loaforc.facilitymeltdown]         \ \.---./ /       
+[Info   :me.loaforc.facilitymeltdown]   .-\""~   .---.   ~""-.
+[Info   :me.loaforc.facilitymeltdown]  ,`.-~// .'`---`'. \\~-.`,
+[Info   :me.loaforc.facilitymeltdown]  ' `   | | \(_)/ | |   `' 
+[Info   :me.loaforc.facilitymeltdown]   ,    \  \ | | /  /    , 
+[Info   :me.loaforc.facilitymeltdown]   ;`'.,_\  `-'-'  /_,.'`; 
+[Info   :me.loaforc.facilitymeltdown]    '-._  _.-'^'-._  _.-'    
 [Info   :   BepInEx] Loading [ReservedItemSlotCore 2.0.52]
 [Info   :ReservedItemSlotCore-2.0.52] BindingConfigs
 [Info   :ReservedItemSlotCore-2.0.52] ReservedItemSlotCore loaded
@@ -160,6 +220,7 @@
 [Info   :dev.ladyalice.scarletmansion] Loading compability patch for ainavt.lc.lethalconfig
 [Info   :dev.ladyalice.scarletmansion] Loading compability patch for ainavt.lc.lethalconfig
 [Info   :dev.ladyalice.scarletmansion] Loading compability patch for ainavt.lc.lethalconfig
+[Info   :dev.ladyalice.scarletmansion] Loading compability patch for me.loaforc.facilitymeltdown
 [Info   :dev.ladyalice.scarletmansion] Loading compability patch for FlipMods.ReservedFlashlightSlot
 [Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for sdmFoyer
 [Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for sdmBasement
@@ -405,13 +466,27 @@
 [Info   :JacobG5.JLL] Netcode Successfully Patched!
 [Info   :JacobG5.JLL] JLL Logging Level set to: User
 [Info   :JacobG5.JLL] [User] Searching for Bundles and JSONs....
-[Info   :JacobG5.JLL] [User] Finished reading 0 files.
+[Warning:JacobG5.JLL] [User] Error Parsing C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\PolarusModConfigsJLLMod.json
+System.ArgumentException: Cannot use any of the following characters in section and key names: = \n \t \ " ' [ ]
+Parameter name: key
+  at BepInEx.Configuration.ConfigDefinition.CheckInvalidConfigChars (System.String val, System.String name) [0x0004b] in <cebe69d7792f4abca78b685257766c60>:IL_004B 
+  at BepInEx.Configuration.ConfigDefinition..ctor (System.String section, System.String key) [0x00011] in <cebe69d7792f4abca78b685257766c60>:IL_0011 
+  at BepInEx.Configuration.ConfigFile.Bind[T] (System.String section, System.String key, T defaultValue, System.String description) [0x00000] in <cebe69d7792f4abca78b685257766c60>:IL_0000 
+  at JLL.API.CustomConfigEntry.RegisterConfig[T] (JLL.ScriptableObjects.JLLMod+ConfigValue`1[T] config) [0x000ce] in <b3bd5c7c7c6144c5a2c1a6dac792c127>:IL_00CE 
+  at JLL.API.CustomConfigRegistry.RegisterMod (JLL.ScriptableObjects.JLLMod mod) [0x0005d] in <b3bd5c7c7c6144c5a2c1a6dac792c127>:IL_005D 
+  at JLL.API.JFileHelper.LoadFilesInPlugins () [0x000af] in <b3bd5c7c7c6144c5a2c1a6dac792c127>:IL_00AF 
+[Info   :JacobG5.JLL] [User] Finished reading 5 files.
 [Info   :   BepInEx] Loading [JLLItemModule 1.3.4]
 [Info   :JacobG5.JLL] Netcode Successfully Patched!
+[Info   :   BepInEx] Loading [WesleyMoons 2.0.0]
+[Info   :JacobG5.WesleyMoons] Netcode Successfully Patched!
 [Info   :   BepInEx] Loading [WesleyMoonScripts 1.1.5]
 [Info   :JacobG5.WesleyMoonScripts] Netcode Successfully Patched!
 [Info   :   BepInEx] Loading [YPlayBoombox 2.3.9]
-[Info   :YPlayBoombox] Downloading tools...
+[Info   :YPlayBoombox] Successfully loaded tools
+[Info   :   BepInEx] Loading [FootballEntity 1.1.13]
+[Info   :   BepInEx] Loading [HerobrineMod 1.3.7]
+[Info   :HerobrineMod] Contains Company Navigation: True
 [Info   :   BepInEx] Loading [Lethal Company API 3.4.12]
 [Warning:Lethal Company API] 
 .____    _________           _____  __________ .___  
@@ -422,30 +497,128 @@
         \/       \//_____/        \/                 
                                                      
 [Info   :Lethal Company API] LC_API Starting up..
+[Info   :   BepInEx] Loading [LCBetterSaves 1.7.3]
+[Info   :LCBetterSaves] Plugin LCBetterSaves is loaded!
 [Info   :   BepInEx] Loading [LC Sound Tool 1.5.1]
 [Info   :LCSoundTool] Plugin LCSoundTool is loaded!
+[Info   :   BepInEx] Loading [MoreItems 8.7.0]
 [Info   :   BepInEx] Loading [LethalFashion 1.0.8]
 [Info   :LethalFashion] Plugin LethalFashion is loaded!
 [Info   :LethalFashion] Patch applied successfully. You are now FASHIONABLE.
+[Info   :   BepInEx] Loading [itolib 0.5.1]
+[Info   :    itolib] itolib v0.5.1 loaded!
+[Info   :   BepInEx] Loading [BozorosPlugin 2.6.0]
+[Info   :BozorosPlugin] 'BozorosPlugin' loaded!
+[Info   :   BepInEx] Loading [PlayZone 1.1.3]
+[Info   :  PlayZone] PlayZone v1.1.3 loaded!
 [Info   :   BepInEx] Loading [LethalNetworkAPI 3.3.2]
 [Info   :LethalNetworkAPI] LethalNetworkAPI v3.3.2 has Loaded.
+[Info   :   BepInEx] Loading [MoreCompany 1.12.0]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Loading SETTINGS...
+[Info   :MoreCompany] Checking: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Loading COSMETICS...
+[Info   :MoreCompany] Loading DEFAULT COSMETICS...
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle: morecompany.cosmetics
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.ballcannon from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.cardboardcrown from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.lasergun from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: lethalmatt.laservest from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreCompanyCosmetics\playzone.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.burningflamesteamcaptain from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\burningflamesteamcaptain.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.dominusempyreus from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\dominusempyreus.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.maxwell from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\maxwell.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.oscar from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\oscar.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.tbhcreature from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\tbhcreature.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.toweringpillarofhats from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\toweringpillarofhats.cosmetics
+[Info   :MoreCompany] Loaded cosmetic: wackycosmetics.valkyriehelm from bundle: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\valkyriehelm.cosmetics
+[Info   :MoreCompany] Loaded MoreCompany FULLY
 [Info   :   BepInEx] Loading [MaskedEnemyRework 3.4.0]
 [Info   :MaskedEnemyRework] Plugin MaskedEnemyRework is loaded! Woohoo!
 [Info   :   BepInEx] Loading [Elads HUD 1.2.3]
 [Info   : Elads HUD] Plugin Elad's HUD is loaded!
+[Info   :   BepInEx] Loading [MoreHead 1.2.5]
+[Info   :  MoreHead] MoreHead OK
+[Info   :  MoreHead] MoreHead Asset OK
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.yan
+[Warning:  MoreHead] fanxiangyanlizi ok.
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.fanxiangyan
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.cathead
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.pighead
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.caomao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.xiangsuyanjing
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.shuimao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.xiguatou
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.dallas
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.shoulian
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.biao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.heiweijin
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.jinshouhuan
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.mianzhao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.koushuibu
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.kunkuntou
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.yashua
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.yuguaqi
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.douli1
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.douli2
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.wula1
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.dao2077
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.wabao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.maoerbao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.tanxianbao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.dongdesiduiyou
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.matou
+[Info   :   BepInEx] Loading [Hide Chat 1.0.0]
 [Info   :   BepInEx] Loading [MoreItems 1.0.2]
 [Info   : MoreItems] Plugin MoreItems is loaded!
+[Info   :   BepInEx] Loading [Wesley's interior shenanigans 1.0.0]
+[Error  :The man in the rubber rooms] You made a mistake.. but it's fine.. the world will survive.. I think..
+[Error  :The man in the rubber rooms] Maybe not.
 [Info   :   BepInEx] Loading [Backrooms 0.1.3]
 [Info   : Backrooms] Plugin Backrooms is loaded!
 [Info   :   BepInEx] Loading [RuntimeNetcodeRPCValidator 0.2.5]
+[Info   :   BepInEx] Loading [Rolling Giant 2.6.0]
+[Info   :Rolling Giant] Config reloaded.
+[Message:Rolling Giant] Settings version is up to date (11 == 11)
+[Info   :Rolling Giant] Plugin RollingGiant is loaded!
 [Info   :   BepInEx] Loading [NotezyLib 0.1.5]
 [Info   : NotezyLib] NoteBoxz.NotezyLib v0.1.5 has loaded!
-[Info   :   BepInEx] Loading [itolib 0.5.1]
-[Info   :    itolib] itolib v0.5.1 loaded!
+[Info   :   BepInEx] Loading [LCOffice 2.3.4]
+[Info   :Piggy.LCOffice] LC_Office is loaded!
+[Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for OfficeDungeonFlow
+[Info   :Piggy.LCOffice] Office registered with Length: (min: 2, max: 3) BranchCount: (min: 1, max: 3)
+[Info   :LethalLevelLoader] Found ExtendedMod: LCOfficeMod
+[Info   :  LCOffice] [LC_Office] Successfully loaded assets!
+[Info   :Piggy.LCOffice] Netcode Successfully Patched!
+[Info   :   BepInEx] Loading [PiggyVarietyMod 1.3.19]
+[Info   :PiggyVarietyMod] Successfully loaded assets!
+[Info   :Piggy.PiggyVarietyMod] Piggy's Variety Mod is loaded
+[Info   :Piggy.PiggyVarietyMod] Netcode Successfully Patched!
 [Info   :   BepInEx] Loading [Mirage.Core 1.0.4]
 [Info   :   BepInEx] Loading [Scopophobia 1.1.5]
 [Info   :Scopophobia] Scopophobia | SCP-096 has entered the facility. All remaining personnel proceed with caution.
 [Info   :   BepInEx] Loading [SCPCBDunGen 4.3.5]
+[Info   :SCPCBDunGen] PiggysVarietyMod detected and compatibility layer enabled! Adding tesla gate room.
 [Info   :SCPCBDunGen] SCP:CB DunGen for Lethal Company [Version 4.3.5] successfully loaded.
 [Info   :SCPCBDunGen] SCPCBDunGen v4.3.5 has loaded!
 [Info   :   BepInEx] Loading [Solid's Library 1.2.1]
@@ -469,9 +642,6 @@
 [Info   :TestAccountCore] TestAccount666.TestAccountCore v1.14.4 has loaded!
 [Info   :   BepInEx] Loading [MaskedInvisFix 0.0.2]
 [Info   :MaskedInvisFix] VirusTLNR.MaskedInvisFix v0.0.2 has loaded!
-[Info   :   BepInEx] Loading [Interactive Terminal API 1.2.0]
-[Info   :Interactive Terminal API] Game managers have been patched
-[Info   :Interactive Terminal API] Interactive Terminal API 1.2.0 has been loaded successfully.
 [Info   :   BepInEx] Loading [SoftMaskKiller 0.0.1]
 [Info   :SoftMaskKiller] Initializing Configs
 [Info   :SoftMaskKiller] Patching Methods
@@ -479,68 +649,243 @@
 [Info   :   BepInEx] Loading [CustomStoryLogs 1.5.2]
 [Error  :CustomStoryLogs] Failed to load custom assets.
 [Info   :me.loaforc.soundapi] Starting Sound-pack loading pipeline
-[Info   :me.loaforc.soundapi] (Step 1) Loading Sound-pack definitions took 4ms
-[Warning:me.loaforc.soundapi] No sound-packs were found to load! This can be ignorable if you're doing testing or using SoundAPI for another purpose, but if you expected sound-packs to load you may have set it up incorrectly.
-[Info   :me.loaforc.soundapi] (Step 2) Loading Sound-pack mappings ('0') took 0ms
+[Warning:soundpack.FacilityMeltdown_Mappings] 1 warning(s) while loading 'C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\FacilityMeltdown\sound_pack.json': 
+[Warning:soundpack.FacilityMeltdown_Mappings] WARN: 'version' should not be empty, defaulting to '1.0.0' (needed by MetadataSpoofing config)
+[Info   :me.loaforc.soundapi] (Step 1) Loading Sound-pack definitions took 13ms
+[Info   :me.loaforc.soundapi] (Step 2) Loading Sound-pack mappings ('2') took 3ms
 [Info   :me.loaforc.soundapi] (Step 3) Skipped 0 collection(s), 0 replacement(s), 0 sound(s)
-[Info   :me.loaforc.soundapi] (Step 3) Loading sound replacement collections took 0ms
+[Info   :me.loaforc.soundapi] (Step 3) Loading sound replacement collections took 1ms
 [Info   :me.loaforc.soundapi] (Step 4) Started loading 0 audio file(s)
 [Info   :me.loaforc.soundapi] Waiting for splash screens to complete to continue...
 [Message:   BepInEx] Chainloader startup complete
-[Info   :LethalLevelLoader] halationmoon.lethalbundle Loaded (22.10s)!
-[Info   :LethalLevelLoader] baykalmoon.lethalbundle Loaded (22.15s)!
-[Info   :LethalLevelLoader] lithiummoon.lethalbundle Loaded (22.20s)!
-[Info   :LethalLevelLoader] makronmoon.lethalbundle Loaded (22.23s)!
-[Info   :LethalLevelLoader] calypsomoon.lethalbundle Loaded (22.25s)!
-[Info   :LethalLevelLoader] pandoramusmoon.lethalbundle Loaded (22.35s)!
-[Info   :LethalLevelLoader] praetormoon.lethalbundle Loaded (22.46s)!
-[Info   :LethalLevelLoader] dungeon_ravenmanor.lethalbundle Loaded (22.87s)!
-[Info   :LethalLevelLoader] mazonmoon.lethalbundle Loaded (23.07s)!
-[Info   :LethalLevelLoader] dungeon_studio.lethalbundle Loaded (23.30s)!
-[Info   :LethalLevelLoader] prismmoon.lethalbundle Loaded (23.32s)!
-[Info   :LethalLevelLoader] lithiumscene.lethalbundle Loaded (23.32s)!
-[Info   :LethalLevelLoader] rockwellmoon.lethalbundle Loaded (23.35s)!
-[Info   :LethalLevelLoader] ultimatummoon.lethalbundle Loaded (23.36s)!
-[Info   :LethalLevelLoader] praetorscene.lethalbundle Loaded (23.36s)!
-[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Loaded (23.36s)!
-[Info   :LethalLevelLoader] mazonlevel.lethalbundle Loaded (23.36s)!
-[Info   :LethalLevelLoader] dungeon_grayapartments.lethalbundle Loaded (23.92s)!
-[Info   :LethalLevelLoader] espiramoon.lethalbundle Loaded (24.59s)!
-[Info   :LethalLevelLoader] espirascene.lethalbundle Loaded (24.59s)!
-[Info   :LethalLevelLoader] dungeon_subsystem.lethalbundle Loaded (24.80s)!
-[Info   :LethalLevelLoader] calypsolevel.lethalbundle Loaded (24.80s)!
-[Info   :LethalLevelLoader] makronscene.lethalbundle Loaded (24.80s)!
-[Info   :LethalLevelLoader] baykalscene.lethalbundle Loaded (24.80s)!
-[Info   :LethalLevelLoader] prismscene.lethalbundle Loaded (24.80s)!
-[Info   :LethalLevelLoader] halationscene.lethalbundle Loaded (24.80s)!
-[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Loaded (24.80s)!
-[Info   :LethalLevelLoader] rockwellscene.lethalbundle Loaded (24.80s)!
-[Info   :LethalLevelLoader] genericinterior.lethalbundle Loaded (26.34s)!
+[Info   :LethalLevelLoader] baykalmoon.lethalbundle Loaded (58.31s)!
+[Info   :LethalLevelLoader] artmuseumart.lethalbundle Loaded (58.32s)!
+[Info   :LethalLevelLoader] asteroid13.lethalbundle Loaded (58.39s)!
+[Info   :LethalLevelLoader] baykalscene.lethalbundle Loaded (58.39s)!
+[Info   :LethalLevelLoader] asteroid14.lethalbundle Loaded (58.45s)!
+[Info   :LethalLevelLoader] calypsomoon.lethalbundle Loaded (58.48s)!
+[Info   :LethalLevelLoader] berunah.lethalbundle Loaded (58.50s)!
+[Info   :LethalLevelLoader] alcatras.lethalbundle Loaded (58.56s)!
+[Info   :LethalLevelLoader] atlantica.lethalbundle Loaded (58.84s)!
+[Info   :LethalLevelLoader] asteroid14scene.lethalbundle Loaded (58.85s)!
+[Info   :LethalLevelLoader] atlanticascenes.lethalbundle Loaded (58.85s)!
+[Info   :LethalLevelLoader] alcatrasscene.lethalbundle Loaded (58.85s)!
+[Info   :LethalLevelLoader] calypsolevel.lethalbundle Loaded (58.85s)!
+[Info   :LethalLevelLoader] calistscene.lethalbundle Loaded (58.85s)!
+[Info   :LethalLevelLoader] core.lethalbundle Loaded (58.87s)!
+[Info   :LethalLevelLoader] calist.lethalbundle Loaded (58.98s)!
+[Info   :LethalLevelLoader] cosmocositems.lethalbundle Loaded (59.02s)!
+[Info   :LethalLevelLoader] cosmocos.lethalbundle Loaded (59.38s)!
+[Info   :LethalLevelLoader] asteroid13scenes.lethalbundle Loaded (59.38s)!
+[Info   :LethalLevelLoader] cubatres.lethalbundle Loaded (59.41s)!
+[Info   :LethalLevelLoader] corescene.lethalbundle Loaded (59.41s)!
+[Info   :LethalLevelLoader] atlanticdungeoninterior.lethalbundle Loaded (60.25s)!
+[Info   :LethalLevelLoader] demetrica.lethalbundle Loaded (60.40s)!
+[Info   :LethalLevelLoader] berunahscene.lethalbundle Loaded (60.40s)!
+[Info   :LethalLevelLoader] cosmocosscene.lethalbundle Loaded (60.40s)!
+[Info   :LethalLevelLoader] crowed.lethalbundle Loaded (60.52s)!
+[Info   :LethalLevelLoader] end.lethalbundle Loaded (60.59s)!
+[Info   :LethalLevelLoader] dungeon_ravenmanor.lethalbundle Loaded (60.99s)!
+[Info   :LethalLevelLoader] demetricascene.lethalbundle Loaded (61.00s)!
+[Info   :LethalLevelLoader] empra.lethalbundle Loaded (61.00s)!
+[Info   :LethalLevelLoader] dungeon_studio.lethalbundle Loaded (61.16s)!
+[Info   :LethalLevelLoader] desolation.lethalbundle Loaded (61.21s)!
+[Info   :LethalLevelLoader] descent.lethalbundle Loaded (61.22s)!
+[Info   :LethalLevelLoader] dungeon_grayapartments.lethalbundle Loaded (61.66s)!
+[Info   :LethalLevelLoader] cubatresscene.lethalbundle Loaded (61.66s)!
+[Info   :LethalLevelLoader] desolationscenes.lethalbundle Loaded (61.66s)!
+[Info   :LethalLevelLoader] dungeon_subsystem.lethalbundle Loaded (61.87s)!
+[Info   :LethalLevelLoader] espiramoon.lethalbundle Loaded (62.11s)!
+[Info   :LethalLevelLoader] artmuseumscene.lethalbundle Loaded (62.11s)!
+[Info   :LethalLevelLoader] faith.lethalbundle Loaded (62.13s)!
+[Info   :LethalLevelLoader] crowedscene.lethalbundle Loaded (62.13s)!
+[Info   :LethalLevelLoader] etern.lethalbundle Loaded (62.15s)!
+[Info   :LethalLevelLoader] espirascene.lethalbundle Loaded (62.15s)!
+[Info   :LethalLevelLoader] fission.lethalbundle Loaded (62.18s)!
+[Info   :LethalLevelLoader] endscene.lethalbundle Loaded (62.18s)!
+[Info   :LethalLevelLoader] emprascene.lethalbundle Loaded (62.18s)!
+[Info   :LethalLevelLoader] descentscene.lethalbundle Loaded (62.18s)!
+[Info   :LethalLevelLoader] filitrios.lethalbundle Loaded (62.45s)!
+[Info   :LethalLevelLoader] halationmoon.lethalbundle Loaded (62.47s)!
+[Info   :LethalLevelLoader] artmuseum.lethalbundle Loaded (62.63s)!
+[Info   :LethalLevelLoader] gloom.lethalbundle Loaded (62.66s)!
+[Info   :LethalLevelLoader] hydrene.lethalbundle Loaded (62.68s)!
+[Info   :LethalLevelLoader] faithscene.lethalbundle Loaded (62.68s)!
+[Info   :LethalLevelLoader] fissionscenes.lethalbundle Loaded (62.68s)!
+[Info   :LethalLevelLoader] gratar.lethalbundle Loaded (62.72s)!
+[Info   :LethalLevelLoader] extendedmineshaft.lethalbundle Loaded (63.06s)!
+[Info   :LethalLevelLoader] halationscene.lethalbundle Loaded (63.07s)!
+[Info   :LethalLevelLoader] fracturedcomplex.lethalbundle Loaded (63.63s)!
+[Info   :LethalLevelLoader] infernis.lethalbundle Loaded (63.66s)!
+[Info   :LethalLevelLoader] lithiummoon.lethalbundle Loaded (63.66s)!
+[Info   :LethalLevelLoader] greenhouseinterior.lethalbundle Loaded (64.00s)!
+[Info   :LethalLevelLoader] junic.lethalbundle Loaded (64.03s)!
+[Info   :LethalLevelLoader] makronmoon.lethalbundle Loaded (64.04s)!
+[Info   :LethalLevelLoader] lecaro.lethalbundle Loaded (64.08s)!
+[Info   :LethalLevelLoader] gloomscenes.lethalbundle Loaded (64.08s)!
+[Info   :LethalLevelLoader] kryte.lethalbundle Loaded (64.10s)!
+[Info   :LethalLevelLoader] filitriosscene.lethalbundle Loaded (64.10s)!
+[Info   :LethalLevelLoader] eternscenes.lethalbundle Loaded (64.10s)!
+[Info   :LethalLevelLoader] mazonmoon.lethalbundle Loaded (64.25s)!
+[Info   :LethalLevelLoader] lithiumscene.lethalbundle Loaded (64.26s)!
+[Info   :LethalLevelLoader] Moonextras.lethalbundle Loaded (64.28s)!
+[Info   :LethalLevelLoader] Moonextras2.lethalbundle Loaded (64.29s)!
+[Info   :LethalLevelLoader] hydrenescene.lethalbundle Loaded (64.29s)!
+[Info   :LethalLevelLoader] motra.lethalbundle Loaded (64.32s)!
+[Info   :LethalLevelLoader] pandoramusmoon.lethalbundle Loaded (64.33s)!
+[Info   :LethalLevelLoader] krytescene.lethalbundle Loaded (64.33s)!
+[Info   :LethalLevelLoader] makronscene.lethalbundle Loaded (64.33s)!
+[Info   :LethalLevelLoader] mazonlevel.lethalbundle Loaded (64.33s)!
+[Info   :LethalLevelLoader] junicscenes.lethalbundle Loaded (64.33s)!
+[Info   :LethalLevelLoader] narcotic.lethalbundle Loaded (64.34s)!
+[Info   :LethalLevelLoader] polarus.lethalbundle Loaded (64.37s)!
+[Info   :LethalLevelLoader] praetormoon.lethalbundle Loaded (64.38s)!
+[Info   :LethalLevelLoader] oldred.lethalbundle Loaded (64.64s)!
+[Info   :LethalLevelLoader] prismmoon.lethalbundle Loaded (64.65s)!
+[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Loaded (64.65s)!
+[Info   :LethalLevelLoader] lecaroscene.lethalbundle Loaded (64.65s)!
+[Info   :LethalLevelLoader] motrascene.lethalbundle Loaded (64.65s)!
+[Info   :LethalLevelLoader] oldredscenes.lethalbundle Loaded (64.65s)!
+[Info   :LethalLevelLoader] grandarmoryinterior.lethalbundle Loaded (65.93s)!
+[Info   :LethalLevelLoader] gratarscenes.lethalbundle Loaded (65.93s)!
+[Info   :LethalLevelLoader] praetorscene.lethalbundle Loaded (65.93s)!
+[Info   :LethalLevelLoader] rockwellmoon.lethalbundle Loaded (65.97s)!
+[Info   :LethalLevelLoader] prismscene.lethalbundle Loaded (65.97s)!
+[Info   :LethalLevelLoader] repress.lethalbundle Loaded (65.98s)!
+[Info   :LethalLevelLoader] porcerin.lethalbundle Loaded (66.04s)!
+[Info   :LethalLevelLoader] infernisscenes.lethalbundle Loaded (66.04s)!
+[Info   :LethalLevelLoader] roart.lethalbundle Loaded (66.06s)!
+[Info   :LethalLevelLoader] ultimatummoon.lethalbundle Loaded (66.07s)!
+[Info   :LethalLevelLoader] narcoticscene.lethalbundle Loaded (66.07s)!
+[Info   :LethalLevelLoader] truth.lethalbundle Loaded (66.08s)!
+[Info   :LethalLevelLoader] rockwellscene.lethalbundle Loaded (66.08s)!
+[Info   :LethalLevelLoader] trite.lethalbundle Loaded (66.12s)!
+[Info   :LethalLevelLoader] porcerinscenes.lethalbundle Loaded (66.12s)!
+[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Loaded (66.12s)!
+[Info   :LethalLevelLoader] repressscene.lethalbundle Loaded (66.12s)!
+[Info   :LethalLevelLoader] museuminterior.lethalbundle Loaded (67.79s)!
+[Info   :LethalLevelLoader] bozoros.lethalbundle Loaded (68.10s)!
+[Info   :LethalLevelLoader] truthscene.lethalbundle Loaded (68.10s)!
+[Info   :LethalLevelLoader] circusfacility.lethalbundle Loaded (68.27s)!
+[Info   :LethalLevelLoader] utril.lethalbundle Loaded (68.30s)!
+[Info   :LethalLevelLoader] tritescene.lethalbundle Loaded (68.30s)!
+[Info   :LethalLevelLoader] spookymanor.lethalbundle Loaded (69.07s)!
+[Info   :LethalLevelLoader] utrilscene.lethalbundle Loaded (69.07s)!
+[Info   :LethalLevelLoader] genericinterior.lethalbundle Loaded (71.09s)!
+[Info   :LethalLevelLoader] roartscene.lethalbundle Loaded (71.09s)!
+[Info   :LethalLevelLoader] toystoreinterior.lethalbundle Loaded (73.32s)!
+[Info   :LethalLevelLoader] bozorosscene.lethalbundle Loaded (73.32s)!
+[Info   :LethalLevelLoader] polarusscenes.lethalbundle Loaded (73.32s)!
+[Info   :LethalLevelLoader] therubberrooms.lethalbundle Loaded (74.54s)!
+[Info   :LethalLevelLoader] playzone-interior.lethalbundle Loaded (77.83s)!
 [Info   :LethalLevelLoader] Finished Processing Bundles!
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Alcatras.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: AlcatrasExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Artmuseum.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ArtExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Asteroid13.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: Asteroid13ExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Asteroid14.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: Asteroid-14ExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Atlantica.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: AtlanticaExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Baykalmoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Baykal
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Berunah.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: BerunahExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Calist.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: CalistExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Calypsomoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_CalypsoMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Core.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: CoreExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Cosmocos.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: CosmocosExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Crowed.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: CrowedExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Cubatres.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: CubatresExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Demetrica.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: DemetricaExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Descent.lethalbundle
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Desolation.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: DesolationExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Empra.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: EmpraExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: End.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: TheEndExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Espiramoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_EspiraMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Etern.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: EternExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Faith.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: FaithExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Filitrios.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: FilitriosExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Fission.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: FissionExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Gloom.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: GloomExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Gratar.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: GratarExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Halationmoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_HalationMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Hydrene.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: HydreneExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Infernis.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: InfernisExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Junic.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: JunicExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Kryte.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: DreckExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Lecaro.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: LecaroExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Lithiummoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_LithiumMoon
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Makronmoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_MakronMoon
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Mazonmoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_MazonMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Levelduckstroid14.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: Duckstroid14Mod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Motra.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: MotraExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Narcotic.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: NarcoticExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Oldred.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: OldredExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Pandoramusmoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Pandoramus
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Polarus.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: PolarusExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Porcerin.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: PorcerinExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Praetormoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_PraetorMoon
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Prismmoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_KaleidosMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Repress.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: RepressExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Roart.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: RoartExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Rockwellmoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_RockwellMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Trite.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: TriteExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Truth.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: HyxExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Ultimatummoon.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_UltimatumMoon
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Utril.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: UtrilExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Bozoros.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: BozorosExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Artmuseumart.lethalbundle
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Atlanticdungeoninterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: AquaticDungeonMod
+[Info   :dev.ladyalice.dungenplus] Added DunGenExtender asset for AquaticDungeonFlow
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Cosmocositems.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: CosmocosItemsExtendedMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_grayapartments.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_GrayApps
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_ravenmanor.lethalbundle
@@ -549,17 +894,38 @@
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_Studio
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Dungeon_subsystem.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod_SubSystem
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Extendedmineshaft.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMineshaftMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Fracturedcomplex.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: FracturedComplexMod
 [Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Genericinterior.lethalbundle
 [Info   :LethalLevelLoader] Found ExtendedMod: GenericInteriorsMod
-[Info   :JacobG5.JLL] [User] Successfully Registered 3 JLLMods and 0 LevelPropertyOverrides.
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Grandarmoryinterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: GrandArmoryMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Greenhouseinterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: GreenhouseMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Museuminterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: MuseumInteriorMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Spookymanor.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: SpookyManorMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Therubberrooms.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: TheRubberRoomMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Toystoreinterior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ToyStoreMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Circusfacility.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: CircusFacilityExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Playzone-interior.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: PlayZoneExtendedMod
+[Info   :JacobG5.JLL] [User] Successfully Registered 29 JLLMods and 0 LevelPropertyOverrides.
 [Info   :LethalLevelLoader] LethalBundleManger Finished Requested Load
 [Info   :LethalLevelLoader] Custom Content Processed. Unlocking Main Menu.
 [Info   :ReservedFlashlightSlot-2.0.10] Initializing hotkeys.
 [Info   :ReservedWalkieSlot-2.0.7] Initializing hotkeys.
 [Info   :me.loaforc.soundapi] Starting AudioManager.
+[Info   :RuntimeIcons] Starting compute thread!
 [Info   :Lethal Company API] LC_API Started!
 [Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
-[Info   : Elads HUD] 87 plugins loaded
+[Info   : Elads HUD] 105 plugins loaded
 [Info   : Elads HUD] Plugin GUID: .LCMaxSoundsFix
 [Info   : Elads HUD] Plugin GUID: 1.Waga.JigglePhysicsPlugin
 [Info   : Elads HUD] Plugin GUID: ACS.AdditionalContentFramework
@@ -581,23 +947,28 @@
 [Info   : Elads HUD] Plugin GUID: Chaos.LCCutscene
 [Info   : Elads HUD] Plugin GUID: com.fumiko.CullFactory
 [Info   : Elads HUD] Plugin GUID: com.github.lethalcompanymodding.vertexlibrary
+[Info   : Elads HUD] Plugin GUID: MaxWasUnavailable.LethalModDataLib
+[Info   : Elads HUD] Plugin GUID: imabatby.lethallevelloader
+[Info   : Elads HUD] Plugin GUID: com.github.lethalcompanymodding.runtimeicons
 [Info   : Elads HUD] Plugin GUID: Zaggy1024.PathfindingLib
 [Info   : Elads HUD] Plugin GUID: com.github.teamxiaolan.dawnlib
 [Info   : Elads HUD] Plugin GUID: me.loaforc.soundapi
 [Info   : Elads HUD] Plugin GUID: com.github.teamxiaolan.dawnlib.compatibility
 [Info   : Elads HUD] Plugin GUID: com.github.teamxiaolan.dawnlib.dusk
 [Info   : Elads HUD] Plugin GUID: com.github.WhiteSpike.MoonDaySpeedMultiplierPatcher
-[Info   : Elads HUD] Plugin GUID: com.rune580.LethalCompanyInputUtils
 [Info   : Elads HUD] Plugin GUID: com.sigurd.csync
+[Info   : Elads HUD] Plugin GUID: com.rune580.LethalCompanyInputUtils
+[Info   : Elads HUD] Plugin GUID: WhiteSpike.InteractiveTerminalAPI
+[Info   : Elads HUD] Plugin GUID: com.malco.lethalcompany.moreshipupgrades
 [Info   : Elads HUD] Plugin GUID: com.willis.lc.lethalsettings
 [Info   : Elads HUD] Plugin GUID: CustomSounds
+[Info   : Elads HUD] Plugin GUID: Damir.longerDayMod
 [Info   : Elads HUD] Plugin GUID: dev.kittenji.NavMeshInCompany
-[Info   : Elads HUD] Plugin GUID: MaxWasUnavailable.LethalModDataLib
-[Info   : Elads HUD] Plugin GUID: imabatby.lethallevelloader
 [Info   : Elads HUD] Plugin GUID: dev.ladyalice.dungenplus
 [Info   : Elads HUD] Plugin GUID: dev.ladyalice.dungenplus.loadstonepatch
 [Info   : Elads HUD] Plugin GUID: dev.ladyalice.scarletmansion.foyer
 [Info   : Elads HUD] Plugin GUID: dev.ladyalice.scarletmansion.basement
+[Info   : Elads HUD] Plugin GUID: me.loaforc.facilitymeltdown
 [Info   : Elads HUD] Plugin GUID: FlipMods.ReservedItemSlotCore
 [Info   : Elads HUD] Plugin GUID: FlipMods.ReservedFlashlightSlot
 [Info   : Elads HUD] Plugin GUID: dev.ladyalice.scarletmansion
@@ -623,19 +994,33 @@
 [Info   : Elads HUD] Plugin GUID: io.daxcess.nojumpdelay
 [Info   : Elads HUD] Plugin GUID: JacobG5.JLL
 [Info   : Elads HUD] Plugin GUID: JacobG5.JLLItemModule
+[Info   : Elads HUD] Plugin GUID: JacobG5.WesleyMoons
 [Info   : Elads HUD] Plugin GUID: JacobG5.WesleyMoonScripts
 [Info   : Elads HUD] Plugin GUID: kerotein.YPlayBoombox
+[Info   : Elads HUD] Plugin GUID: Kittenji.FootballEntity
+[Info   : Elads HUD] Plugin GUID: Kittenji.HerobrineMod
 [Info   : Elads HUD] Plugin GUID: LC_API_V50
+[Info   : Elads HUD] Plugin GUID: LCBetterSaves
 [Info   : Elads HUD] Plugin GUID: LCSoundTool
+[Info   : Elads HUD] Plugin GUID: LeoLR.MoreItems
 [Info   : Elads HUD] Plugin GUID: LethalFashion
+[Info   : Elads HUD] Plugin GUID: pacoito.itolib
+[Info   : Elads HUD] Plugin GUID: LethalMatt.Bozoros
+[Info   : Elads HUD] Plugin GUID: LethalMatt.PlayZone
 [Info   : Elads HUD] Plugin GUID: LethalNetworkAPI
+[Info   : Elads HUD] Plugin GUID: me.swipez.melonloader.morecompany
 [Info   : Elads HUD] Plugin GUID: MaskedEnemyRework
 [Info   : Elads HUD] Plugin GUID: me.eladnlg.customhud
+[Info   : Elads HUD] Plugin GUID: Mhz.MoreHead
+[Info   : Elads HUD] Plugin GUID: Miodec.HideChat
 [Info   : Elads HUD] Plugin GUID: MoreItems
+[Info   : Elads HUD] Plugin GUID: MW.MagicWesleyInteriors
 [Info   : Elads HUD] Plugin GUID: Neekhaulas.Backrooms
 [Info   : Elads HUD] Plugin GUID: NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
+[Info   : Elads HUD] Plugin GUID: nomnomab.rollinggiant
 [Info   : Elads HUD] Plugin GUID: NoteBoxz.NotezyLib
-[Info   : Elads HUD] Plugin GUID: pacoito.itolib
+[Info   : Elads HUD] Plugin GUID: Piggy.LCOffice
+[Info   : Elads HUD] Plugin GUID: Piggy.PiggyVarietyMod
 [Info   : Elads HUD] Plugin GUID: qwbarch.Mirage.Core
 [Info   : Elads HUD] Plugin GUID: Scopophobia
 [Info   : Elads HUD] Plugin GUID: SCPCBDunGen
@@ -644,30 +1029,68 @@
 [Info   : Elads HUD] Plugin GUID: taffyko.BetterSprayPaint
 [Info   : Elads HUD] Plugin GUID: TestAccount666.TestAccountCore
 [Info   : Elads HUD] Plugin GUID: VirusTLNR.MaskedInvisFix
-[Info   : Elads HUD] Plugin GUID: WhiteSpike.InteractiveTerminalAPI
 [Info   : Elads HUD] Plugin GUID: XuuXiaolan.SoftMaskKiller
 [Info   : Elads HUD] Plugin GUID: Yorimor.CustomStoryLogs
 [Info   :me.loaforc.soundapi] Splash screens done! Continuing pipeline
 [Warning:me.loaforc.soundapi] The game will freeze for a moment!
 [Info   :me.loaforc.soundapi] (Step 5) All file reads are done, waiting for the audio clips conversions.
-[Info   :me.loaforc.soundapi] (Step 6) Took 3ms to finish loading audio clips from files
-[Info   :me.loaforc.soundapi] Entire load process took an effective 8ms
-[Info   :YPlayBoombox] Successfully downloaded tools
-[Info   :LethalLevelLoader] baykalscene.lethalbundle Unloaded (4.52s)
-[Info   :LethalLevelLoader] calypsolevel.lethalbundle Unloaded (4.54s)
-[Info   :LethalLevelLoader] espirascene.lethalbundle Unloaded (4.56s)
-[Info   :LethalLevelLoader] halationscene.lethalbundle Unloaded (4.60s)
-[Info   :LethalLevelLoader] lithiumscene.lethalbundle Unloaded (4.61s)
-[Info   :LethalLevelLoader] makronscene.lethalbundle Unloaded (4.62s)
-[Info   :LethalLevelLoader] mazonlevel.lethalbundle Unloaded (4.63s)
-[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Unloaded (4.64s)
-[Info   :LethalLevelLoader] praetorscene.lethalbundle Unloaded (4.64s)
-[Info   :LethalLevelLoader] prismscene.lethalbundle Unloaded (4.64s)
-[Info   :LethalLevelLoader] rockwellscene.lethalbundle Unloaded (4.76s)
-[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Unloaded (4.77s)
+[Info   :me.loaforc.soundapi] (Step 6) Took 5ms to finish loading audio clips from files
+[Info   :me.loaforc.soundapi] Entire load process took an effective 35ms
+[Info   :LethalLevelLoader] alcatrasscene.lethalbundle Unloaded (32.21s)
+[Info   :LethalLevelLoader] artmuseumscene.lethalbundle Unloaded (32.24s)
+[Info   :LethalLevelLoader] asteroid13scenes.lethalbundle Unloaded (32.26s)
+[Info   :LethalLevelLoader] asteroid14scene.lethalbundle Unloaded (32.29s)
+[Info   :LethalLevelLoader] atlanticascenes.lethalbundle Unloaded (32.31s)
+[Info   :LethalLevelLoader] baykalscene.lethalbundle Unloaded (32.33s)
+[Info   :LethalLevelLoader] berunahscene.lethalbundle Unloaded (32.47s)
+[Info   :LethalLevelLoader] calistscene.lethalbundle Unloaded (33.33s)
+[Info   :LethalLevelLoader] calypsolevel.lethalbundle Unloaded (33.36s)
+[Info   :LethalLevelLoader] corescene.lethalbundle Unloaded (33.38s)
+[Info   :LethalLevelLoader] cosmocosscene.lethalbundle Unloaded (33.42s)
+[Info   :LethalLevelLoader] crowedscene.lethalbundle Unloaded (33.44s)
+[Info   :LethalLevelLoader] cubatresscene.lethalbundle Unloaded (33.46s)
+[Info   :LethalLevelLoader] demetricascene.lethalbundle Unloaded (33.49s)
+[Info   :LethalLevelLoader] descentscene.lethalbundle Unloaded (33.52s)
+[Info   :LethalLevelLoader] desolationscenes.lethalbundle Unloaded (33.54s)
+[Info   :LethalLevelLoader] emprascene.lethalbundle Unloaded (33.58s)
+[Info   :LethalLevelLoader] endscene.lethalbundle Unloaded (33.60s)
+[Info   :LethalLevelLoader] espirascene.lethalbundle Unloaded (33.62s)
+[Info   :LethalLevelLoader] eternscenes.lethalbundle Unloaded (33.65s)
+[Info   :LethalLevelLoader] faithscene.lethalbundle Unloaded (33.68s)
+[Info   :LethalLevelLoader] filitriosscene.lethalbundle Unloaded (33.72s)
+[Info   :LethalLevelLoader] fissionscenes.lethalbundle Unloaded (33.74s)
+[Info   :LethalLevelLoader] gloomscenes.lethalbundle Unloaded (33.76s)
+[Info   :LethalLevelLoader] gratarscenes.lethalbundle Unloaded (33.79s)
+[Info   :LethalLevelLoader] halationscene.lethalbundle Unloaded (33.81s)
+[Info   :LethalLevelLoader] hydrenescene.lethalbundle Unloaded (33.83s)
+[Info   :LethalLevelLoader] infernisscenes.lethalbundle Unloaded (33.86s)
+[Info   :LethalLevelLoader] junicscenes.lethalbundle Unloaded (33.88s)
+[Info   :LethalLevelLoader] krytescene.lethalbundle Unloaded (33.90s)
+[Info   :LethalLevelLoader] lecaroscene.lethalbundle Unloaded (33.92s)
+[Info   :LethalLevelLoader] lithiumscene.lethalbundle Unloaded (33.94s)
+[Info   :LethalLevelLoader] makronscene.lethalbundle Unloaded (33.97s)
+[Info   :LethalLevelLoader] mazonlevel.lethalbundle Unloaded (33.98s)
+[Info   :LethalLevelLoader] Moonextras2.lethalbundle Unloaded (34.00s)
+[Info   :LethalLevelLoader] motrascene.lethalbundle Unloaded (34.01s)
+[Info   :LethalLevelLoader] narcoticscene.lethalbundle Unloaded (34.05s)
+[Info   :LethalLevelLoader] oldredscenes.lethalbundle Unloaded (34.06s)
+[Info   :LethalLevelLoader] pandoramusscene.lethalbundle Unloaded (34.07s)
+[Info   :LethalLevelLoader] polarusscenes.lethalbundle Unloaded (34.11s)
+[Info   :LethalLevelLoader] porcerinscenes.lethalbundle Unloaded (34.13s)
+[Info   :LethalLevelLoader] praetorscene.lethalbundle Unloaded (34.14s)
+[Info   :LethalLevelLoader] prismscene.lethalbundle Unloaded (34.14s)
+[Info   :LethalLevelLoader] repressscene.lethalbundle Unloaded (34.18s)
+[Info   :LethalLevelLoader] roartscene.lethalbundle Unloaded (34.21s)
+[Info   :LethalLevelLoader] rockwellscene.lethalbundle Unloaded (34.23s)
+[Info   :LethalLevelLoader] tritescene.lethalbundle Unloaded (34.25s)
+[Info   :LethalLevelLoader] truthscene.lethalbundle Unloaded (34.26s)
+[Info   :LethalLevelLoader] ultimatumscene.lethalbundle Unloaded (34.27s)
+[Info   :LethalLevelLoader] utrilscene.lethalbundle Unloaded (34.30s)
+[Info   :LethalLevelLoader] bozorosscene.lethalbundle Unloaded (34.32s)
+[Info   :me.loaforc.facilitymeltdown] Succesfully registered 2 network prefabs.
 [Warning:YPlayBoombox] Potential mod conflicts found [DiscountAlert (discount.alert), DiscountSync (DiscountSync), ObjectVolumeController (FlipMods.ObjectVolumeController)]. It is recommended to disable these if there are compatibility issues with YPlayBoombox.
 [Info   :LethalLevelLoader] Registering Bundle Content!
-[Info   :LethalLevelLoader] Skipped Registering 68 NetworkObjects As They Were Already Registered.
+[Info   :LethalLevelLoader] Skipped Registering 1669 NetworkObjects As They Were Already Registered.
 [Info   :Jordo.NeedyCats] Added NeedyCats prefabs to Network Manager.
 [Info   :LethalThings] Found conductive scrap [LungApparatus]
 [Info   :LethalThings] Found conductive scrap [PatcherGunItem]
@@ -702,24 +1125,256 @@
 [Info   :LethalThings] Found conductive scrap [CaveDwellerEnemy]
 [Info   :LethalThings] Found conductive scrap [ZeddogPlushie]
 [Info   :LethalThings] Found conductive scrap [OuijaBoard]
+[Info   :LethalThings] Found conductive scrap [UpturnedApparatus]
+[Info   :LethalThings] Found conductive scrap [AltSoda]
+[Info   :LethalThings] Found conductive scrap [Coin]
+[Info   :LethalThings] Found conductive scrap [GenericSoda]
+[Info   :LethalThings] Found conductive scrap [HarvestSoda]
+[Info   :LethalThings] Found conductive scrap [MorvSoda]
+[Info   :LethalThings] Found conductive scrap [NikkiSoda]
+[Info   :LethalThings] Found conductive scrap [OditySoda]
+[Info   :LethalThings] Found conductive scrap [ScrewDriver]
+[Info   :LethalThings] Found conductive scrap [SeichiSoda]
+[Info   :LethalThings] Found conductive scrap [Toolbox]
+[Info   :LethalThings] Found conductive scrap [UpturnedApparatusTurnedOff]
+[Info   :LethalThings] Found conductive scrap [WebleySoda]
+[Info   :LethalThings] Found conductive scrap [Wrench]
+[Info   :LethalThings] Found conductive scrap [XuSoda]
+[Info   :LethalThings] Found conductive scrap [BozorosApparatus]
+[Info   :LethalThings] Found conductive scrap [BeholdersEye]
+[Info   :LethalThings] Found conductive scrap [PlasmaLungApparatus]
+[Info   :LethalThings] Found conductive scrap [ThePainting]
+[Info   :LethalThings] Found conductive scrap [BeholdersEyeOff]
+[Info   :LethalThings] Found conductive scrap [DungeonKey]
+[Info   :LethalThings] Found conductive scrap [ForgottenLog1Prefab]
+[Info   :LethalThings] Found conductive scrap [ForgottenLog2Prefab]
+[Info   :LethalThings] Found conductive scrap [ForgottenLog3Prefab]
+[Info   :LethalThings] Found conductive scrap [PlasmaLungApparatusTurnedOff]
+[Info   :LethalThings] Found conductive scrap [ThePaintingDisabled]
+[Info   :LethalThings] Found conductive scrap [GreenLungApparatus]
+[Info   :LethalThings] Found conductive scrap [AccidentLog1Prefab]
+[Info   :LethalThings] Found conductive scrap [AccidentLog2Prefab]
+[Info   :LethalThings] Found conductive scrap [AccidentLog3Prefab]
+[Info   :LethalThings] Found conductive scrap [AccidentLog4Prefab]
+[Info   :LethalThings] Found conductive scrap [BananaPrefab]
+[Info   :LethalThings] Found conductive scrap [BatteryPrefab]
+[Info   :LethalThings] Found conductive scrap [BigNutPrefab]
+[Info   :LethalThings] Found conductive scrap [BigRedButtonExplosivePrefab]
+[Info   :LethalThings] Found conductive scrap [BigRedButtonPrefab]
+[Info   :LethalThings] Found conductive scrap [BigScrewPrefab]
+[Info   :LethalThings] Found conductive scrap [BIOHXNV7Prefab]
+[Info   :LethalThings] Found conductive scrap [Birdcage]
+[Info   :LethalThings] Found conductive scrap [BitcoinPrefab]
+[Info   :LethalThings] Found conductive scrap [BloodyLungApparatusDisable]
+[Info   :LethalThings] Found conductive scrap [BloodySawblade]
+[Info   :LethalThings] Found conductive scrap [BronzeTrophyPrefab]
+[Info   :LethalThings] Found conductive scrap [Bucket]
+[Info   :LethalThings] Found conductive scrap [Calculator]
+[Info   :LethalThings] Found conductive scrap [CandleHolderPrefab]
+[Info   :LethalThings] Found conductive scrap [Cannister]
+[Info   :LethalThings] Found conductive scrap [ChainsawPrefab]
+[Info   :LethalThings] Found conductive scrap [Chisel]
+[Info   :LethalThings] Found conductive scrap [CircuitBoardPrefab]
+[Info   :LethalThings] Found conductive scrap [CircularSawPrefab]
+[Info   :LethalThings] Found conductive scrap [CoilPrefab]
+[Info   :LethalThings] Found conductive scrap [CopperGearPrefab]
+[Info   :LethalThings] Found conductive scrap [CopperWiringPrefab]
+[Info   :LethalThings] Found conductive scrap [CornerPipePrefab]
+[Info   :LethalThings] Found conductive scrap [CosmicLungApparatusDisabled]
+[Info   :LethalThings] Found conductive scrap [CrankshaftPrefab]
+[Info   :LethalThings] Found conductive scrap [CrescentofCursesPrefab]
+[Info   :LethalThings] Found conductive scrap [CrystalinePickaxe]
+[Info   :LethalThings] Found conductive scrap [CunninghamLog1Prefab]
+[Info   :LethalThings] Found conductive scrap [CunninghamLog2Prefab]
+[Info   :LethalThings] Found conductive scrap [CunninghamLog3Prefab]
+[Info   :LethalThings] Found conductive scrap [CunninghamLog4Prefab]
+[Info   :LethalThings] Found conductive scrap [CursedCoinPrefab]
+[Info   :LethalThings] Found conductive scrap [DemonCandlePrefab]
+[Info   :LethalThings] Found conductive scrap [Eggcontainer]
+[Info   :LethalThings] Found conductive scrap [FireExtinguisherPrefab]
+[Info   :LethalThings] Found conductive scrap [FlintlockPrefab]
+[Info   :LethalThings] Found conductive scrap [FlowPipePrefab]
+[Info   :LethalThings] Found conductive scrap [ForgottenLog4Prefab]
+[Info   :LethalThings] Found conductive scrap [Freezerbox]
+[Info   :LethalThings] Found conductive scrap [FrogPrefab]
+[Info   :LethalThings] Found conductive scrap [GasMaskPrefab]
+[Info   :LethalThings] Found conductive scrap [GasTankPrefab]
+[Info   :LethalThings] Found conductive scrap [GeigercounterPrefab]
+[Info   :LethalThings] Found conductive scrap [GeneratorPrefab]
+[Info   :LethalThings] Found conductive scrap [GeoffreyLog1]
+[Info   :LethalThings] Found conductive scrap [GeoffreyLog2Prefab]
+[Info   :LethalThings] Found conductive scrap [GeoffreyLog3Prefab]
+[Info   :LethalThings] Found conductive scrap [GeoffreyLog4Prefab]
+[Info   :LethalThings] Found conductive scrap [GeoffreyLog5Prefab]
+[Info   :LethalThings] Found conductive scrap [GlassEyePrefab]
+[Info   :LethalThings] Found conductive scrap [GloomLoggingPosterPrefab]
+[Info   :LethalThings] Found conductive scrap [Goldchalice]
+[Info   :LethalThings] Found conductive scrap [GoldenBoulder]
+[Info   :LethalThings] Found conductive scrap [GoldenDevice]
+[Info   :LethalThings] Found conductive scrap [GoldenHoneyBear]
+[Info   :LethalThings] Found conductive scrap [GoldenMaskPrefab]
+[Info   :LethalThings] Found conductive scrap [GoldTrophy]
+[Info   :LethalThings] Found conductive scrap [GreenTestTubePrefab]
+[Info   :LethalThings] Found conductive scrap [HammerPrefab]
+[Info   :LethalThings] Found conductive scrap [HandDrillPrefab]
+[Info   :LethalThings] Found conductive scrap [HaroldHammer]
+[Info   :LethalThings] Found conductive scrap [HarringronCrashLog]
+[Info   :LethalThings] Found conductive scrap [HarringronResearch1]
+[Info   :LethalThings] Found conductive scrap [HarringronResearch2]
+[Info   :LethalThings] Found conductive scrap [HarringronResearch3]
+[Info   :LethalThings] Found conductive scrap [HarringronResearch4]
+[Info   :LethalThings] Found conductive scrap [HarringtonLog1Prefab]
+[Info   :LethalThings] Found conductive scrap [HarringtonLog2Prefab]
+[Info   :LethalThings] Found conductive scrap [HarringtonLog3Prefab]
+[Info   :LethalThings] Found conductive scrap [HarringtonLog4Prefab]
+[Info   :LethalThings] Found conductive scrap [HeavyFlashlight]
+[Info   :LethalThings] Found conductive scrap [IronGearPrefab]
+[Info   :LethalThings] Found conductive scrap [IronIngotPrefab]
+[Info   :LethalThings] Found conductive scrap [JewelBoxPrefab]
+[Info   :LethalThings] Found conductive scrap [JewelCasePrefab]
+[Info   :LethalThings] Found conductive scrap [Laptop]
+[Info   :LethalThings] Found conductive scrap [LithiumContainerPrefab]
+[Info   :LethalThings] Found conductive scrap [MetalDetectorPrefab]
+[Info   :LethalThings] Found conductive scrap [MetalRod]
+[Info   :LethalThings] Found conductive scrap [MetalSkull]
+[Info   :LethalThings] Found conductive scrap [Microphone]
+[Info   :LethalThings] Found conductive scrap [Microwave]
+[Info   :LethalThings] Found conductive scrap [Minecart]
+[Info   :LethalThings] Found conductive scrap [Mortarhammer]
+[Info   :LethalThings] Found conductive scrap [NutcrackerEyePrefab]
+[Info   :LethalThings] Found conductive scrap [OilBarrelPrefab]
+[Info   :LethalThings] Found conductive scrap [OilCanPrefab]
+[Info   :LethalThings] Found conductive scrap [OilLanternPrefab]
+[Info   :LethalThings] Found conductive scrap [OldCandleHolder]
+[Info   :LethalThings] Found conductive scrap [Oldchest]
+[Info   :LethalThings] Found conductive scrap [OldComputerPrefab]
+[Info   :LethalThings] Found conductive scrap [OldPipePrefab]
+[Info   :LethalThings] Found conductive scrap [Oldradio]
+[Info   :LethalThings] Found conductive scrap [OS]
+[Info   :LethalThings] Found conductive scrap [Outlet]
+[Info   :LethalThings] Found conductive scrap [PickaxePrefab]
+[Info   :LethalThings] Found conductive scrap [PlasticBoxPrefab]
+[Info   :LethalThings] Found conductive scrap [PlasticStockPrefab]
+[Info   :LethalThings] Found conductive scrap [Pocketwatch]
+[Info   :LethalThings] Found conductive scrap [RadioactiveBarrelPrefab]
+[Info   :LethalThings] Found conductive scrap [RadioMessage1]
+[Info   :LethalThings] Found conductive scrap [RadioMessage2]
+[Info   :LethalThings] Found conductive scrap [RadioMessage3]
+[Info   :LethalThings] Found conductive scrap [RadioMessage4]
+[Info   :LethalThings] Found conductive scrap [RandomMinerRecording]
+[Info   :LethalThings] Found conductive scrap [RecoveredSecretLogPrefab]
+[Info   :LethalThings] Found conductive scrap [RitualDaggerPrefab]
+[Info   :LethalThings] Found conductive scrap [RobotArmPrefab]
+[Info   :LethalThings] Found conductive scrap [RoyalLungApparatusDisabled]
+[Info   :LethalThings] Found conductive scrap [RubberRollPrefab]
+[Info   :LethalThings] Found conductive scrap [RumBottlePrefab]
+[Info   :LethalThings] Found conductive scrap [SafePrefab]
+[Info   :LethalThings] Found conductive scrap [SawBladePrefab]
+[Info   :LethalThings] Found conductive scrap [Scalpel]
+[Info   :LethalThings] Found conductive scrap [Scissors]
+[Info   :LethalThings] Found conductive scrap [SecurityCameraPrefab]
+[Info   :LethalThings] Found conductive scrap [SievePrefab]
+[Info   :LethalThings] Found conductive scrap [SilverBugPrefab]
+[Info   :LethalThings] Found conductive scrap [SilverCoinPrefab]
+[Info   :LethalThings] Found conductive scrap [SilverKeyPrefab]
+[Info   :LethalThings] Found conductive scrap [CrystalineSledgehammer]
+[Info   :LethalThings] Found conductive scrap [SlotMachine]
+[Info   :LethalThings] Found conductive scrap [SmallPipePrefab]
+[Info   :LethalThings] Found conductive scrap [SOP]
+[Info   :LethalThings] Found conductive scrap [SpotlightPrefab]
+[Info   :LethalThings] Found conductive scrap [StaplerPrefab]
+[Info   :LethalThings] Found conductive scrap [SteelGearPrefab]
+[Info   :LethalThings] Found conductive scrap [SteelIngotPrefab]
+[Info   :LethalThings] Found conductive scrap [StunBatonPrefab]
+[Info   :LethalThings] Found conductive scrap [SulfurContainer]
+[Info   :LethalThings] Found conductive scrap [SyringePrefab]
+[Info   :LethalThings] Found conductive scrap [SyringeGunPrefab]
+[Info   :LethalThings] Found conductive scrap [TallCandlestickPrefab]
+[Info   :LethalThings] Found conductive scrap [TallLamp]
+[Info   :LethalThings] Found conductive scrap [TapePlayerLog1Prefab]
+[Info   :LethalThings] Found conductive scrap [TapePlayerLog2Prefab]
+[Info   :LethalThings] Found conductive scrap [TapePlayerLog3Prefab]
+[Info   :LethalThings] Found conductive scrap [TapePlayerLog4Prefab]
+[Info   :LethalThings] Found conductive scrap [TapePlayerProtocolWipeoutPrefab]
+[Info   :LethalThings] Found conductive scrap [Thermometer]
+[Info   :LethalThings] Found conductive scrap [Toaster]
+[Info   :LethalThings] Found conductive scrap [GreenLungApparatusDisabled]
+[Info   :LethalThings] Found conductive scrap [TranslatedMessage1]
+[Info   :LethalThings] Found conductive scrap [TranslatedMessage2]
+[Info   :LethalThings] Found conductive scrap [TranslatedMessage3]
+[Info   :LethalThings] Found conductive scrap [TranslatedMessage4]
+[Info   :LethalThings] Found conductive scrap [TypewriterPrefab]
+[Info   :LethalThings] Found conductive scrap [VintageRobot]
+[Info   :LethalThings] Found conductive scrap [VisitPrefab]
+[Info   :LethalThings] Found conductive scrap [Watch]
+[Info   :LethalThings] Found conductive scrap [WrenchPrefab]
 [Info   :LethalThings] Found conductive scrap [MAKGoldChunk]
 [Info   :LethalThings] Found conductive scrap [MAKGoldCoin]
 [Info   :LethalThings] Found conductive scrap [FlakShells]
 [Info   :LethalThings] Found conductive scrap [PulseMagazine]
 [Info   :LethalThings] Found conductive scrap [RocketPack]
 [Info   :LethalThings] Found conductive scrap [ShockCore]
+[Info   :LethalThings] Found conductive scrap [TeamGreenApparatus]
+[Info   :LethalThings] Found conductive scrap [TeamPurpleApparatus]
+[Info   :LethalThings] Found conductive scrap [MooCan]
+[Info   :LethalThings] Found conductive scrap [Riimote]
+[Info   :LethalThings] Found conductive scrap [TeamGreenBlaster]
+[Info   :LethalThings] Found conductive scrap [TeamPurpleBlaster]
+[Info   :LethalThings] Found conductive scrap [Duck]
+[Info   :LethalThings] Found conductive scrap [DuckDisabled]
+[Info   :LethalThings] Found conductive scrap [LungApparatusPink]
+[Info   :LethalThings] Found conductive scrap [LungApparatusPinkDisabled]
 [Info   :LethalThings] Found conductive scrap [CatFood]
+[Info   :LethalThings] Found conductive scrap [CosmicLungApparatus]
+[Info   :LethalThings] Found conductive scrap [LungApparatusBloody]
+[Info   :LethalThings] Found conductive scrap [RoyalLungApparatus]
+[Info   :LethalThings] Found conductive scrap [RedstoneTorch]
 [Info   :LethalThings] Found conductive scrap [NET_ScarletKey]
 [Info   :LethalThings] Found conductive scrap [NET_ScarletKnife]
 [Info   :LethalThings] Found conductive scrap [Dingus]
 [Info   :LethalThings] Found conductive scrap [GremlinEnergy]
 [Info   :LethalThings] Found conductive scrap [FlaregunAmmo]
 [Info   :LethalThings] Found conductive scrap [BonBon]
+[Info   :LethalThings] Found conductive scrap [Karma]
+[Info   :LethalThings] Found conductive scrap [GravityCoil]
+[Info   :LethalThings] Found conductive scrap [Phone]
+[Info   :LethalThings] Found conductive scrap [SlapHand]
+[Info   :LethalThings] Found conductive scrap [RevolverItem]
+[Info   :LethalThings] Found conductive scrap [M4Item]
+[Info   :LethalThings] Found conductive scrap [AxeItem]
+[Info   :LethalThings] Found conductive scrap [AxeItem]
 [Info   :MaxWasUnavailable.LethalModDataLib] Registering ModDataAttribute fields...
 [Info   :MaxWasUnavailable.LethalModDataLib] Hooking up save, load and delete events...
 [Info   :MaxWasUnavailable.LethalModDataLib] ModDataHandler initialised!
+[Info   :RuntimeIcons] Caching vertexes for 774 items!
+[Info   :MoreCompany] LANMenu startLAN Patched
 [Message:Lethal Company API] server pre-setup success
 [Info   :LethalThings] Spawning config manager
+[Info   :More Ship Upgrades] [LguStore] No save file found for slot 1. Creating new.
+[Info   :More Ship Upgrades] Random upgrades seed wasn't set, calculating a new seed..
+[Info   :More Ship Upgrades] [LguStore] SteamID is not available yet, waiting...
+[Info   :More Ship Upgrades] Registering key item under level 0 of Fusion Matter
+[Info   :More Ship Upgrades] Registering flashlight item under level 0 of Fusion Matter
+[Info   :More Ship Upgrades] Registering walkie-talkie item under level 0 of Fusion Matter
+[Info   :More Ship Upgrades] Registering shovel item under level 1 of Fusion Matter
+[Info   :More Ship Upgrades] Registering pro-flashlight item under level 1 of Fusion Matter
+[Info   :More Ship Upgrades] Registering belt bag item under level 2 of Fusion Matter
+[Info   :More Ship Upgrades] Registering radar-booster item under level 2 of Fusion Matter
+[Info   :More Ship Upgrades] [Hunter] Hoarding Bug set to be harvestable at level 1
+[Info   :More Ship Upgrades] [Hunter] Snare Flea set to be harvestable at level 1
+[Info   :More Ship Upgrades] [Hunter] Spore Lizard set to be harvestable at level 1
+[Info   :More Ship Upgrades] [Hunter] Bunker Spider set to be harvestable at level 2
+[Info   :More Ship Upgrades] [Hunter] Baboon Hawk set to be harvestable at level 2
+[Info   :More Ship Upgrades] [Hunter] Tulip Snake set to be harvestable at level 2
+[Info   :More Ship Upgrades] [Hunter] Kidnapper Fox set to be harvestable at level 2
+[Info   :More Ship Upgrades] [Hunter] Bracken set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Eyeless Dog set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Half/Thumper set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Manticoil set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Maneater set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Forest Giant set to be harvestable at level 4
+[Info   :More Ship Upgrades] [UpgradeBus] Successfully reconstructed with hosts config.
+[Info   :More Ship Upgrades] [LguStore] Successfully spawned 56 upgrade objects.
 [Info   :LethalLevelLoader] LethalLevelLoaderNetworkManager Spawned.
 [Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedLevels:
 1. 41 Experimentation (Vanilla)
@@ -735,18 +1390,57 @@
 11. 68 Artifice (Vanilla)
 12. 44 Liquidation (Vanilla)
 13. 5 Embrion (Vanilla)
-14. 196 Baykal (Custom)
-15. 96 Calypso (Custom)
-16. 61 Espira (Custom)
-17. 64 Halation (Custom)
-18. Kaleidos (Custom)
-19. 62 Lithium (Custom)
-20. 276 Makron (Custom)
-21. 6 Mazon (Custom)
-22. Pandoramus (Custom)
-23. 186 Praetor (Custom)
-24. 161 Rockwell (Custom)
-25. 646 Ultimatum (Custom)
+14. 135 Duckstroid-14 (Custom)
+15. 196 Baykal (Custom)
+16. 96 Calypso (Custom)
+17. 724 Descent (Custom)
+18. 61 Espira (Custom)
+19. 64 Halation (Custom)
+20. Kaleidos (Custom)
+21. 823 Bozoros (Custom)
+22. 62 Lithium (Custom)
+23. 76 Acidir (Custom)
+24. 240 Alcatras (Custom)
+25. 98 Galetry (Custom)
+26. 57 Asteroid-13 (Custom)
+27. 58 Hyve (Custom)
+28. 44 Atlantica (Custom)
+29. 288 Berunah (Custom)
+30. 235 Calist (Custom)
+31. 842 Core (Custom)
+32. 42 Cosmocos (Custom)
+33. 328 Crowd (Custom)
+34. 537 Cubatres (Custom)
+35. 354 Demetrica (Custom)
+36. 48 Desolation (Custom)
+37. 164 Dreck (Custom)
+38. 555 Empra (Custom)
+39. End (Custom)
+40. 154 Etern (Custom)
+41. 29 Faith (Custom)
+42. 141 Filitrios (Custom)
+43. 25 Fission-C (Custom)
+44. 36 Gloom (Custom)
+45. 147 Gratar (Custom)
+46. 4 Thalasso (Custom)
+47. -42 Hyx (Custom)
+48. 46 Infernis (Custom)
+49. 84 Junic (Custom)
+50. 35 Lecaro (Custom)
+51. 234 Motra (Custom)
+52. 495 Narcotic (Custom)
+53. 134 Oldred (Custom)
+54. 94 Polarus (Custom)
+55. 648 Repress (Custom)
+56. 398 Roart (Custom)
+57. 132 Trite (Custom)
+58. 67 Utril (Custom)
+59. 276 Makron (Custom)
+60. 6 Mazon (Custom)
+61. Pandoramus (Custom)
+62. 186 Praetor (Custom)
+63. 161 Rockwell (Custom)
+64. 646 Ultimatum (Custom)
 
 [Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedDungeonFlows:
 1. Facility (Level1Flow) (Vanilla)
@@ -759,12 +1453,24 @@
 8. Tower (TowerFlow) (Custom)
 9. Gray Apartments (GrayApartmentsFlow) (Custom)
 10. Zeranos Gray Apartments (GrayApartmentsFlowZ) (Custom)
-11. Raven Manor (RavenFlow) (Custom)
-12. Scarlet Basement (sdmBasement) (Custom)
-13. Scarlet Foyer (sdmFoyer) (Custom)
-14. SCP Foundation (SCPFlow) (Custom)
-15. Studio Floor (StudioFlow) (Custom)
-16. Sub Systems (SubSysFlow) (Custom)
+11. LC Office (OfficeDungeonFlow) (Custom)
+12. Circus Facility (CircusFacilityFlow) (Custom)
+13. Atlantean Citadel (AquaticDungeonFlow) (Custom)
+14. Fractured Complex (FracturedComplexFlow) (Custom)
+15. Greenhouse (GreenhouseFlow) (Custom)
+16. Art Gallery (MuseumInteriorFlow) (Custom)
+17. Expanded Mineshaft (Level3ButCoolFlow) (Custom)
+18. Grand Armory (GrandArmoryFlow) (Custom)
+19. Spooky manor (SpookyManorFlow) (Custom)
+20. PlayZone (PlayZoneDungeonFlow) (Custom)
+21. Raven Manor (RavenFlow) (Custom)
+22. Scarlet Basement (sdmBasement) (Custom)
+23. Scarlet Foyer (sdmFoyer) (Custom)
+24. SCP Foundation (SCPFlow) (Custom)
+25. Studio Floor (StudioFlow) (Custom)
+26. Sub Systems (SubSysFlow) (Custom)
+27. Rubber Rooms (RubberRoomsFlow) (Custom)
+28. Toy Store (ToystoreFlow) (Custom)
 
 [Info   :LethalLevelLoader] Initialized LLL Save File, Current Level Was: , Current Vanilla Save Is: LCSaveFile1
 [Info   :LethalLevelLoader] LethalLevelLoader Has Finished Initializing.
@@ -774,8 +1480,13 @@
 [Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
 [Info   :Jordo.NeedyCats] Added NeedyCats items to items list.
 [Info   :TooManyEmotes-2.3.13] Loading AudioManager preferences.
+[Info   :HerobrineMod] Added Network Behaviour Component
+[Info   :HerobrineMod] Registering ragdoll...
+[Info   :HerobrineMod] Registering spawnables in instance.
+[Info   :Rolling Giant] [RandomlyMoveWhileLooking]: moveSpeed: 6, moveAcceleration: 2, moveDeceleration: 0.5, rotateToLookAtPlayer: True, delayBeforeLookingAtPlayer: 2, lookAtPlayerDuration: 3, waitTimeMin: 1, waitTimeMax: 3, randomMoveTimeMin: 1, randomMoveTimeMax: 3, lookTimeBeforeAgro: 0
+[Message:Rolling Giant] Rolling Giant AI changed: RandomlyMoveWhileLooking
 [Info   : LethalLib] Adding 4 unlockables to unlockables list
-[Info   : LethalLib] Adding 8 items to terminal
+[Info   : LethalLib] Adding 15 items to terminal
 [Info   :TooManyEmotes-2.3.13] Initializing emote menu
 [Info   :TooManyEmotes-2.3.13] Loading AudioManager preferences.
 [Info   :TooManyEmotes-2.3.13] Loading ThirdPersonEmoteController preferences.
@@ -786,7 +1497,36 @@
 [Warning:SoftMaskKiller] Preventing SoftMask from erroring because of an exception: System.NullReferenceException: Object reference not set to an instance of an object
   at SoftMasking.SoftMask.DestroyMaterials () [0x00000] in <f6d400b2730f4700aa0acc85707a1316>:IL_0000 
   at (wrapper dynamic-method) SoftMasking.SoftMask.DMD<SoftMasking.SoftMask::OnDisable>(SoftMasking.SoftMask)
-[Info   : LethalLib] Found 28 prefabs to fix
+[Info   :MoreCompany] Resizing arrays from 4 to 32 with difference of 28
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Warning:dev.ladyalice.scarletmansion] Player 3 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
+[Info   : LethalLib] Found 60 prefabs to fix
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - finding suit prefab...
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - found suit prefab!
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - loading content modules...
@@ -823,6 +1563,7 @@
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applyed additional content module from: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits!
 [Info   :ACS.AdditionalContentFramework] AdditionalContentFramework - applied content modules!
 [Info   :ObjectVolumeController-1.1.2] ShipSpeaker volume: 0.58
+[Info   :JacobG5.WesleyMoons] Loading Wesley Data.
 [Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
 [Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
 [Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
@@ -833,7 +1574,28 @@
 [Info   :TooManyEmotes-2.3.13] Resetting unlocked emotes.
 [Info   :TooManyEmotes-2.3.13] Loaded Seed: 0
 [Warning:Classic Suit Restoration] Tried to add classic suit to unlockables list twice
-[Info   :TooManyEmotes-2.3.13] Rotating emote selection in store. Seed: 699646547
+[Info   :More Ship Upgrades] Registering key item under level 0 of Fusion Matter
+[Info   :More Ship Upgrades] Registering flashlight item under level 0 of Fusion Matter
+[Info   :More Ship Upgrades] Registering walkie-talkie item under level 0 of Fusion Matter
+[Info   :More Ship Upgrades] Registering shovel item under level 1 of Fusion Matter
+[Info   :More Ship Upgrades] Registering pro-flashlight item under level 1 of Fusion Matter
+[Info   :More Ship Upgrades] Registering belt bag item under level 2 of Fusion Matter
+[Info   :More Ship Upgrades] Registering radar-booster item under level 2 of Fusion Matter
+[Info   :More Ship Upgrades] [Hunter] Hoarding Bug set to be harvestable at level 1
+[Info   :More Ship Upgrades] [Hunter] Snare Flea set to be harvestable at level 1
+[Info   :More Ship Upgrades] [Hunter] Spore Lizard set to be harvestable at level 1
+[Info   :More Ship Upgrades] [Hunter] Bunker Spider set to be harvestable at level 2
+[Info   :More Ship Upgrades] [Hunter] Baboon Hawk set to be harvestable at level 2
+[Info   :More Ship Upgrades] [Hunter] Tulip Snake set to be harvestable at level 2
+[Info   :More Ship Upgrades] [Hunter] Kidnapper Fox set to be harvestable at level 2
+[Info   :More Ship Upgrades] [Hunter] Bracken set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Eyeless Dog set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Half/Thumper set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Manticoil set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Maneater set to be harvestable at level 3
+[Info   :More Ship Upgrades] [Hunter] Forest Giant set to be harvestable at level 4
+[Info   :More Ship Upgrades] [UpgradeBus] Successfully reconstructed with hosts config.
+[Info   :TooManyEmotes-2.3.13] Rotating emote selection in store. Seed: 767705656
 [Info   :JacobG5.JLL] [User] JLL Network Manager Initialized.
 [Info   :LethalFashion] SpawnUnlockable method found successfully.
 [Info   :LethalFashion] ID: 0, Name: Orange suit
@@ -883,6 +1645,8 @@
 [Info   :LethalFashion] ID: 44, Name: Pink Suit
 [Info   :LethalFashion] ID: 45, Name: White Suit
 [Info   :LethalFashion] ID: 46, Name: Black Suit
+[Info   :RuntimeIcons] LethalLib found, reading Items.scrapItems
+[Info   :RuntimeIcons] LethalLevelLoader found, reading PatchedContent.ExtendedItems
 [Info   :LCCutscene] Cutscene Manager initialized!
 [Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (1)
 [Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (3)
@@ -919,18 +1683,68 @@
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Masked!
 [Info   :MaskedEnemyRework] Found Flowerman!
 [Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Masked!
+[Info   :MaskedEnemyRework] Found Flowerman!
+[Info   :MaskedEnemyRework] Found Masked!
+[Message:Rolling Giant] Added RollingGiant to debug list
+[Message:Rolling Giant] Added RollingGiant to debug list
+[Message:Rolling Giant] Added RollingGiant to debug list
+[Warning:   DawnLib] Item Big red button is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] Item Gas tank is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] Item Toy Hammer is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] Item Gummy flashlight is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] Item Axe is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] Enemy Clay Surgeon is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] Enemy RollingGiant is already registered by the same creator to LethalContent. This is likely to cause issues.
+[Warning:   DawnLib] Enemy RollingGiant is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] MapObject Fern2 is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] MapObject DeadBush is already registered by the same creator to LethalContent. This is likely to cause issues.
 [Warning:   DawnLib] MapObject Fern2 is already registered by the same creator to LethalContent. This is likely to cause issues.
@@ -941,6 +1755,53 @@
 [Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_Start() Function To Prevent Conflicts
 [Info   :  Huntdown] Is the player the host: True.
 [Info   :Jordo.NeedyCats] Added NeedyCats to all levels.
+[Message:Rolling Giant] [HandleSpawnScrap] Adding scrap to Vow:12,March:12,Rend:12,Dine:12,Offense:12,Titan:12
+[Message:Rolling Giant] Added giant poster to 56 Vow with chance of 12
+[Message:Rolling Giant] Added giant poster to 61 March with chance of 12
+[Message:Rolling Giant] Added giant poster to 85 Rend with chance of 12
+[Message:Rolling Giant] Added giant poster to 7 Dine with chance of 12
+[Message:Rolling Giant] Added giant poster to 21 Offense with chance of 12
+[Message:Rolling Giant] Added giant poster to 8 Titan with chance of 12
+[Message:Rolling Giant] [HandleSpawnInSelection] Adding enemies to Vow:45,March:45,Rend:54,Dine:65,Offense:45,Titan:65
+[Message:Rolling Giant] Added RollingGiant to 56 Vow with chance of 45 (inside)
+[Message:Rolling Giant] Added RollingGiant to 61 March with chance of 45 (inside)
+[Message:Rolling Giant] Added RollingGiant to 85 Rend with chance of 54 (inside)
+[Message:Rolling Giant] Added RollingGiant to 7 Dine with chance of 65 (inside)
+[Message:Rolling Giant] Added RollingGiant to 21 Offense with chance of 45 (inside)
+[Message:Rolling Giant] Added RollingGiant to 8 Titan with chance of 65 (inside)
+[Info   :MoreCompany] Setting initial volume for 0 to 16
+[Info   :MoreCompany] Setting initial volume for 1 to 16
+[Info   :MoreCompany] Setting initial volume for 2 to 16
+[Info   :MoreCompany] Setting initial volume for 3 to 16
+[Info   :RuntimeIcons] Computing Unknown/Sticky note icon
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (4)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (5)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (6)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (7)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (8)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (9)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (10)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (11)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (12)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (13)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (14)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (15)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (16)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (17)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (18)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (19)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (20)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (21)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (22)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (23)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (24)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (25)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (26)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (27)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (28)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (29)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (30)
+[Info   :ReservedItemSlotCore-2.0.52] Initializing ReservedPlayerData for player: Player (31)
 [Info   :YPlayBoombox] [CONFIG] Pocket play [OFF]
 [Info   :YPlayBoombox] [CONFIG] Sync [OFF]
 [Info   :YPlayBoombox] [CONFIG] Boombox random color [OFF]
@@ -950,46 +1811,46 @@
 [Info   :ReservedItemSlotCore-2.0.52] Unlocking reserved item slot: walkie_talkie
 [Info   :TooManyEmotes-2.3.13] Loading ThirdPersonEmoteController preferences.
 [Info   :TooManyEmotes-2.3.13] Initializing local player.
-[Info   :TooManyEmotes-2.3.13] Rotating emote selection in store. Seed: 699646547
+[Info   :MoreCompany] Server received 3 cosmetics from 0 | Request All: True
+[Info   :MoreCompany] Sending 3 cosmetics to the server | Request All: True
+[Info   :Piggy.PiggyVarietyMod] Cloning Player Animation Controller
+[Warning:Lethal Company API] Asking all other players for their mod list..
+[Info   :TooManyEmotes-2.3.13] Rotating emote selection in store. Seed: 767705656
 [Info   :Solid's Library] Created SolidLibUtils. Scene is: 'SampleSceneRelay'
 [Info   :ReservedItemSlotCore-2.0.52] Unlocking reserved item slot: flashlight
 [Info   :ReservedItemSlotCore-2.0.52] Unlocking reserved item slot: walkie_talkie
-[Warning:Lethal Company API] Asking all other players for their mod list..
+[Info   :RuntimeIcons] Unknown/Sticky note now has a new icon
+[Info   :HerobrineMod] Registering spawnables in instance 'delayed'.
+[Info   :More Ship Upgrades] [LguStore] Loading SteamID: 76561198833591016
+[Info   :More Ship Upgrades] [LguStore] 76561198833591016 Was not found in save dictionary! Creating new save for ID.
 [Warning:dev.ladyalice.scarletmansion] Player 0 already has Scarlet player script. Skipping. YOU CAN PROBABLY IGNORE THIS!
 [Info   :LethalThings] Syncing configs!
-[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
-[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
-[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
-[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: AssuranceExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: Start, LoadNode Is: 220routeConfirm
-[Info   :LethalLevelLoader] LockedNodeEventTest: ExtendedLevel Is: AssuranceExtendedLevel (LethalLevelLoader.ExtendedLevel), CurrentNode Is: Start, LoadNode Is: 220routeConfirm
-[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
-[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
-[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
-[Info   :LethalLevelLoader] Saving Current SelectableLevel: 220 Assurance
-[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
-[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
-[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
-[Info   :TooManyEmotes-2.3.13] Saving TooManyEmotes emote menu preferences.
+[Info   :More Ship Upgrades] [LguStore] Applying loaded upgrades...
 [Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
 [Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
 [Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 2)
+[Info   :More Ship Upgrades] [LguStore] Save file already received from host, disregarding.
 [Info   :LethalLevelLoader] LoadedStatus Is Currently: (2 / 2)
 [Info   :YPlayBoombox] Sync request from Player #1
 [Info   :YPlayBoombox] [CONFIG] Pocket play [OFF] sent to Player #1
 [Info   :YPlayBoombox] [CONFIG] Sync [OFF] sent to Player #1
 [Info   :YPlayBoombox] [CONFIG] Boombox random color [OFF] sent to Player #1
 [Info   :YPlayBoombox] YPlayBoombox enabled for Player #1 [client: v2.3.9] [server: v2.3.9]
-[Info   :ReservedItemSlotCore-2.0.52] Receiving sync request from client: 3
+[Info   :me.loaforc.facilitymeltdown] Config sync request received from client: 1
+[Info   :ReservedItemSlotCore-2.0.52] Receiving sync request from client: 1
 [Info   :ReservedItemSlotCore-2.0.52] Sending slot to client: flashlight Unlocked: True
 [Info   :ReservedItemSlotCore-2.0.52] Sending slot to client: walkie_talkie Unlocked: True
-[Info   :ReservedItemSlotCore-2.0.52] Sending sync to client with id: 3
-[Info   :BetterStamina-1.5.7] Receiving config sync request from client with id: 3. Sending config sync to client.
-[Info   :TooManyEmotes-2.3.13] Receiving config sync request from client: 3
-[Info   : LethalLib] Config sync request received from client: 3
-[Info   :TooManyEmotes-2.3.13] Receiving sync request from client: 3
+[Info   :ReservedItemSlotCore-2.0.52] Sending sync to client with id: 1
+[Info   :BetterStamina-1.5.7] Receiving config sync request from client with id: 1. Sending config sync to client.
+[Info   :TooManyEmotes-2.3.13] Receiving config sync request from client: 1
+[Info   :MoreCompany] Server received 13 cosmetics from 1 | Request All: True
+[Info   :Rolling Giant] Config sync request received from client: 1
+[Info   :Rolling Giant] Config sync sent to client: 1
+[Info   : LethalLib] Config sync request received from client: 1
+[Info   :TooManyEmotes-2.3.13] Receiving sync request from client: 1
 [Info   :TooManyEmotes-2.3.13] Loading 0 unlocked emotes for player: Matheus
 [Info   :TooManyEmotes-2.3.13] Loading 100 emote credits for player: Matheus
-[Info   :ReservedItemSlotCore-2.0.52] Receiving sync held objects request from client with id: 3. 0 players are currently holding a reserved item.
+[Info   :ReservedItemSlotCore-2.0.52] Receiving sync held objects request from client with id: 1. 0 players are currently holding a reserved item.
 [Warning:Lethal Company API] Asking all other players for their mod list..
 [Warning:Lethal Company API] Matheus responded with these mods:
 .LCMaxSoundsFix
@@ -1013,23 +1874,28 @@ Ccode.SirenHead
 Chaos.LCCutscene
 com.fumiko.CullFactory
 com.github.lethalcompanymodding.vertexlibrary
+MaxWasUnavailable.LethalModDataLib
+imabatby.lethallevelloader
+com.github.lethalcompanymodding.runtimeicons
 Zaggy1024.PathfindingLib
 com.github.teamxiaolan.dawnlib
 me.loaforc.soundapi
 com.github.teamxiaolan.dawnlib.compatibility
 com.github.teamxiaolan.dawnlib.dusk
 com.github.WhiteSpike.MoonDaySpeedMultiplierPatcher
-com.rune580.LethalCompanyInputUtils
 com.sigurd.csync
+com.rune580.LethalCompanyInputUtils
+WhiteSpike.InteractiveTerminalAPI
+com.malco.lethalcompany.moreshipupgrades
 com.willis.lc.lethalsettings
 CustomSounds
+Damir.longerDayMod
 dev.kittenji.NavMeshInCompany
-MaxWasUnavailable.LethalModDataLib
-imabatby.lethallevelloader
 dev.ladyalice.dungenplus
 dev.ladyalice.dungenplus.loadstonepatch
 dev.ladyalice.scarletmansion.foyer
 dev.ladyalice.scarletmansion.basement
+me.loaforc.facilitymeltdown
 FlipMods.ReservedItemSlotCore
 FlipMods.ReservedFlashlightSlot
 dev.ladyalice.scarletmansion
@@ -1055,19 +1921,33 @@ ImmortalSnail
 io.daxcess.nojumpdelay
 JacobG5.JLL
 JacobG5.JLLItemModule
+JacobG5.WesleyMoons
 JacobG5.WesleyMoonScripts
 kerotein.YPlayBoombox
+Kittenji.FootballEntity
+Kittenji.HerobrineMod
 LC_API_V50
+LCBetterSaves
 LCSoundTool
+LeoLR.MoreItems
 LethalFashion
+pacoito.itolib
+LethalMatt.Bozoros
+LethalMatt.PlayZone
 LethalNetworkAPI
+me.swipez.melonloader.morecompany
 MaskedEnemyRework
 me.eladnlg.customhud
+Mhz.MoreHead
+Miodec.HideChat
 MoreItems
+MW.MagicWesleyInteriors
 Neekhaulas.Backrooms
 NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
+nomnomab.rollinggiant
 NoteBoxz.NotezyLib
-pacoito.itolib
+Piggy.LCOffice
+Piggy.PiggyVarietyMod
 qwbarch.Mirage.Core
 Scopophobia
 SCPCBDunGen
@@ -1076,40 +1956,62 @@ SoulDev
 taffyko.BetterSprayPaint
 TestAccount666.TestAccountCore
 VirusTLNR.MaskedInvisFix
-WhiteSpike.InteractiveTerminalAPI
 XuuXiaolan.SoftMaskKiller
 Yorimor.CustomStoryLogs
-[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
-[Info   :TooManyEmotes-2.3.13] [lipe] Performing emote: cheer
-[Info   :TooManyEmotes-2.3.13] Saving TooManyEmotes emote menu preferences.
+[Info   :Rolling Giant] [RandomlyMoveWhileLooking]: moveSpeed: 6, moveAcceleration: 2, moveDeceleration: 0.5, rotateToLookAtPlayer: True, delayBeforeLookingAtPlayer: 2, lookAtPlayerDuration: 3, waitTimeMin: 1, waitTimeMax: 3, randomMoveTimeMin: 1, randomMoveTimeMax: 3, lookTimeBeforeAgro: 0
+[Info   :Rolling Giant] Resetting all rolling giants!
+[Message:Rolling Giant] Rolling Giant AI changed: RandomlyMoveWhileLooking
 [Info   :LethalLevelLoader] Getting Random DungeonFlows!
 [Info   :LethalLevelLoader] ExtendedLevel <-> ExtendedDungeonFlow Dynamic Matching Report.
 
-Info For ExtendedLevel: AssuranceExtendedLevel | Planet Name: Assurance | Content Tags: Free, Canyon, Vanilla | Route Price: 0 | Current Weather: None
-Unviable ExtendedDungeonFlows: Facility, Facility, Tower, Zeranos Gray Apartments, Raven Manor, Scarlet Basement, Scarlet Foyer, SCP Foundation, Studio Floor
-Viable ExtendedDungeonFlows: Facility (300), Sub Systems (250), Storehouse (200), Mineshaft (40), Gray Apartments (25), Liminal Facility (10), Haunted Mansion (3)
+Info For ExtendedLevel: ExperimentationExtendedLevel | Planet Name: Experimentation | Content Tags: Free, Wasteland, Vanilla | Route Price: 0 | Current Weather: None
+Unviable ExtendedDungeonFlows: Facility, Facility, Zeranos Gray Apartments, Circus Facility, Expanded Mineshaft, Spooky manor, Raven Manor, Scarlet Basement, Scarlet Foyer, SCP Foundation
+Viable ExtendedDungeonFlows: Sub Systems (300), Fractured Complex (300), Storehouse (300), Facility (300), Studio Floor (50), Tower (50), Rubber Rooms (40), LC Office (35), Grand Armory (30), Gray Apartments (25), Toy Store (15), Atlantean Citadel (10), Liminal Facility (10), PlayZone (5), Greenhouse (3), Mineshaft (3), Art Gallery (1), Haunted Mansion (1)
 
 [Info   :LethalLevelLoader] Setting Random DungeonFlows!
 [Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_GenerateNewFloor() Function To Prevent Conflicts
 [Info   :dev.ladyalice.dungenplus] Did not load a DunGenExtenderer
 [Info   :LethalLevelLoader] Fire Exit Patch Report, Details Below;
 
-EntranceTeleport's Found, Assurance Contains 2 Entrances! ( 1 Fire Escapes) 
+EntranceTeleport's Found, Experimentation Contains 2 Entrances! ( 1 Fire Escapes) 
 Main Entrance: EntranceTeleportA (Entrance ID: 0)
 Alternate Entrance: EntranceTeleportB (Entrance ID: 1)
 Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawn rate Count From (1,1) To (1,1)
 
 
-[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Assurance ,Sub Systems ,Quota: 0 , Day: 1 , Weather: None
+[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Experimentation ,Sub Systems ,Quota: 0 , Day: 1 , Weather: None
 [Info   :  Huntdown] Storing values for scrap generated on new level.
 [Info   :VaiTerCebola] Encontrados 40 pontos de spawn. Spawning de 4 cebolas...
 [Info   :VaiTerCebola] 4 cebolas foram adicionadas ao mapa!
-[Info   :CullFactory] Generation has completed with seed 59565750.
-[Info   :CullFactory] Preparing tile information for SubSysFlow took 28.366ms
+[Info   :me.loaforc.facilitymeltdown] Creating MoonMapper!
+[Info   :me.loaforc.facilitymeltdown] Creating InteriorMapper!
+[Info   :me.loaforc.facilitymeltdown] A new RadiationSource was created, there is now: 1 radiators.
+[Info   :RuntimeIcons] Computing Vanilla/Apparatus icon
+[Info   :RuntimeIcons] Computing LethalLib/LethalLib/Arson Plush icon
+[Info   :RuntimeIcons] Computing Vanilla/Metal sheet icon
+[Info   :RuntimeIcons] Computing Vanilla/Metal sheet icon
+[Info   :RuntimeIcons] Computing Vanilla/Large axle icon
+[Info   :RuntimeIcons] Computing LethalLib/PiggyVarietyMod/Bullet icon
+[Info   :RuntimeIcons] Computing Vanilla/Easter egg icon
+[Info   :RuntimeIcons] Computing LethalLib/MoreItems/Banana peel icon
+[Info   :RuntimeIcons] Computing LethalLevelLoader/LC Office/Wrench icon
+[Info   :RuntimeIcons] Computing Vanilla/V-type engine icon
+[Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Lost Scavenger icon
+[Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Hoarding Bug Eggs icon
+[Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Data PC icon
+[Info   :RuntimeIcons] Computing LethalLib/MoreShipUpgrades/Pentagram icon
+[Info   :CullFactory] Generation has completed with seed 71153352.
+[Info   :CullFactory] Preparing tile information for SubSysFlow took 32.181ms
+[Info   :RuntimeIcons] Vanilla/Apparatus now has a new icon
+[Info   :RuntimeIcons] Vanilla/V-type engine now has a new icon
+[Info   :RuntimeIcons] LethalLevelLoader/LC Office/Wrench now has a new icon
+[Info   :RuntimeIcons] LethalLib/MoreItems/Banana peel now has a new icon
+[Info   :RuntimeIcons] Vanilla/Easter egg now has a new icon
+[Info   :RuntimeIcons] LethalLib/PiggyVarietyMod/Bullet now has a new icon
 [Info   :MaskedEnemyRework] Starting Round Manager
 [Info   :MaskedEnemyRework] no zombies :(
 [Info   :  Huntdown] Rolling for mission generation...
-[Info   :  Huntdown] Rolled 96 out of 100.
+[Info   :  Huntdown] Rolled 47 out of 100.
 [Info   :  Huntdown] Mission received: True.
 [Info   :  Huntdown] Calculating total weight of all missions...
 [Info   :  Huntdown] Adding Snare Flea's weight of 100 to total weight.
@@ -1191,162 +2093,142 @@ Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawn rate Count From (1,1) 
 [Info   :  Huntdown] Final total weight: 1164.
 [Info   :  Huntdown] Choosing random mission...
 [Info   :  Huntdown] Rolling for the mission Snare Flea.
-[Info   :  Huntdown] Rolled 521
+[Info   :  Huntdown] Rolled 843
 [Info   :  Huntdown] Rolling for the mission Bunker Spider.
-[Info   :  Huntdown] Rolled 421
+[Info   :  Huntdown] Rolled 743
 [Info   :  Huntdown] Rolling for the mission Hoarding Bug.
-[Info   :  Huntdown] Rolled 321
+[Info   :  Huntdown] Rolled 643
 [Info   :  Huntdown] Rolling for the mission Bracken.
-[Info   :  Huntdown] Rolled 271
+[Info   :  Huntdown] Rolled 593
 [Info   :  Huntdown] Rolling for the mission Thumper.
-[Info   :  Huntdown] Rolled 171
+[Info   :  Huntdown] Rolled 493
 [Info   :  Huntdown] Rolling for the mission Nutcracker.
-[Info   :  Huntdown] Rolled 121
+[Info   :  Huntdown] Rolled 443
 [Info   :  Huntdown] Rolling for the mission Masked.
-[Info   :  Huntdown] Rolled 46
+[Info   :  Huntdown] Rolled 368
 [Info   :  Huntdown] Rolling for the mission A Good Boy.
-[Info   :  Huntdown] Rolled 26
+[Info   :  Huntdown] Rolled 348
 [Info   :  Huntdown] Rolling for the mission Bug Mafia.
-[Info   :  Huntdown] Rolled -24
-[Info   :  Huntdown] Mission chosen: Bug Mafia.
+[Info   :  Huntdown] Rolled 298
 [Info   :  Huntdown] Rolling for the mission Infestation.
-[Info   :  Huntdown] Rolled -49
+[Info   :  Huntdown] Rolled 273
 [Info   :  Huntdown] Rolling for the mission Last Month's Interns.
-[Info   :  Huntdown] Rolled -64
+[Info   :  Huntdown] Rolled 258
 [Info   :  Huntdown] Rolling for the mission Butler.
-[Info   :  Huntdown] Rolled -114
+[Info   :  Huntdown] Rolled 208
 [Info   :  Huntdown] Rolling for the mission Maneater.
-[Info   :  Huntdown] Rolled -124
+[Info   :  Huntdown] Rolled 198
 [Info   :  Huntdown] Rolling for the mission Stabbin' Bros.
-[Info   :  Huntdown] Rolled -164
+[Info   :  Huntdown] Rolled 158
 [Info   :  Huntdown] Rolling for the mission Giant Size: Upgraded.
-[Info   :  Huntdown] Rolled -169
+[Info   :  Huntdown] Rolled 153
 [Info   :  Huntdown] Rolling for the mission Big Trouble Little Enemies.
-[Info   :  Huntdown] Rolled -174
+[Info   :  Huntdown] Rolled 148
 [Info   :  Huntdown] Rolling for the mission Who let the puppies out?.
-[Info   :  Huntdown] Rolled -179
+[Info   :  Huntdown] Rolled 143
 [Info   :  Huntdown] Rolling for the mission Baboon Gang.
-[Info   :  Huntdown] Rolled -219
+[Info   :  Huntdown] Rolled 103
 [Info   :  Huntdown] Rolling for the mission Facility Keeper.
-[Info   :  Huntdown] Rolled -234
+[Info   :  Huntdown] Rolled 88
 [Info   :  Huntdown] Rolling for the mission Lone Baboon Hawk.
-[Info   :  Huntdown] Rolled -304
+[Info   :  Huntdown] Rolled 18
 [Info   :  Huntdown] Rolling for the mission Dynamic Duo.
-[Info   :  Huntdown] Rolled -334
+[Info   :  Huntdown] Rolled -12
+[Info   :  Huntdown] Mission chosen: Dynamic Duo.
 [Info   :  Huntdown] Rolling for the mission Monstrous Den.
-[Info   :  Huntdown] Rolled -354
+[Info   :  Huntdown] Rolled -32
 [Info   :  Huntdown] Rolling for the mission Mask Outbreak.
-[Info   :  Huntdown] Rolled -360
+[Info   :  Huntdown] Rolled -38
 [Info   :  Huntdown] Rolling for the mission Left 4 Mask 2.
-[Info   :  Huntdown] Rolled -362
+[Info   :  Huntdown] Rolled -40
 [Info   :  Huntdown] Rolling for the mission Zombie.
-[Info   :  Huntdown] Rolled -437
+[Info   :  Huntdown] Rolled -115
 [Info   :  Huntdown] Rolling for the mission Last Year's Interns.
-[Info   :  Huntdown] Rolled -452
+[Info   :  Huntdown] Rolled -130
 [Info   :  Huntdown] Rolling for the mission Zombie Apocalypse.
-[Info   :  Huntdown] Rolled -460
+[Info   :  Huntdown] Rolled -138
 [Info   :  Huntdown] Rolling for the mission Boomba.
-[Info   :  Huntdown] Rolled -535
+[Info   :  Huntdown] Rolled -213
 [Info   :  Huntdown] Rolling for the mission Boombopocalypse.
-[Info   :  Huntdown] Rolled -543
-[Info   :  Huntdown] Attempting to generate mission 'Bug Mafia'.
+[Info   :  Huntdown] Rolled -221
+[Info   :  Huntdown] Attempting to generate mission 'Dynamic Duo'.
 [Info   :  Huntdown] Rolling for a random faraway vent...
-[Info   :  Huntdown] MainEntrancePos: (-10.10, -217.59, 69.90)
-[Info   :  Huntdown] 0VentPosEntrancePos: (5.65, -220.84, -14.10)
-[Info   :  Huntdown] 1VentPosEntrancePos: (-46.35, -220.84, -10.10)
-[Info   :  Huntdown] 2VentPosEntrancePos: (-21.35, -220.84, 89.90)
-[Info   :  Huntdown] 3VentPosEntrancePos: (49.65, -220.84, 45.90)
-[Info   :  Huntdown] 4VentPosEntrancePos: (1.65, -220.84, -53.10)
-[Info   :  Huntdown] longest dist: 123.6027
-[Info   :  Huntdown] midpoint: (-4.23, -219.22, 8.40)
-[Info   :  Huntdown] halfway dist: 61.80134
-[Info   :  Huntdown] 0VentPosEntrancePos: (5.65, -220.84, -14.10)
-[Info   :  Huntdown] dist: 85.52557
-[Info   :  Huntdown] halfwaydist 61.80134
-[Info   :  Huntdown] 1VentPosEntrancePos: (-46.35, -220.84, -10.10)
-[Info   :  Huntdown] dist: 87.88985
-[Info   :  Huntdown] halfwaydist 61.80134
-[Info   :  Huntdown] 2VentPosEntrancePos: (-21.35, -220.84, 89.90)
-[Info   :  Huntdown] 3VentPosEntrancePos: (49.65, -220.84, 45.90)
-[Info   :  Huntdown] dist: 64.47189
-[Info   :  Huntdown] halfwaydist 61.80134
-[Info   :  Huntdown] 4VentPosEntrancePos: (1.65, -220.84, -53.10)
-[Info   :  Huntdown] dist: 123.6027
-[Info   :  Huntdown] halfwaydist 61.80134
+[Info   :  Huntdown] MainEntrancePos: (-18.10, -217.59, 69.90)
+[Info   :  Huntdown] 0VentPosEntrancePos: (41.65, -220.84, -39.10)
+[Info   :  Huntdown] 1VentPosEntrancePos: (-45.35, -220.84, 105.90)
+[Info   :  Huntdown] 2VentPosEntrancePos: (5.65, -220.84, 33.90)
+[Info   :  Huntdown] 3VentPosEntrancePos: (29.65, -210.84, 1.90)
+[Info   :  Huntdown] 4VentPosEntrancePos: (18.65, -210.84, 17.90)
+[Info   :  Huntdown] 5VentPosEntrancePos: (48.65, -210.84, 17.90)
+[Info   :  Huntdown] longest dist: 124.3448
+[Info   :  Huntdown] midpoint: (11.77, -219.22, 15.40)
+[Info   :  Huntdown] halfway dist: 62.1724
+[Info   :  Huntdown] 0VentPosEntrancePos: (41.65, -220.84, -39.10)
+[Info   :  Huntdown] dist: 124.3448
+[Info   :  Huntdown] halfwaydist 62.1724
+[Info   :  Huntdown] 1VentPosEntrancePos: (-45.35, -220.84, 105.90)
+[Info   :  Huntdown] 2VentPosEntrancePos: (5.65, -220.84, 33.90)
+[Info   :  Huntdown] 3VentPosEntrancePos: (29.65, -210.84, 1.90)
+[Info   :  Huntdown] dist: 83.36443
+[Info   :  Huntdown] halfwaydist 62.1724
+[Info   :  Huntdown] 4VentPosEntrancePos: (18.65, -210.84, 17.90)
+[Info   :  Huntdown] dist: 64.03223
+[Info   :  Huntdown] halfwaydist 62.1724
+[Info   :  Huntdown] 5VentPosEntrancePos: (48.65, -210.84, 17.90)
+[Info   :  Huntdown] dist: 84.88303
+[Info   :  Huntdown] halfwaydist 62.1724
 [Info   :  Huntdown] Rolled 3 out of 4.
 [Info   :  Huntdown] Spawning mission targets...
-[Info   :  Huntdown] Spawning a single unnatural enemy of type: Hoarding bug
-[Info   :  Huntdown] Spawning a single unnatural enemy of type: Hoarding bug
-[Info   :  Huntdown] Spawning a single unnatural enemy of type: Hoarding bug
-[Info   :  Huntdown] Spawning a single unnatural enemy of type: Hoarding bug
-[Info   :  Huntdown] Spawning a single unnatural enemy of type: Hoarding bug
-[Info   :  Huntdown] Total enemies spawned: 5
-[Info   :  Huntdown] Mission 'Bug Mafia' generated successfully.
+[Info   :  Huntdown] Total enemies spawned: 2
+[Info   :  Huntdown] Mission 'Dynamic Duo' generated successfully.
 [Info   :Starlancer AI Fix] Finding outside AI nodes.
 [Info   :Starlancer AI Fix] Finding inside AI nodes.
 [Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
-[Info   :Starlancer AI Fix] Adding IVisibleThreat component to HoarderBug(Clone).
+[Info   :Starlancer AI Fix] Adding IVisibleThreat component to Crawler(Clone).
 [Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
-[Info   :Starlancer AI Fix] Adding IVisibleThreat component to HoarderBug(Clone).
-[Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
-[Info   :Starlancer AI Fix] Adding IVisibleThreat component to HoarderBug(Clone).
-[Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
-[Info   :Starlancer AI Fix] Adding IVisibleThreat component to HoarderBug(Clone).
-[Info   :Starlancer AI Fix] The Enemy Whitelist contains: Blob, Butler, Centipede, Crawler, Flowerman, HoarderBug, Nutcracker, SandSpider.
-[Info   :Starlancer AI Fix] Adding IVisibleThreat component to HoarderBug(Clone).
-[Info   :TooManyEmotes-2.3.13] Attempting to perform emote on local player.
-[Info   :TooManyEmotes-2.3.13] [lipe] Performing emote: hip_thrust
-[Info   :TooManyEmotes-2.3.13] Saving TooManyEmotes emote menu preferences.
-[Info   :TooManyEmotes-2.3.13] [lipe] Stopping emote.
-[Info   :TooManyEmotes-2.3.13] Receiving performing emote update from client: 3 Emote: hip_thrust
-[Info   :TooManyEmotes-2.3.13] [Matheus] Performing emote: hip_thrust
-[Info   :TooManyEmotes-2.3.13] [Matheus] Stopping emote.
-[Info   :Starlancer AI Fix] Chair(Clone) from the interior enemy list has died; 
-Previous interior power level is 4
-[Info   :Starlancer AI Fix] Removing Chair(Clone)'s power (1) from the RoundManager; 
-Current interior power level is 3
-[Info   :Starlancer AI Fix] DoublewingedBird(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 7
-[Info   :Starlancer AI Fix] Removing DoublewingedBird(Clone)'s power (1) from the RoundManager; 
-Current daytime power level is 6
-[Info   :Starlancer AI Fix] RedLocustBees(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 6
-[Info   :Starlancer AI Fix] Removing RedLocustBees(Clone)'s power (1) from the RoundManager; 
-Current daytime power level is 5
+[Info   :Starlancer AI Fix] Adding IVisibleThreat component to SandSpider(Clone).
+[Info   :RuntimeIcons] Vanilla/Large axle now has a new icon
+[Info   :RuntimeIcons] Computing Vanilla/Hive icon
+[Info   :RuntimeIcons] Vanilla/Metal sheet now has a new icon
+[Info   :RuntimeIcons] LethalLib/LethalLib/Arson Plush now has a new icon
+[Info   :RuntimeIcons] Vanilla/Hive now has a new icon
+[Info   :RuntimeIcons] Computing Unknown/Body icon
+[Info   :RuntimeIcons] Computing Unknown/Body icon
+[Info   :Rolling Giant] [RandomlyMoveWhileLooking]: moveSpeed: 6, moveAcceleration: 2, moveDeceleration: 0.5, rotateToLookAtPlayer: True, delayBeforeLookingAtPlayer: 2, lookAtPlayerDuration: 3, waitTimeMin: 1, waitTimeMax: 3, randomMoveTimeMin: 1, randomMoveTimeMax: 3, lookTimeBeforeAgro: 0
+[Info   :Rolling Giant] Resetting all rolling giants!
+[Message:Rolling Giant] Reverting sync
+[Info   :JacobG5.WesleyMoons] Saving Wesley Data.
 [Info   :Starlancer AI Fix] DoublewingedBird(Clone) from the daytime enemy list has died; 
 Previous daytime power level is 5
 [Info   :Starlancer AI Fix] Removing DoublewingedBird(Clone)'s power (1) from the RoundManager; 
 Current daytime power level is 4
-[Info   :Starlancer AI Fix] RedLocustBees(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 4
-[Info   :Starlancer AI Fix] Removing RedLocustBees(Clone)'s power (1) from the RoundManager; 
-Current daytime power level is 3
-[Info   :Starlancer AI Fix] GiantKiwi(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 3
-[Info   :Starlancer AI Fix] Removing GiantKiwi(Clone)'s power (2) from the RoundManager; 
-Current daytime power level is 1
 [Info   :Starlancer AI Fix] DoublewingedBird(Clone) from the daytime enemy list has died; 
-Previous daytime power level is 1
+Previous daytime power level is 4
 [Info   :Starlancer AI Fix] Removing DoublewingedBird(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 3
+[Info   :Starlancer AI Fix] DocileLocustBees(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 3
+[Info   :Starlancer AI Fix] Removing DocileLocustBees(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 2
+[Info   :Starlancer AI Fix] RedLocustBees(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 2
+[Info   :Starlancer AI Fix] Removing RedLocustBees(Clone)'s power (1) from the RoundManager; 
+Current daytime power level is 1
+[Info   :Starlancer AI Fix] DocileLocustBees(Clone) from the daytime enemy list has died; 
+Previous daytime power level is 1
+[Info   :Starlancer AI Fix] Removing DocileLocustBees(Clone)'s power (1) from the RoundManager; 
 Current daytime power level is 0
-[Info   :Starlancer AI Fix] HoarderBug(Clone) from the interior enemy list has died; 
-Previous interior power level is 3
-[Info   :Starlancer AI Fix] Removing HoarderBug(Clone)'s power (1) from the RoundManager; 
-Current interior power level is 2
-[Info   :Starlancer AI Fix] HoarderBug(Clone) from the interior enemy list has died; 
-Previous interior power level is 2
-[Info   :Starlancer AI Fix] Removing HoarderBug(Clone)'s power (1) from the RoundManager; 
-Current interior power level is 1
-[Info   :Starlancer AI Fix] HoarderBug(Clone) from the interior enemy list has died; 
-Previous interior power level is 1
-[Info   :Starlancer AI Fix] Removing HoarderBug(Clone)'s power (1) from the RoundManager; 
-Current interior power level is 0
-[Info   :Starlancer AI Fix] HoarderBug(Clone) from the interior enemy list has died; 
+[Info   :Starlancer AI Fix] SandSpider(Clone) from the interior enemy list has died; 
 Previous interior power level is 0
-[Info   :Starlancer AI Fix] Removing HoarderBug(Clone)'s power (1) from the RoundManager; 
+[Info   :Starlancer AI Fix] Removing SandSpider(Clone)'s power (2) from the RoundManager; 
 Current interior power level is 0
-[Info   :Starlancer AI Fix] HoarderBug(Clone) from the interior enemy list has died; 
+[Info   :Starlancer AI Fix] Crawler(Clone) from the interior enemy list has died; 
 Previous interior power level is 0
-[Info   :Starlancer AI Fix] Removing HoarderBug(Clone)'s power (1) from the RoundManager; 
+[Info   :Starlancer AI Fix] Removing Crawler(Clone)'s power (3) from the RoundManager; 
 Current interior power level is 0
-[Info   :FixPluginTypesSerialization] Restored original AssemblyNames list
+[Info   :  Huntdown] Mission 'Dynamic Duo'has been completed!
+[Info   :  Huntdown] Spawning default reward
+[Error  :  Huntdown] Calculation of new total scrap in level failed.
+NetworkManager is not listening, start a server or host before spawning objects
+[Info   :RuntimeIcons] Computing Vanilla/Ring icon
+[Info   :MoreCompany] LANMenu startLAN Patched

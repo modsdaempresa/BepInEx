@@ -154,7 +154,10 @@
     "Hawk.Purple",
     "Hawk.Green",
     "Hawk.Brown",
-    "Nutcracker.Pink"
+    "Nutcracker.Pink",
+    "LethalMatt.Bozoros.GoofyPuffer",
+    "LethalMatt.Bozoros.ClownGiant",
+    "LethalMatt.Bozoros.SantaButler"
   ],
   "knownMoons": [
     "41 Experimentation",
@@ -168,12 +171,51 @@
     "20 Adamance",
     "68 Artifice",
     "5 Embrion",
+    "135 Duckstroid-14",
     "196 Baykal",
     "96 Calypso",
+    "724 Descent",
     "61 Espira",
     "64 Halation",
     "Kaleidos",
+    "823 Bozoros",
     "62 Lithium",
+    "76 Acidir",
+    "240 Alcatras",
+    "98 Galetry",
+    "57 Asteroid-13",
+    "58 Hyve",
+    "44 Atlantica",
+    "288 Berunah",
+    "235 Calist",
+    "842 Core",
+    "42 Cosmocos",
+    "328 Crowd",
+    "537 Cubatres",
+    "354 Demetrica",
+    "48 Desolation",
+    "164 Dreck",
+    "555 Empra",
+    "End",
+    "154 Etern",
+    "29 Faith",
+    "141 Filitrios",
+    "25 Fission-C",
+    "36 Gloom",
+    "147 Gratar",
+    "4 Thalasso",
+    "-42 Hyx",
+    "46 Infernis",
+    "84 Junic",
+    "35 Lecaro",
+    "234 Motra",
+    "495 Narcotic",
+    "134 Oldred",
+    "94 Polarus",
+    "648 Repress",
+    "398 Roart",
+    "132 Trite",
+    "67 Utril",
     "276 Makron",
     "6 Mazon",
     "Pandoramus",
@@ -400,7 +442,8 @@
           "Butler.Blue",
           "Butler.Tan",
           "Butler.Green",
-          "Butler.Brown"
+          "Butler.Brown",
+          "LethalMatt.Bozoros.SantaButler"
         ],
         "defaultConfiguration": {
           "mapId": "",
@@ -436,6 +479,11 @@
               "skinId": "Butler.Tan",
               "indoorFrequency": 0.5,
               "outdoorFrequency": 0.5
+            },
+            {
+              "skinId": "LethalMatt.Bozoros.SantaButler",
+              "indoorFrequency": 0.0,
+              "outdoorFrequency": 0.0
             }
           ]
         },
@@ -632,7 +680,8 @@
           "Giant.Green",
           "Giant.White",
           "Giant.Yellow",
-          "Giant.Brown"
+          "Giant.Brown",
+          "LethalMatt.Bozoros.ClownGiant"
         ],
         "defaultConfiguration": {
           "mapId": "",
@@ -663,10 +712,40 @@
               "skinId": "Giant.Yellow",
               "indoorFrequency": 0.5,
               "outdoorFrequency": 0.5
+            },
+            {
+              "skinId": "LethalMatt.Bozoros.ClownGiant",
+              "indoorFrequency": 0.0,
+              "outdoorFrequency": 0.0
             }
           ]
         },
-        "mapConfigurations": []
+        "mapConfigurations": [
+          {
+            "mapId": "circus",
+            "outdoorVanillaFrequency": 0.0,
+            "indoorVanillaFrequency": 0.0,
+            "skinDistribution": [
+              {
+                "skinId": "LethalMatt.Bozoros.ClownGiant",
+                "indoorFrequency": 1.0,
+                "outdoorFrequency": 1.0
+              }
+            ]
+          },
+          {
+            "mapId": "fun",
+            "outdoorVanillaFrequency": 0.0,
+            "indoorVanillaFrequency": 0.0,
+            "skinDistribution": [
+              {
+                "skinId": "LethalMatt.Bozoros.ClownGiant",
+                "indoorFrequency": 1.0,
+                "outdoorFrequency": 1.0
+              }
+            ]
+          }
+        ]
       },
       {
         "enemyId": "LethalCompany.GhostGirl",
@@ -1269,13 +1348,19 @@
           "Spore.Indigo",
           "Spore.Pink",
           "Spore.White",
-          "Spore.Yellow"
+          "Spore.Yellow",
+          "LethalMatt.Bozoros.GoofyPuffer"
         ],
         "defaultConfiguration": {
           "mapId": "",
           "outdoorVanillaFrequency": 0.0,
           "indoorVanillaFrequency": 0.0,
           "skinDistribution": [
+            {
+              "skinId": "LethalMatt.Bozoros.GoofyPuffer",
+              "indoorFrequency": 0.0,
+              "outdoorFrequency": 0.0
+            },
             {
               "skinId": "Spore.Green",
               "indoorFrequency": 0.5,
@@ -1303,7 +1388,32 @@
             }
           ]
         },
-        "mapConfigurations": []
+        "mapConfigurations": [
+          {
+            "mapId": "circus",
+            "outdoorVanillaFrequency": 0.0,
+            "indoorVanillaFrequency": 0.0,
+            "skinDistribution": [
+              {
+                "skinId": "LethalMatt.Bozoros.GoofyPuffer",
+                "indoorFrequency": 1.0,
+                "outdoorFrequency": 1.0
+              }
+            ]
+          },
+          {
+            "mapId": "fun",
+            "outdoorVanillaFrequency": 0.0,
+            "indoorVanillaFrequency": 0.0,
+            "skinDistribution": [
+              {
+                "skinId": "LethalMatt.Bozoros.GoofyPuffer",
+                "indoorFrequency": 1.0,
+                "outdoorFrequency": 1.0
+              }
+            ]
+          }
+        ]
       },
       {
         "enemyId": "LethalCompany.Thumper",
